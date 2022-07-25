@@ -4,17 +4,17 @@ from typing import Any, Optional
 
 class LinearNet(nn.Module):
     '''
-    Deep Linear Networks. Setting num_layers = -1 gives a standard linear model
+    Deep Linear Networks. Setting num_hidden_layers = 0 gives a standard linear model
     '''
     def __init__(self, 
-                num_layers: int , 
+                num_hidden_layers: int , 
                 input_size: int , 
                 hidden_size: int ,
                 output_size: int,
                 first_layer_std: Optional[float] = None,
                 last_layer_std:  Optional[float] = None):
 
-        self.num_layers = num_layers
+        self.num_hidden_layers = num_hidden_layers
         self.input_size = input_size 
         self.hidden_size = hidden_size
         self.output_size = output_size
@@ -23,7 +23,7 @@ class LinearNet(nn.Module):
 
         super().__init__()
 
-        if num_layers == -1:
+        if num_hidden_layers == 0:
             # Specifies a standard linear model
             self.layers = nn.Sequential(nn.Linear(input_size,output_size, bias = False))
             # Initialize to zero
@@ -35,7 +35,7 @@ class LinearNet(nn.Module):
             
             layers_list.append(nn.Linear(input_size,hidden_size, bias = False))  #first layer
 
-            for _ in range(num_layers):
+            for _ in range(num_hidden_layers-1):
                 layers_list.append(nn.Linear(hidden_size,hidden_size, bias = False))  # hidden layers
             
             layers_list.append(nn.Linear(hidden_size,output_size, bias = False))  # final layer
@@ -53,7 +53,7 @@ class LinearNet(nn.Module):
         and the last layer weights are drawn from N(0, last_layer_std).
         The rest of the weights are initialized to the identity matrix.         
         '''
-        assert self.num_layers != -1
+        assert self.num_hidden_layers != 0
         
         with torch.no_grad():
             self.layers[0].weight.data = self.first_layer_std*torch.randn(self.layers[0].weight.size())
@@ -61,7 +61,7 @@ class LinearNet(nn.Module):
             self.layers[-1].weight.data = self.last_layer_std*torch.randn(self.layers[0].weight.size())
 
             # Initialize hidden layers to identity
-            for i in range(self.num_layers):
+            for i in range(self.num_hidden_layers-1):
                 self.layers[i+1].weight.data = torch.eye(self.layers[i+1].weight.size()[0])
 
     def forward(self, x):
@@ -75,14 +75,18 @@ class LinearNet(nn.Module):
         weight_matrix = None 
         with torch.no_grad():
             
-            if self.num_layers == -1:
+            if self.num_hidden_layers == 0:
                 weight_matrix = self.layers[0].weight.data
             
             else:
-                for i in range(self.num_layers+2):
+                for i in range(self.num_hidden_layers+1):
                     if weight_matrix is None:
                         weight_matrix = self.layers[0].weight.data
                     else:
                         weight_matrix = torch.matmul( self.layers[i].weight.data,weight_matrix)
         
-        return weight_matrix.t()
+        
+        weight_matrix = weight.matrix.t()
+
+        assert weight_matrix.size()==[input_size, output_size]
+        return weight_matrix
