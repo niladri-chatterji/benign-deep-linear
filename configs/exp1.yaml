@@ -1,0 +1,24 @@
+optim:
+    lr: 0.0001
+    target_loss: 0.000001
+    max_epochs: 1000
+
+exp1:
+    # Parameters for the data
+    num_runs: 1 # 20
+    start_dimension: 100  #1000
+    end_dimension: 500    #10000
+    num_sweep: 5          #10
+    num_samples: 100
+    variance: 1.0
+    k: 10
+    epsilon: 0.01
+    output_dimension: 3
+
+    # Parameters for the net
+    num_hidden_layers: 2  #5
+    first_layer_std: 0.01
+    last_layer_std: 2
+
+
+
