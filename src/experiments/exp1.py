@@ -14,7 +14,7 @@ from ..model import LinearNet, ReLUNet
 
 def exp1(args, config):
         '''
-        Experiment that compares the norm different between Theta and Theta_OLS. Sweep over different dimensions while alpha is kept small
+        Experiment that compares the norm different between Theta and Theta_OLS and calculates the excess risk. Sweep over different dimensions while alpha is kept fixed
         '''
         logging.info('Starting the experiment')
         logging.info('Loading Parameters')
@@ -65,7 +65,7 @@ def exp1(args, config):
                 # The details of the model
                 input_size = dimension
                 output_size = output_dimension
-                hidden_size = 10*(dimension+output_dimension)   # Set the hidden size to be the 3 times the input dim + ouput dim
+                hidden_size = 10*(dimension+output_dimension)   # Set the hidden size to be the 10 times the input dim + ouput dim
                 first_layer_std = config.exp.first_layer_std
                 last_layer_std = config.exp.last_layer_std
 

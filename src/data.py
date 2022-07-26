@@ -33,7 +33,7 @@ def GaussianIID(dimension: int,
 
     return X, Y, theta
 
-
+# TODO: Modify the code below to implement a two-layer neural network
 def PlantedTwoLayerIID(dimension: int,
                 num_samples: int,
                 variance: Optional[float] = None,
