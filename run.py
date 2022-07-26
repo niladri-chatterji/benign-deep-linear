@@ -70,6 +70,12 @@ def parse_args_and_config():
         config = yaml.safe_load(f)
     new_config = dict2namespace(config)
 
+    # If alpha or dimension are provided in the argument then override the default in the config file
+    if args.alpha is not None:
+        new_config.exp.first_layer_std = args.alpha
+    if args.dimension is not None:
+        new_config.exp.dimenion = args.dimension
+
     # Create logging path and save config fgile
     if os.path.exists(args.log_path):
         shutil.rmtree(args.log_path)

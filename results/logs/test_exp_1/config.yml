@@ -1,8 +1,9 @@
 !!python/object:argparse.Namespace
-exp1: !!python/object:argparse.Namespace
+exp: !!python/object:argparse.Namespace
+  dimenion: false
   end_dimension: 2000
   epsilon: 0.01
-  first_layer_std: 0.001
+  first_layer_std: 1.0e-13
   k: 10
   last_layer_std: 1
   num_hidden_layers: 2
