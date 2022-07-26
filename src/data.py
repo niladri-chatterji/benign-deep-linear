@@ -3,10 +3,10 @@ from typing import Any, Optional
 
 def GaussianIID(dimension: int,
                 num_samples: int,
+                output_dimension: int,
                 variance: Optional[float] = None,
                 k: Optional[int] = None, 
                 epsilon: Optional[float] = None,
-                output_dimension: int,
                 noise_variance: Optional[float] = 1.0,
                 theta: Optional[torch.tensor] = None):
     '''
@@ -15,23 +15,23 @@ def GaussianIID(dimension: int,
     The bottom d-k component have variance epsilon
     '''
 
-    X = torch.randn([dimension, num_samples])
+    X = torch.randn(num_samples, dimension)
 
     if variance is not None:
         X = (variance**(0.5)) * X
     if k is not None and epsilon is not None:
-        X[k:,:] = (epsilon**(0.5))*X[k:,:]
+        X[:,k:] = (epsilon**(0.5))*X[:,k:]
 
     # Generate the responses
     if theta is None:
-        theta = torch.randn([dimension, output_dimension])
+        theta = torch.randn(dimension, output_dimension)
         theta = theta/torch.norm(theta)  # Sample a theta uniformly over the sphere with unit norm
     
-    noise = (noise_variance**(0.5))*torch.randn([num_samples,output_dimension])
+    noise = (noise_variance**(0.5))*torch.randn(num_samples,output_dimension)
     
     Y = torch.matmul(X, theta) + noise
 
-    return X, Y
+    return X, Y, theta
 
 
 def PlantedTwoLayerIID(dimension: int,

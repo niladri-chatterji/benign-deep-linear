@@ -1,0 +1,24 @@
+INFO - run.py - 2022-07-25 21:48:02,270 - Using device: cuda
+INFO - run.py - 2022-07-25 21:48:02,273 - Writing log file to ./results/logs/test_exp_1
+INFO - exp1.py - 2022-07-25 21:48:02,273 - Starting the experiment
+INFO - exp1.py - 2022-07-25 21:48:02,273 - Loading Parameters
+INFO - exp1.py - 2022-07-25 21:48:02,274 - Parameters Loaded
+INFO - exp1.py - 2022-07-25 21:48:02,274 - Starting a sweep over the dimensions
+INFO - exp1.py - 2022-07-25 21:48:02,274 - Current dimension is 200
+INFO - exp1.py - 2022-07-25 21:48:02,274 - Run 0
+INFO - exp1.py - 2022-07-25 21:48:07,134 - Training Starting
+INFO - exp1.py - 2022-07-25 21:48:28,399 - Training Complete
+INFO - exp1.py - 2022-07-25 21:48:28,416 - Distance between net weights and OLS: 0.6252316832542419
+INFO - exp1.py - 2022-07-25 21:48:28,417 - Risk of Net: 3.6370043754577637
+INFO - exp1.py - 2022-07-25 21:48:28,417 - Risk of OLS: 3.624018907546997
+INFO - exp1.py - 2022-07-25 21:48:28,418 - Training loss of Net: 2.997907131430111e-07
+INFO - exp1.py - 2022-07-25 21:48:28,419 - Training loss of OLS: 1.4330997499811815e-10
+INFO - exp1.py - 2022-07-25 21:48:28,419 - Current dimension is 2000
+INFO - exp1.py - 2022-07-25 21:48:28,419 - Run 0
+INFO - exp1.py - 2022-07-25 21:48:34,969 - Training Starting
+INFO - exp1.py - 2022-07-25 21:48:42,378 - Training Complete
+INFO - exp1.py - 2022-07-25 21:48:43,431 - Distance between net weights and OLS: 88.9390640258789
+INFO - exp1.py - 2022-07-25 21:48:43,432 - Risk of Net: 1.2625091075897217
+INFO - exp1.py - 2022-07-25 21:48:43,432 - Risk of OLS: 0.34669721126556396
+INFO - exp1.py - 2022-07-25 21:48:43,432 - Training loss of Net: 2.3510672519932996e-07
+INFO - exp1.py - 2022-07-25 21:48:43,433 - Training loss of OLS: 1.945643299250399e-12

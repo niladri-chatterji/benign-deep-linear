@@ -1,79 +1,144 @@
+import pdb
+import logging
+import os
+import pickle
+
+import torch
+import torch.optim as optim
+import numpy as np
+
+from ..utils import TrainNet, loss
 from ..data import GaussianIID
 from ..model import LinearNet, ReLUNet
-import json
-import torch
-import numpy as np
-from ..utils import TrainNet
 
 
-def exp1(config):
+def exp1(args, config):
         '''
-        Experiment that compares the norm different between Theta and Theta_OLS. Sweep over different dimensions
+        Experiment that compares the norm different between Theta and Theta_OLS. Sweep over different dimensions while alpha is kept small
         '''
+        logging.info('Starting the experiment')
+        logging.info('Loading Parameters')
         # Parameters for the data
-        num_runs = config.exp1.num_runs
-        start_dimension = config.exp1.start_dimension
-        end_dimension = config.exp1.end_dimension
-        variance = config.exp1.variance
-        output_dimension = config.exp1.output_dimension
+        num_runs = config.exp.num_runs
+        start_dimension = config.exp.start_dimension
+        end_dimension = config.exp.end_dimension
+        variance = config.exp.variance
+        output_dimension = config.exp.output_dimension
 
         dimensions_range = list(np.linspace(start_dimension, 
                                         end_dimension, 
-                                        num = config.num_sweep, 
-                                        endpoint=True))
+                                        num = config.exp.num_sweep, 
+                                        endpoint=True, dtype = int))
 
         # Parameters for the model
-        num_hidden_layers = config.exp1.num_hidden_layers
+        num_hidden_layers = config.exp.num_hidden_layers
 
         # Parameters for the optimizer
         lr = config.optim.lr
         target_loss = config.optim.target_loss
         max_epochs = config.optim.max_epochs
 
-        for dimension in dimensions_range:
-                num_samples = config.exp1.num_samples
-                k = config.exp1.k
-                epsilon = config.exp1.epsilon
+        # Device
+        device = config.device
+        output_file = os.path.join(args.log_path, "result.pickle")
+
+        logging.info('Parameters Loaded')
+        logging.info('Starting a sweep over the dimensions')
+        
+        results = {}
+        
+        for idx, dimension in enumerate(dimensions_range):
+                logging.info('Current dimension is {}'.format(dimension))
+                results[idx] = {}
+                results[idx]["dimension"] = dimension
+                results[idx]["distance"] = []
+                results[idx]["risk"] = []
+                results[idx]["risk_ols"] = []
+                results[idx]["training_loss"] = []
+
+                
+
+                num_samples = config.exp.num_samples
+                k = config.exp.k
+                epsilon = config.exp.epsilon
 
                 # The details of the model
                 input_size = dimension
                 output_size = output_dimension
-                hidden_size = 3*(input_size+output_size)   # Set the hidden size to be the 3 times the input dim + ouput dim
-                first_layer_std = config.exp1.first_layer_std
-                last_layer_std = config.exp1.last_layer_std
+                hidden_size = 10*(dimension+output_dimension)   # Set the hidden size to be the 3 times the input dim + ouput dim
+                first_layer_std = config.exp.first_layer_std
+                last_layer_std = config.exp.last_layer_std
 
 
-                for _ in range(num_runs):
+                for run_idx in range(num_runs):
+                        logging.info('Run {}'.format(run_idx))
                 
                         # Generate the data
-                        X, Y = GaussianIID(dimension,
-                                           num_samples,
-                                           variance,
-                                           k,
-                                           epsilon,
-                                           output_dimension)
+                        X, Y, theta = GaussianIID(dimension = dimension,
+                                           num_samples = num_samples,
+                                           output_dimension = output_dimension,
+                                           variance = variance,
+                                           k = k, 
+                                           epsilon= epsilon,
+                                           )
+                        X, Y = X.to(device), Y.to(device)
 
                         # Initialize the Model
-                        net = LinearNet(num_hidden_layers, 
-                                        input_size, 
-                                        hidden_size,
-                                        output_size,
-                                        first_layer_std,
-                                        last_layer_std,)
+                        net = LinearNet(num_hidden_layers = num_hidden_layers, 
+                                        input_size = input_size, 
+                                        hidden_size = hidden_size,
+                                        output_size = output_size,
+                                        first_layer_std = first_layer_std,
+                                        last_layer_std = last_layer_std,).to(device)
 
-                        optimizer = optim.SGD(model.parameters(), lr=lr, momentum=0.0)
-
-                        net = TrainNet(net, X.t(), Y, optimizer, target_loss, max_epochs)
-
-
+                        optimizer = optim.SGD(net.parameters(), lr=lr, momentum=0.0)
+                        logging.info("Training Starting")
+                        net = TrainNet(net, X, Y, optimizer, target_loss, max_epochs)
+                        logging.info("Training Complete")
                         weights = net.weights()
 
                         OLS = torch.matmul(torch.matmul(X.t(),torch.inverse(torch.matmul(X,X.t()))),Y)
 
-                        norm = torch.norm(weights-OLS)
-                        print('Norm is {}'.format(norm))
-                        return norm
+                        distance = (torch.norm(weights-OLS)**2).item()
+
+
+
+                        # Calculate the excess risk
+                        X_test, Y_test, _ = GaussianIID(dimension = dimension,
+                                           num_samples = 10*dimension,
+                                           output_dimension = output_dimension,
+                                           variance = variance,
+                                           k = k, 
+                                           epsilon= epsilon,
+                                           noise_variance=0.0,
+                                           theta = theta)
+                        
+                        X_test, Y_test = X_test.to(device), Y_test.to(device)
+                        risk = loss(X_test, Y_test, weights)
+                        risk_ols = loss(X_test, Y_test, OLS)
+                        training_loss = loss(X, Y, weights)
+                        
 
 
 
 
+                        logging.info('Distance between net weights and OLS: {}'.format(distance))
+                        logging.info('Risk of Net: {}'.format(risk))
+                        logging.info('Risk of OLS: {}'.format(risk_ols))
+                        logging.info('Training loss of Net: {}'.format(loss(X,Y,weights)))
+                        logging.info('Training loss of OLS: {}'.format(loss(X,Y,OLS)))
+                        
+
+                        results[idx]["distance"].append(distance)
+                        results[idx]["risk"].append(risk)
+                        results[idx]["risk_ols"].append(risk_ols)
+                        results[idx]["training_loss"].append(training_loss)
+
+                        # pdb.set_trace()
+
+        
+
+        with open(output_file, "wb") as f:
+                pickle.dump(results, f)
+
+        return None

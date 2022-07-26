@@ -18,6 +18,7 @@ def parse_args_and_config():
     parser.add_argument(
         "--config", type=str, required=True, help="Path to the config file"
     )
+    parser.add_argument("--seed", type=int, default=1234, help="Random seed")
     parser.add_argument(
         "--exp", type=str, default="./results", help="Path for saving running related data."
     )
@@ -34,6 +35,32 @@ def parse_args_and_config():
         default="info",
         help="Verbose level: info | debug | warning | critical",
     )
+    parser.add_argument(
+        "--exp1",
+        type=str,
+        default=False,
+        help="Run Experiment 1 that calculates the norm of theta_OLS - theta and excess risk while sweeping over different dimensions",
+    )
+    parser.add_argument(
+        "--exp2",
+        type=str,
+        default=False,
+        help="Run Experiment 1 that calculates the norm of theta_OLS - theta and excess risk while sweeping over different init scales alpha",
+    )
+
+    parser.add_argument(
+        "--alpha",
+        type=float,
+        default=False,
+        help="override the value of alpha (first_layer_std) in the config file",
+    )
+
+    parser.add_argument(
+        "--dimension",
+        type=float,
+        default=False,
+        help="override the value of dimension (input_size) in the config file",
+    )
     
     args = parser.parse_args()
     args.log_path = os.path.join(args.exp, "logs", args.doc)
@@ -44,8 +71,10 @@ def parse_args_and_config():
     new_config = dict2namespace(config)
 
     # Create logging path and save config fgile
-    shutil.rmtree(args.log_path)
+    if os.path.exists(args.log_path):
+        shutil.rmtree(args.log_path)
     os.makedirs(args.log_path)
+
     with open(os.path.join(args.log_path, "config.yml"), "w") as f:
         yaml.dump(new_config, f, default_flow_style=False)
 
@@ -95,11 +124,11 @@ def dict2namespace(config):
 def main():
     args, config = parse_args_and_config()
     logging.info("Writing log file to {}".format(args.log_path))
-    logging.info("Exp instance id = {}".format(os.getpid()))
-    logging.info("Exp comment = {}".format(args.comment))
 
     try:
-        # get the right classifier module
+        # Run the right experiments
+        if args.exp1:
+            exp.exp1.exp1(args, config)
     except Exception:
         logging.error(traceback.format_exc())
 
