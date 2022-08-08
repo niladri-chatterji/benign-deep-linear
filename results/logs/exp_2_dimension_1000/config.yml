@@ -1,0 +1,20 @@
+!!python/object:argparse.Namespace
+exp: !!python/object:argparse.Namespace
+  dimenion: 1000.0
+  dimension: 200
+  end_first_layer_std: 0.001
+  epsilon: 0.01
+  first_layer_std: false
+  k: 10
+  last_layer_std: 1
+  num_hidden_layers: 2
+  num_runs: 20
+  num_samples: 100
+  num_sweep: 10
+  output_dimension: 3
+  start_first_layer_std: 0.0
+  variance: 1.0
+optim: !!python/object:argparse.Namespace
+  lr: 0.0001
+  max_epochs: 100000.0
+  target_loss: 1.0e-07
