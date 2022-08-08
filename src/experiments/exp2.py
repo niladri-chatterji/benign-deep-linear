@@ -1,4 +1,3 @@
-import pdb
 import logging
 import os
 import pickle
@@ -12,7 +11,7 @@ from ..data import GaussianIID
 from ..model import LinearNet, ReLUNet
 
 
-def exp1(args, config):
+def exp2(args, config):
         '''
         Experiment that compares the norm different between Theta and Theta_OLS and calculates the excess risk. Sweep over different init scales alpha while dimension is kept fixed
         '''
@@ -20,18 +19,19 @@ def exp1(args, config):
         logging.info('Loading Parameters')
         # Parameters for the data
         num_runs = config.exp.num_runs
-        start_dimension = config.exp.start_dimension
-        end_dimension = config.exp.end_dimension
+        dimension = config.exp.dimension
         variance = config.exp.variance
         output_dimension = config.exp.output_dimension
 
-        dimensions_range = list(np.linspace(start_dimension, 
-                                        end_dimension, 
-                                        num = config.exp.num_sweep, 
-                                        endpoint=True, dtype = int))
-
         # Parameters for the model
         num_hidden_layers = config.exp.num_hidden_layers
+        start_alpha = config.exp.start_first_layer_std
+        end_alpha = config.exp.end_first_layer_std
+
+        alpha_range = list(np.linspace(start_alpha,
+                                        end_alpha,
+                                        num = config.exp.num_sweep,
+                                        endpoint=True))
 
         # Parameters for the optimizer
         lr = config.optim.lr
@@ -43,13 +43,15 @@ def exp1(args, config):
         output_file = os.path.join(args.log_path, "result.pickle")
 
         logging.info('Parameters Loaded')
-        logging.info('Starting a sweep over the dimensions')
+        logging.info('Starting a sweep over the alpha')
         
         results = {}
         
-        for idx, dimension in enumerate(dimensions_range):
-                logging.info('Current dimension is {}'.format(dimension))
+        for idx, first_layer_std in enumerate(alpha_range):
+                logging.info('Current alpha is {}'.format(first_layer_std))
+                logging.info('Dimension is {}'.format(dimension))
                 results[idx] = {}
+                results[idx]["alpha"] = first_layer_std
                 results[idx]["dimension"] = dimension
                 results[idx]["distance"] = []
                 results[idx]["risk"] = []
@@ -66,7 +68,6 @@ def exp1(args, config):
                 input_size = dimension
                 output_size = output_dimension
                 hidden_size = 10*(dimension+output_dimension)   # Set the hidden size to be the 10 times the input dim + ouput dim
-                first_layer_std = config.exp.first_layer_std
                 last_layer_std = config.exp.last_layer_std
 
 
@@ -133,8 +134,6 @@ def exp1(args, config):
                         results[idx]["risk"].append(risk)
                         results[idx]["risk_ols"].append(risk_ols)
                         results[idx]["training_loss"].append(training_loss)
-
-                        # pdb.set_trace()
 
         
 

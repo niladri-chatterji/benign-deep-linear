@@ -135,6 +135,10 @@ def main():
         # Run the right experiments
         if args.exp1:
             exp.exp1.exp1(args, config)
+        elif args.exp2:
+            exp.exp2.exp2(args, config)
+        else:
+            logging.info('No experiment provided')
     except Exception:
         logging.error(traceback.format_exc())
 

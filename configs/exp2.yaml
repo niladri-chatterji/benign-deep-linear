@@ -6,9 +6,8 @@ optim:
 exp:
     # Parameters for the data
     num_runs: 20 # 20
-    start_dimension: 200  
-    end_dimension: 2000   
-    num_sweep: 10         
+    dimension: 200  # 200, 500, 1000, 2000
+    num_sweep: 10    # 10     
     num_samples: 100
     variance: 1.0
     k: 10
@@ -17,5 +16,6 @@ exp:
 
     # Parameters for the net
     num_hidden_layers: 2  
-    first_layer_std: 1.0e-3 #1.0e-3, 1.0e-4, 0.0
+    start_first_layer_std: 0.0
+    end_first_layer_std: 1.0e-3
     last_layer_std: 1

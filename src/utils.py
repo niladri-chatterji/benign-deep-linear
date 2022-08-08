@@ -20,7 +20,7 @@ def TrainNet(net: nn.Module,
         loss.backward()
         optimizer.step()
         epochs += 1
-    print("Final Loss: {}".format(loss.item()))
+    # print("Final Loss: {}".format(loss.item()))
     return net
 
 def loss(X: torch.tensor,

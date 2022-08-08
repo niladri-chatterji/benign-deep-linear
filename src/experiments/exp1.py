@@ -1,4 +1,3 @@
-import pdb
 import logging
 import os
 import pickle
@@ -49,8 +48,10 @@ def exp1(args, config):
         
         for idx, dimension in enumerate(dimensions_range):
                 logging.info('Current dimension is {}'.format(dimension))
+                logging.info('Alpha is {}'.format(config.exp.first_layer_std))
                 results[idx] = {}
                 results[idx]["dimension"] = dimension
+                results[idx]["alpha"] = config.exp.first_layer_std
                 results[idx]["distance"] = []
                 results[idx]["risk"] = []
                 results[idx]["risk_ols"] = []
@@ -133,8 +134,6 @@ def exp1(args, config):
                         results[idx]["risk"].append(risk)
                         results[idx]["risk_ols"].append(risk_ols)
                         results[idx]["training_loss"].append(training_loss)
-
-                        # pdb.set_trace()
 
         
 
