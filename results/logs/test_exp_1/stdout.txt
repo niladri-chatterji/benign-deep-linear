@@ -1,8 +1,0 @@
-INFO - run.py - 2022-07-25 22:09:12,747 - Using device: cuda
-INFO - run.py - 2022-07-25 22:09:12,748 - Writing log file to ./results/logs/test_exp_1
-INFO - exp1.py - 2022-07-25 22:09:12,748 - Starting the experiment
-INFO - exp1.py - 2022-07-25 22:09:12,748 - Loading Parameters
-INFO - exp1.py - 2022-07-25 22:09:12,749 - Parameters Loaded
-INFO - exp1.py - 2022-07-25 22:09:12,749 - Starting a sweep over the dimensions
-INFO - exp1.py - 2022-07-25 22:09:12,749 - Current dimension is 200
-INFO - exp1.py - 2022-07-25 22:09:12,749 - Run 0

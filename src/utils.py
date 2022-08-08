@@ -10,6 +10,7 @@ def TrainNet(net: nn.Module,
               target_loss: Optional[float] = 1e-4,
               max_epochs: Optional[int] = 1000):
     
+    net.train()
     epochs = 0
     loss = torch.tensor(1.0)
     loss_fn = nn.MSELoss(reduction='mean')
@@ -17,7 +18,7 @@ def TrainNet(net: nn.Module,
         optimizer.zero_grad()
         output = net(X)
         loss = loss_fn(output, Y)
-        loss.backward()
+        loss.backward(retain_graph=True)
         optimizer.step()
         epochs += 1
     # print("Final Loss: {}".format(loss.item()))
@@ -32,4 +33,15 @@ def loss(X: torch.tensor,
     loss = loss/n
     return loss.item()
 
+
+def loss_net(X: torch.tensor,
+         Y: torch.tensor,
+         net: nn.Module):
+    net.eval()
+    with torch.no_grad():
+        output = net(X)
+        loss = torch.norm(output-Y)**2
+        n = X.size()[0]
+        loss = loss/n
+    return loss.item()
 

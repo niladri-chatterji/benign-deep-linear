@@ -108,6 +108,9 @@ class ReLUNet(LinearNet):
 
         super().__init__(num_hidden_layers, input_size, hidden_size, output_size)
 
+        self.first_layer_std = first_layer_std
+        self.last_layer_std = last_layer_std
+
         if num_hidden_layers == 0:
             # Specifies a standard linear model
             self.layers = nn.Sequential(nn.Linear(input_size,output_size, bias = False))

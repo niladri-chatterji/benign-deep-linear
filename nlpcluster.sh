@@ -1,4 +1,4 @@
-mynlprun="nlprun3 -x jagupard[10-26] -a is"
+mynlprun="nlprun3 -x jagupard[10-20] -a is"
 
 
 # Experiments with Linear Network Sweeps Over Dimension
@@ -29,15 +29,15 @@ mynlprun="nlprun3 -x jagupard[10-26] -a is"
 # Experiments with Linear Network Sweeps Over alpha
 
 # Sweep over the alpha with dimension 200
-CMD="${mynlprun} \"python run.py --config "exp2.yaml" --doc "exp_2_dimension_200" --exp2=True --dimension=200"\"
-eval ${CMD}
-sleep 1
+# CMD="${mynlprun} \"python run.py --config "exp2.yaml" --doc "exp_2_dimension_200" --exp2=True --dimension=200"\"
+# eval ${CMD}
+# sleep 1
 
 
-# Sweep over the alpha with dimension 500
-CMD="${mynlprun} \"python run.py --config "exp2.yaml" --doc "exp_2_dimension_500" --exp2=True --dimension=500"\"
-eval ${CMD}
-sleep 1
+# # Sweep over the alpha with dimension 500
+# CMD="${mynlprun} \"python run.py --config "exp2.yaml" --doc "exp_2_dimension_500" --exp2=True --dimension=500"\"
+# eval ${CMD}
+# sleep 1
 
 # Sweep over the alpha with dimension 1000
 CMD="${mynlprun} \"python run.py --config "exp2.yaml" --doc "exp_2_dimension_1000" --exp2=True --dimension=1000"\"
@@ -46,5 +46,13 @@ sleep 1
 
 # Sweep over the alpha with dimension 2000
 CMD="${mynlprun} \"python run.py --config "exp2.yaml" --doc "exp_2_dimension_2000" --exp2=True --dimension=2000"\"
+eval ${CMD}
+sleep 1
+
+
+# Experiments with Neural Network Sweeps Over alpha
+
+# Sweep over the alpha with ReLUNets
+CMD="${mynlprun} \"python run.py --config "exp3.yaml" --doc "exp_3" --exp3=True"\"
 eval ${CMD}
 sleep 1

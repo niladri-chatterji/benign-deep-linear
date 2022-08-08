@@ -49,6 +49,13 @@ def parse_args_and_config():
     )
 
     parser.add_argument(
+        "--exp3",
+        type=str,
+        default=False,
+        help="Run Experiment 3 that calculates the excess risk of a ReLU net with data drawn from a different ReLU net while sweeping over different init scales alpha",
+    )
+
+    parser.add_argument(
         "--alpha",
         type=float,
         default=False,
@@ -137,6 +144,8 @@ def main():
             exp.exp1.exp1(args, config)
         elif args.exp2:
             exp.exp2.exp2(args, config)
+        elif args.exp3:
+            exp.exp3.exp3(args, config)
         else:
             logging.info('No experiment provided')
     except Exception:
