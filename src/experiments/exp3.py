@@ -1,7 +1,6 @@
 import logging
 import os
 import pickle
-import pdb
 
 import torch
 import torch.optim as optim
@@ -97,7 +96,6 @@ def exp3(args, config):
                                         first_layer_std = first_layer_std,
                                         last_layer_std = last_layer_std,).to(device)
 
-                        pdb.set_trace()
 
                         optimizer = optim.SGD(net.parameters(), lr=lr, momentum=0.0)
                         logging.info("Training Starting")
@@ -123,7 +121,6 @@ def exp3(args, config):
                         risk_teacher = loss_net(X_test, Y_test, net_teacher)
                         training_loss = loss_net(X, Y, net)
                         
-                        pdb.set_trace()
                         #logging.info('Distance between net weights and OLS: {}'.format(distance))
                         logging.info('Risk of Net: {}'.format(risk))
                         logging.info('Risk of Teacher: {}'.format(risk_teacher))

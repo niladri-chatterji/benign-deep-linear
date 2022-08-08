@@ -1,4 +1,4 @@
-mynlprun="nlprun3 -x jagupard[10-20] -a is -p high"
+mynlprun="nlprun3 -x jagupard[10-26] -a is -p high"
 
 
 # Experiments with Linear Network Sweeps Over Dimension
@@ -39,15 +39,15 @@ mynlprun="nlprun3 -x jagupard[10-20] -a is -p high"
 # eval ${CMD}
 # sleep 1
 
-# Sweep over the alpha with dimension 1000
-CMD="${mynlprun} \"python run.py --config "exp2.yaml" --doc "exp_2_dimension_1000" --exp2=True --dimension=1000"\"
-eval ${CMD}
-sleep 1
+# # Sweep over the alpha with dimension 1000
+# CMD="${mynlprun} \"python run.py --config "exp2.yaml" --doc "exp_2_dimension_1000" --exp2=True --dimension=1000"\"
+# eval ${CMD}
+# sleep 1
 
-# Sweep over the alpha with dimension 2000
-CMD="${mynlprun} \"python run.py --config "exp2.yaml" --doc "exp_2_dimension_2000" --exp2=True --dimension=2000"\"
-eval ${CMD}
-sleep 1
+# # Sweep over the alpha with dimension 2000
+# CMD="${mynlprun} \"python run.py --config "exp2.yaml" --doc "exp_2_dimension_2000" --exp2=True --dimension=2000"\"
+# eval ${CMD}
+# sleep 1
 
 
 # Experiments with Neural Network Sweeps Over alpha
