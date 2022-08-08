@@ -81,7 +81,7 @@ def parse_args_and_config():
     if args.alpha is not None:
         new_config.exp.first_layer_std = args.alpha
     if args.dimension is not None:
-        new_config.exp.dimenion = args.dimension
+        new_config.exp.dimension = args.dimension
 
     # Create logging path and save config fgile
     if os.path.exists(args.log_path):

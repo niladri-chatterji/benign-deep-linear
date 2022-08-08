@@ -19,7 +19,7 @@ def exp2(args, config):
         logging.info('Loading Parameters')
         # Parameters for the data
         num_runs = config.exp.num_runs
-        dimension = config.exp.dimension
+        dimension = int(config.exp.dimension)
         variance = config.exp.variance
         output_dimension = config.exp.output_dimension
 
@@ -126,7 +126,7 @@ def exp2(args, config):
                         logging.info('Distance between net weights and OLS: {}'.format(distance))
                         logging.info('Risk of Net: {}'.format(risk))
                         logging.info('Risk of OLS: {}'.format(risk_ols))
-                        logging.info('Training loss of Net: {}'.format(loss(X,Y,weights)))
+                        logging.info('Training loss of Net: {}'.format(training_loss))
                         logging.info('Training loss of OLS: {}'.format(loss(X,Y,OLS)))
                         
 
