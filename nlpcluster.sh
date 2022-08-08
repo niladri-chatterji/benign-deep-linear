@@ -1,4 +1,4 @@
-mynlprun="nlprun3 -x jagupard[10-26] -a is -p high"
+mynlprun="nlprun3 -x jagupard[10-26] -a is"
 
 
 # Experiments with Linear Network Sweeps Over Dimension
