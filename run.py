@@ -45,7 +45,7 @@ def parse_args_and_config():
         "--exp2",
         type=str,
         default=False,
-        help="Run Experiment 1 that calculates the norm of theta_OLS - theta and excess risk while sweeping over different init scales alpha",
+        help="Run Experiment 2 that calculates the norm of theta_OLS - theta and excess risk while sweeping over different init scales alpha",
     )
 
     parser.add_argument(
