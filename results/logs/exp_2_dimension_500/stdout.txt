@@ -1,0 +1,1626 @@
+INFO - run.py - 2022-08-08 20:46:34,106 - Using device: cuda
+INFO - run.py - 2022-08-08 20:46:34,109 - Writing log file to ./results/logs/exp_2_dimension_500
+INFO - exp2.py - 2022-08-08 20:46:34,109 - Starting the experiment
+INFO - exp2.py - 2022-08-08 20:46:34,109 - Loading Parameters
+INFO - exp2.py - 2022-08-08 20:46:34,110 - Parameters Loaded
+INFO - exp2.py - 2022-08-08 20:46:34,110 - Starting a sweep over the alpha
+INFO - exp2.py - 2022-08-08 20:46:34,110 - Current alpha is 0.0
+INFO - exp2.py - 2022-08-08 20:46:34,110 - Dimension is 500
+INFO - exp2.py - 2022-08-08 20:46:34,110 - Run 0
+INFO - exp2.py - 2022-08-08 20:46:40,898 - Training Starting
+INFO - exp2.py - 2022-08-08 20:46:45,405 - Training Complete
+INFO - exp2.py - 2022-08-08 20:46:48,746 - Distance between net weights and OLS: 3.6398745578480884e-05
+INFO - exp2.py - 2022-08-08 20:46:48,747 - Risk of Net: 1.120136022567749
+INFO - exp2.py - 2022-08-08 20:46:48,747 - Risk of OLS: 1.1213815212249756
+INFO - exp2.py - 2022-08-08 20:46:48,747 - Training loss of Net: 3.740001091045997e-07
+INFO - exp2.py - 2022-08-08 20:46:48,748 - Training loss of OLS: 8.994709787657484e-06
+INFO - exp2.py - 2022-08-08 20:46:48,748 - Run 1
+INFO - exp2.py - 2022-08-08 20:46:49,165 - Training Starting
+INFO - exp2.py - 2022-08-08 20:46:51,459 - Training Complete
+INFO - exp2.py - 2022-08-08 20:46:51,501 - Distance between net weights and OLS: 3.236710108467378e-05
+INFO - exp2.py - 2022-08-08 20:46:51,501 - Risk of Net: 0.9015690088272095
+INFO - exp2.py - 2022-08-08 20:46:51,502 - Risk of OLS: 0.9016994833946228
+INFO - exp2.py - 2022-08-08 20:46:51,502 - Training loss of Net: 3.7654217521776445e-07
+INFO - exp2.py - 2022-08-08 20:46:51,502 - Training loss of OLS: 6.885416041768622e-06
+INFO - exp2.py - 2022-08-08 20:46:51,502 - Run 2
+INFO - exp2.py - 2022-08-08 20:46:51,920 - Training Starting
+INFO - exp2.py - 2022-08-08 20:46:54,359 - Training Complete
+INFO - exp2.py - 2022-08-08 20:46:54,386 - Distance between net weights and OLS: 3.488187212496996e-05
+INFO - exp2.py - 2022-08-08 20:46:54,386 - Risk of Net: 1.2625820636749268
+INFO - exp2.py - 2022-08-08 20:46:54,386 - Risk of OLS: 1.2629244327545166
+INFO - exp2.py - 2022-08-08 20:46:54,386 - Training loss of Net: 3.8930662071834377e-07
+INFO - exp2.py - 2022-08-08 20:46:54,386 - Training loss of OLS: 6.45594991510734e-06
+INFO - exp2.py - 2022-08-08 20:46:54,387 - Run 3
+INFO - exp2.py - 2022-08-08 20:46:54,711 - Training Starting
+INFO - exp2.py - 2022-08-08 20:46:57,127 - Training Complete
+INFO - exp2.py - 2022-08-08 20:46:57,168 - Distance between net weights and OLS: 3.256665513617918e-05
+INFO - exp2.py - 2022-08-08 20:46:57,169 - Risk of Net: 1.0391576290130615
+INFO - exp2.py - 2022-08-08 20:46:57,169 - Risk of OLS: 1.0383186340332031
+INFO - exp2.py - 2022-08-08 20:46:57,169 - Training loss of Net: 3.598005946514604e-07
+INFO - exp2.py - 2022-08-08 20:46:57,170 - Training loss of OLS: 8.86424913915107e-06
+INFO - exp2.py - 2022-08-08 20:46:57,170 - Run 4
+INFO - exp2.py - 2022-08-08 20:46:57,507 - Training Starting
+INFO - exp2.py - 2022-08-08 20:46:59,979 - Training Complete
+INFO - exp2.py - 2022-08-08 20:47:00,009 - Distance between net weights and OLS: 3.580482371035032e-05
+INFO - exp2.py - 2022-08-08 20:47:00,009 - Risk of Net: 0.830833375453949
+INFO - exp2.py - 2022-08-08 20:47:00,009 - Risk of OLS: 0.8312441110610962
+INFO - exp2.py - 2022-08-08 20:47:00,009 - Training loss of Net: 3.549274367742328e-07
+INFO - exp2.py - 2022-08-08 20:47:00,010 - Training loss of OLS: 1.1133957741549239e-05
+INFO - exp2.py - 2022-08-08 20:47:00,010 - Run 5
+INFO - exp2.py - 2022-08-08 20:47:00,326 - Training Starting
+INFO - exp2.py - 2022-08-08 20:47:02,628 - Training Complete
+INFO - exp2.py - 2022-08-08 20:47:02,656 - Distance between net weights and OLS: 4.161491960985586e-05
+INFO - exp2.py - 2022-08-08 20:47:02,656 - Risk of Net: 1.0664565563201904
+INFO - exp2.py - 2022-08-08 20:47:02,656 - Risk of OLS: 1.0657155513763428
+INFO - exp2.py - 2022-08-08 20:47:02,656 - Training loss of Net: 3.836620408037561e-07
+INFO - exp2.py - 2022-08-08 20:47:02,657 - Training loss of OLS: 1.7029751688824035e-05
+INFO - exp2.py - 2022-08-08 20:47:02,657 - Run 6
+INFO - exp2.py - 2022-08-08 20:47:02,972 - Training Starting
+INFO - exp2.py - 2022-08-08 20:47:05,330 - Training Complete
+INFO - exp2.py - 2022-08-08 20:47:05,354 - Distance between net weights and OLS: 3.785055014304817e-05
+INFO - exp2.py - 2022-08-08 20:47:05,354 - Risk of Net: 0.9679969549179077
+INFO - exp2.py - 2022-08-08 20:47:05,355 - Risk of OLS: 0.9687102437019348
+INFO - exp2.py - 2022-08-08 20:47:05,355 - Training loss of Net: 3.742209457868739e-07
+INFO - exp2.py - 2022-08-08 20:47:05,355 - Training loss of OLS: 8.23644131742185e-06
+INFO - exp2.py - 2022-08-08 20:47:05,355 - Run 7
+INFO - exp2.py - 2022-08-08 20:47:05,668 - Training Starting
+INFO - exp2.py - 2022-08-08 20:47:07,973 - Training Complete
+INFO - exp2.py - 2022-08-08 20:47:07,997 - Distance between net weights and OLS: 3.728374213096686e-05
+INFO - exp2.py - 2022-08-08 20:47:07,997 - Risk of Net: 1.3590986728668213
+INFO - exp2.py - 2022-08-08 20:47:07,998 - Risk of OLS: 1.3596770763397217
+INFO - exp2.py - 2022-08-08 20:47:07,998 - Training loss of Net: 3.6817067439187667e-07
+INFO - exp2.py - 2022-08-08 20:47:07,998 - Training loss of OLS: 9.436369509785436e-06
+INFO - exp2.py - 2022-08-08 20:47:07,998 - Run 8
+INFO - exp2.py - 2022-08-08 20:47:08,312 - Training Starting
+INFO - exp2.py - 2022-08-08 20:47:10,765 - Training Complete
+INFO - exp2.py - 2022-08-08 20:47:10,790 - Distance between net weights and OLS: 3.5278786526760086e-05
+INFO - exp2.py - 2022-08-08 20:47:10,790 - Risk of Net: 1.2015503644943237
+INFO - exp2.py - 2022-08-08 20:47:10,790 - Risk of OLS: 1.2028095722198486
+INFO - exp2.py - 2022-08-08 20:47:10,791 - Training loss of Net: 3.8685089975842857e-07
+INFO - exp2.py - 2022-08-08 20:47:10,791 - Training loss of OLS: 1.220122976519633e-05
+INFO - exp2.py - 2022-08-08 20:47:10,791 - Run 9
+INFO - exp2.py - 2022-08-08 20:47:11,109 - Training Starting
+INFO - exp2.py - 2022-08-08 20:47:13,559 - Training Complete
+INFO - exp2.py - 2022-08-08 20:47:13,584 - Distance between net weights and OLS: 3.424329770496115e-05
+INFO - exp2.py - 2022-08-08 20:47:13,584 - Risk of Net: 0.9708871841430664
+INFO - exp2.py - 2022-08-08 20:47:13,584 - Risk of OLS: 0.9708059430122375
+INFO - exp2.py - 2022-08-08 20:47:13,584 - Training loss of Net: 3.6712097539748356e-07
+INFO - exp2.py - 2022-08-08 20:47:13,584 - Training loss of OLS: 8.973179319582414e-06
+INFO - exp2.py - 2022-08-08 20:47:13,584 - Run 10
+INFO - exp2.py - 2022-08-08 20:47:13,900 - Training Starting
+INFO - exp2.py - 2022-08-08 20:47:16,313 - Training Complete
+INFO - exp2.py - 2022-08-08 20:47:16,342 - Distance between net weights and OLS: 3.092870247201063e-05
+INFO - exp2.py - 2022-08-08 20:47:16,342 - Risk of Net: 1.203710913658142
+INFO - exp2.py - 2022-08-08 20:47:16,343 - Risk of OLS: 1.2030178308486938
+INFO - exp2.py - 2022-08-08 20:47:16,343 - Training loss of Net: 3.7744931091765466e-07
+INFO - exp2.py - 2022-08-08 20:47:16,343 - Training loss of OLS: 6.625483820243971e-06
+INFO - exp2.py - 2022-08-08 20:47:16,343 - Run 11
+INFO - exp2.py - 2022-08-08 20:47:16,656 - Training Starting
+INFO - exp2.py - 2022-08-08 20:47:18,942 - Training Complete
+INFO - exp2.py - 2022-08-08 20:47:18,973 - Distance between net weights and OLS: 2.878324085031636e-05
+INFO - exp2.py - 2022-08-08 20:47:18,973 - Risk of Net: 1.106652855873108
+INFO - exp2.py - 2022-08-08 20:47:18,973 - Risk of OLS: 1.1078919172286987
+INFO - exp2.py - 2022-08-08 20:47:18,973 - Training loss of Net: 3.7774759675812675e-07
+INFO - exp2.py - 2022-08-08 20:47:18,973 - Training loss of OLS: 7.023397756711347e-06
+INFO - exp2.py - 2022-08-08 20:47:18,973 - Run 12
+INFO - exp2.py - 2022-08-08 20:47:19,284 - Training Starting
+INFO - exp2.py - 2022-08-08 20:47:21,830 - Training Complete
+INFO - exp2.py - 2022-08-08 20:47:21,856 - Distance between net weights and OLS: 3.468538125162013e-05
+INFO - exp2.py - 2022-08-08 20:47:21,856 - Risk of Net: 1.0875718593597412
+INFO - exp2.py - 2022-08-08 20:47:21,856 - Risk of OLS: 1.0888781547546387
+INFO - exp2.py - 2022-08-08 20:47:21,856 - Training loss of Net: 3.67103041298833e-07
+INFO - exp2.py - 2022-08-08 20:47:21,857 - Training loss of OLS: 8.424235602433328e-06
+INFO - exp2.py - 2022-08-08 20:47:21,857 - Run 13
+INFO - exp2.py - 2022-08-08 20:47:22,178 - Training Starting
+INFO - exp2.py - 2022-08-08 20:47:24,476 - Training Complete
+INFO - exp2.py - 2022-08-08 20:47:24,504 - Distance between net weights and OLS: 3.4114273148588836e-05
+INFO - exp2.py - 2022-08-08 20:47:24,505 - Risk of Net: 0.9753987789154053
+INFO - exp2.py - 2022-08-08 20:47:24,505 - Risk of OLS: 0.9758046865463257
+INFO - exp2.py - 2022-08-08 20:47:24,505 - Training loss of Net: 3.643584136625577e-07
+INFO - exp2.py - 2022-08-08 20:47:24,505 - Training loss of OLS: 7.790017662046012e-06
+INFO - exp2.py - 2022-08-08 20:47:24,505 - Run 14
+INFO - exp2.py - 2022-08-08 20:47:24,845 - Training Starting
+INFO - exp2.py - 2022-08-08 20:47:27,208 - Training Complete
+INFO - exp2.py - 2022-08-08 20:47:27,248 - Distance between net weights and OLS: 3.819527410087176e-05
+INFO - exp2.py - 2022-08-08 20:47:27,248 - Risk of Net: 1.1736472845077515
+INFO - exp2.py - 2022-08-08 20:47:27,248 - Risk of OLS: 1.1753004789352417
+INFO - exp2.py - 2022-08-08 20:47:27,249 - Training loss of Net: 3.563129382655461e-07
+INFO - exp2.py - 2022-08-08 20:47:27,249 - Training loss of OLS: 1.0697894140321296e-05
+INFO - exp2.py - 2022-08-08 20:47:27,249 - Run 15
+INFO - exp2.py - 2022-08-08 20:47:27,642 - Training Starting
+INFO - exp2.py - 2022-08-08 20:47:29,803 - Training Complete
+INFO - exp2.py - 2022-08-08 20:47:29,837 - Distance between net weights and OLS: 3.4353597584413365e-05
+INFO - exp2.py - 2022-08-08 20:47:29,837 - Risk of Net: 1.0182876586914062
+INFO - exp2.py - 2022-08-08 20:47:29,837 - Risk of OLS: 1.0190573930740356
+INFO - exp2.py - 2022-08-08 20:47:29,837 - Training loss of Net: 3.5275672871648567e-07
+INFO - exp2.py - 2022-08-08 20:47:29,838 - Training loss of OLS: 1.04198043118231e-05
+INFO - exp2.py - 2022-08-08 20:47:29,838 - Run 16
+INFO - exp2.py - 2022-08-08 20:47:30,211 - Training Starting
+INFO - exp2.py - 2022-08-08 20:47:32,705 - Training Complete
+INFO - exp2.py - 2022-08-08 20:47:32,737 - Distance between net weights and OLS: 3.340730836498551e-05
+INFO - exp2.py - 2022-08-08 20:47:32,737 - Risk of Net: 1.0787190198898315
+INFO - exp2.py - 2022-08-08 20:47:32,737 - Risk of OLS: 1.0789527893066406
+INFO - exp2.py - 2022-08-08 20:47:32,737 - Training loss of Net: 3.8702589222339157e-07
+INFO - exp2.py - 2022-08-08 20:47:32,738 - Training loss of OLS: 9.062999197340105e-06
+INFO - exp2.py - 2022-08-08 20:47:32,738 - Run 17
+INFO - exp2.py - 2022-08-08 20:47:33,060 - Training Starting
+INFO - exp2.py - 2022-08-08 20:47:35,385 - Training Complete
+INFO - exp2.py - 2022-08-08 20:47:35,429 - Distance between net weights and OLS: 3.475289122434333e-05
+INFO - exp2.py - 2022-08-08 20:47:35,430 - Risk of Net: 0.8148047924041748
+INFO - exp2.py - 2022-08-08 20:47:35,430 - Risk of OLS: 0.8152286410331726
+INFO - exp2.py - 2022-08-08 20:47:35,430 - Training loss of Net: 3.5707651591110334e-07
+INFO - exp2.py - 2022-08-08 20:47:35,430 - Training loss of OLS: 7.118728717614431e-06
+INFO - exp2.py - 2022-08-08 20:47:35,431 - Run 18
+INFO - exp2.py - 2022-08-08 20:47:35,765 - Training Starting
+INFO - exp2.py - 2022-08-08 20:47:38,495 - Training Complete
+INFO - exp2.py - 2022-08-08 20:47:38,528 - Distance between net weights and OLS: 4.092694871360436e-05
+INFO - exp2.py - 2022-08-08 20:47:38,528 - Risk of Net: 0.938001811504364
+INFO - exp2.py - 2022-08-08 20:47:38,528 - Risk of OLS: 0.9372951984405518
+INFO - exp2.py - 2022-08-08 20:47:38,528 - Training loss of Net: 3.493003077892354e-07
+INFO - exp2.py - 2022-08-08 20:47:38,529 - Training loss of OLS: 1.142194560088683e-05
+INFO - exp2.py - 2022-08-08 20:47:38,529 - Run 19
+INFO - exp2.py - 2022-08-08 20:47:38,856 - Training Starting
+INFO - exp2.py - 2022-08-08 20:47:41,237 - Training Complete
+INFO - exp2.py - 2022-08-08 20:47:41,263 - Distance between net weights and OLS: 3.671126250992529e-05
+INFO - exp2.py - 2022-08-08 20:47:41,263 - Risk of Net: 0.9940723180770874
+INFO - exp2.py - 2022-08-08 20:47:41,263 - Risk of OLS: 0.9949723482131958
+INFO - exp2.py - 2022-08-08 20:47:41,263 - Training loss of Net: 3.50909687085732e-07
+INFO - exp2.py - 2022-08-08 20:47:41,263 - Training loss of OLS: 1.3283707630762365e-05
+INFO - exp2.py - 2022-08-08 20:47:41,263 - Current alpha is 0.00011111111111111112
+INFO - exp2.py - 2022-08-08 20:47:41,263 - Dimension is 500
+INFO - exp2.py - 2022-08-08 20:47:41,264 - Run 0
+INFO - exp2.py - 2022-08-08 20:47:41,575 - Training Starting
+INFO - exp2.py - 2022-08-08 20:47:43,941 - Training Complete
+INFO - exp2.py - 2022-08-08 20:47:43,965 - Distance between net weights and OLS: 0.07496370375156403
+INFO - exp2.py - 2022-08-08 20:47:43,966 - Risk of Net: 0.9958016276359558
+INFO - exp2.py - 2022-08-08 20:47:43,966 - Risk of OLS: 0.9943044781684875
+INFO - exp2.py - 2022-08-08 20:47:43,966 - Training loss of Net: 3.5565719258556783e-07
+INFO - exp2.py - 2022-08-08 20:47:43,966 - Training loss of OLS: 5.773086741100997e-06
+INFO - exp2.py - 2022-08-08 20:47:43,966 - Run 1
+INFO - exp2.py - 2022-08-08 20:47:44,290 - Training Starting
+INFO - exp2.py - 2022-08-08 20:47:46,609 - Training Complete
+INFO - exp2.py - 2022-08-08 20:47:46,634 - Distance between net weights and OLS: 0.07133933901786804
+INFO - exp2.py - 2022-08-08 20:47:46,634 - Risk of Net: 1.1851465702056885
+INFO - exp2.py - 2022-08-08 20:47:46,634 - Risk of OLS: 1.1861103773117065
+INFO - exp2.py - 2022-08-08 20:47:46,634 - Training loss of Net: 3.730738455942628e-07
+INFO - exp2.py - 2022-08-08 20:47:46,634 - Training loss of OLS: 1.3933849913883023e-05
+INFO - exp2.py - 2022-08-08 20:47:46,635 - Run 2
+INFO - exp2.py - 2022-08-08 20:47:46,951 - Training Starting
+INFO - exp2.py - 2022-08-08 20:47:49,425 - Training Complete
+INFO - exp2.py - 2022-08-08 20:47:49,452 - Distance between net weights and OLS: 0.06785830110311508
+INFO - exp2.py - 2022-08-08 20:47:49,452 - Risk of Net: 1.1293212175369263
+INFO - exp2.py - 2022-08-08 20:47:49,452 - Risk of OLS: 1.1292953491210938
+INFO - exp2.py - 2022-08-08 20:47:49,452 - Training loss of Net: 3.561553398867545e-07
+INFO - exp2.py - 2022-08-08 20:47:49,452 - Training loss of OLS: 3.926940735254902e-06
+INFO - exp2.py - 2022-08-08 20:47:49,452 - Run 3
+INFO - exp2.py - 2022-08-08 20:47:49,772 - Training Starting
+INFO - exp2.py - 2022-08-08 20:47:52,115 - Training Complete
+INFO - exp2.py - 2022-08-08 20:47:52,143 - Distance between net weights and OLS: 0.0744539275765419
+INFO - exp2.py - 2022-08-08 20:47:52,144 - Risk of Net: 1.146039366722107
+INFO - exp2.py - 2022-08-08 20:47:52,144 - Risk of OLS: 1.143290400505066
+INFO - exp2.py - 2022-08-08 20:47:52,144 - Training loss of Net: 3.450253700520989e-07
+INFO - exp2.py - 2022-08-08 20:47:52,144 - Training loss of OLS: 5.425018116511637e-06
+INFO - exp2.py - 2022-08-08 20:47:52,144 - Run 4
+INFO - exp2.py - 2022-08-08 20:47:52,457 - Training Starting
+INFO - exp2.py - 2022-08-08 20:47:54,860 - Training Complete
+INFO - exp2.py - 2022-08-08 20:47:54,886 - Distance between net weights and OLS: 0.07462352514266968
+INFO - exp2.py - 2022-08-08 20:47:54,886 - Risk of Net: 0.8430002927780151
+INFO - exp2.py - 2022-08-08 20:47:54,886 - Risk of OLS: 0.8420863151550293
+INFO - exp2.py - 2022-08-08 20:47:54,887 - Training loss of Net: 3.601265348152083e-07
+INFO - exp2.py - 2022-08-08 20:47:54,887 - Training loss of OLS: 6.867375304864254e-06
+INFO - exp2.py - 2022-08-08 20:47:54,887 - Run 5
+INFO - exp2.py - 2022-08-08 20:47:55,198 - Training Starting
+INFO - exp2.py - 2022-08-08 20:47:57,463 - Training Complete
+INFO - exp2.py - 2022-08-08 20:47:57,487 - Distance between net weights and OLS: 0.076890729367733
+INFO - exp2.py - 2022-08-08 20:47:57,487 - Risk of Net: 1.010705590248108
+INFO - exp2.py - 2022-08-08 20:47:57,487 - Risk of OLS: 1.010952115058899
+INFO - exp2.py - 2022-08-08 20:47:57,487 - Training loss of Net: 3.611690431171155e-07
+INFO - exp2.py - 2022-08-08 20:47:57,488 - Training loss of OLS: 9.453739949094597e-06
+INFO - exp2.py - 2022-08-08 20:47:57,488 - Run 6
+INFO - exp2.py - 2022-08-08 20:47:57,799 - Training Starting
+INFO - exp2.py - 2022-08-08 20:48:00,240 - Training Complete
+INFO - exp2.py - 2022-08-08 20:48:00,265 - Distance between net weights and OLS: 0.07385063916444778
+INFO - exp2.py - 2022-08-08 20:48:00,265 - Risk of Net: 1.079992413520813
+INFO - exp2.py - 2022-08-08 20:48:00,265 - Risk of OLS: 1.0810511112213135
+INFO - exp2.py - 2022-08-08 20:48:00,265 - Training loss of Net: 3.4819046845768753e-07
+INFO - exp2.py - 2022-08-08 20:48:00,266 - Training loss of OLS: 1.142790733865695e-05
+INFO - exp2.py - 2022-08-08 20:48:00,266 - Run 7
+INFO - exp2.py - 2022-08-08 20:48:00,595 - Training Starting
+INFO - exp2.py - 2022-08-08 20:48:03,001 - Training Complete
+INFO - exp2.py - 2022-08-08 20:48:03,029 - Distance between net weights and OLS: 0.07345684617757797
+INFO - exp2.py - 2022-08-08 20:48:03,029 - Risk of Net: 1.0519379377365112
+INFO - exp2.py - 2022-08-08 20:48:03,030 - Risk of OLS: 1.0511151552200317
+INFO - exp2.py - 2022-08-08 20:48:03,030 - Training loss of Net: 3.467197871032113e-07
+INFO - exp2.py - 2022-08-08 20:48:03,030 - Training loss of OLS: 6.408028639270924e-06
+INFO - exp2.py - 2022-08-08 20:48:03,030 - Run 8
+INFO - exp2.py - 2022-08-08 20:48:03,366 - Training Starting
+INFO - exp2.py - 2022-08-08 20:48:05,769 - Training Complete
+INFO - exp2.py - 2022-08-08 20:48:05,796 - Distance between net weights and OLS: 0.07668948173522949
+INFO - exp2.py - 2022-08-08 20:48:05,796 - Risk of Net: 1.2026152610778809
+INFO - exp2.py - 2022-08-08 20:48:05,796 - Risk of OLS: 1.2012968063354492
+INFO - exp2.py - 2022-08-08 20:48:05,796 - Training loss of Net: 3.819941696292517e-07
+INFO - exp2.py - 2022-08-08 20:48:05,796 - Training loss of OLS: 8.371105650439858e-06
+INFO - exp2.py - 2022-08-08 20:48:05,797 - Run 9
+INFO - exp2.py - 2022-08-08 20:48:06,130 - Training Starting
+INFO - exp2.py - 2022-08-08 20:48:08,750 - Training Complete
+INFO - exp2.py - 2022-08-08 20:48:08,781 - Distance between net weights and OLS: 0.07604214549064636
+INFO - exp2.py - 2022-08-08 20:48:08,782 - Risk of Net: 1.1096175909042358
+INFO - exp2.py - 2022-08-08 20:48:08,782 - Risk of OLS: 1.1093605756759644
+INFO - exp2.py - 2022-08-08 20:48:08,782 - Training loss of Net: 3.723203860772628e-07
+INFO - exp2.py - 2022-08-08 20:48:08,782 - Training loss of OLS: 9.447315278521273e-06
+INFO - exp2.py - 2022-08-08 20:48:08,782 - Run 10
+INFO - exp2.py - 2022-08-08 20:48:09,131 - Training Starting
+INFO - exp2.py - 2022-08-08 20:48:11,413 - Training Complete
+INFO - exp2.py - 2022-08-08 20:48:11,449 - Distance between net weights and OLS: 0.07539331167936325
+INFO - exp2.py - 2022-08-08 20:48:11,449 - Risk of Net: 1.3560758829116821
+INFO - exp2.py - 2022-08-08 20:48:11,450 - Risk of OLS: 1.3552377223968506
+INFO - exp2.py - 2022-08-08 20:48:11,450 - Training loss of Net: 3.41885680654741e-07
+INFO - exp2.py - 2022-08-08 20:48:11,450 - Training loss of OLS: 1.6030784536269493e-05
+INFO - exp2.py - 2022-08-08 20:48:11,450 - Run 11
+INFO - exp2.py - 2022-08-08 20:48:11,831 - Training Starting
+INFO - exp2.py - 2022-08-08 20:48:14,249 - Training Complete
+INFO - exp2.py - 2022-08-08 20:48:14,281 - Distance between net weights and OLS: 0.08057066053152084
+INFO - exp2.py - 2022-08-08 20:48:14,281 - Risk of Net: 0.9462330937385559
+INFO - exp2.py - 2022-08-08 20:48:14,281 - Risk of OLS: 0.9436309337615967
+INFO - exp2.py - 2022-08-08 20:48:14,281 - Training loss of Net: 3.5695339306585083e-07
+INFO - exp2.py - 2022-08-08 20:48:14,281 - Training loss of OLS: 8.681830877321772e-06
+INFO - exp2.py - 2022-08-08 20:48:14,282 - Run 12
+INFO - exp2.py - 2022-08-08 20:48:14,617 - Training Starting
+INFO - exp2.py - 2022-08-08 20:48:17,090 - Training Complete
+INFO - exp2.py - 2022-08-08 20:48:17,123 - Distance between net weights and OLS: 0.07080849260091782
+INFO - exp2.py - 2022-08-08 20:48:17,123 - Risk of Net: 1.0244592428207397
+INFO - exp2.py - 2022-08-08 20:48:17,124 - Risk of OLS: 1.0203547477722168
+INFO - exp2.py - 2022-08-08 20:48:17,124 - Training loss of Net: 3.427686010581965e-07
+INFO - exp2.py - 2022-08-08 20:48:17,124 - Training loss of OLS: 7.926840225991327e-06
+INFO - exp2.py - 2022-08-08 20:48:17,124 - Run 13
+INFO - exp2.py - 2022-08-08 20:48:17,441 - Training Starting
+INFO - exp2.py - 2022-08-08 20:48:19,906 - Training Complete
+INFO - exp2.py - 2022-08-08 20:48:19,931 - Distance between net weights and OLS: 0.07342451065778732
+INFO - exp2.py - 2022-08-08 20:48:19,931 - Risk of Net: 1.208884358406067
+INFO - exp2.py - 2022-08-08 20:48:19,931 - Risk of OLS: 1.2136083841323853
+INFO - exp2.py - 2022-08-08 20:48:19,931 - Training loss of Net: 3.589684922644665e-07
+INFO - exp2.py - 2022-08-08 20:48:19,931 - Training loss of OLS: 7.028028903732775e-06
+INFO - exp2.py - 2022-08-08 20:48:19,932 - Run 14
+INFO - exp2.py - 2022-08-08 20:48:20,242 - Training Starting
+INFO - exp2.py - 2022-08-08 20:48:22,556 - Training Complete
+INFO - exp2.py - 2022-08-08 20:48:22,580 - Distance between net weights and OLS: 0.07707765698432922
+INFO - exp2.py - 2022-08-08 20:48:22,580 - Risk of Net: 0.9896205067634583
+INFO - exp2.py - 2022-08-08 20:48:22,580 - Risk of OLS: 0.9903112053871155
+INFO - exp2.py - 2022-08-08 20:48:22,580 - Training loss of Net: 3.6359807609187555e-07
+INFO - exp2.py - 2022-08-08 20:48:22,581 - Training loss of OLS: 5.101022907183506e-06
+INFO - exp2.py - 2022-08-08 20:48:22,581 - Run 15
+INFO - exp2.py - 2022-08-08 20:48:22,893 - Training Starting
+INFO - exp2.py - 2022-08-08 20:48:25,372 - Training Complete
+INFO - exp2.py - 2022-08-08 20:48:25,396 - Distance between net weights and OLS: 0.07603445649147034
+INFO - exp2.py - 2022-08-08 20:48:25,396 - Risk of Net: 1.2146621942520142
+INFO - exp2.py - 2022-08-08 20:48:25,396 - Risk of OLS: 1.2172361612319946
+INFO - exp2.py - 2022-08-08 20:48:25,396 - Training loss of Net: 3.6957237625756534e-07
+INFO - exp2.py - 2022-08-08 20:48:25,397 - Training loss of OLS: 1.440197229385376e-05
+INFO - exp2.py - 2022-08-08 20:48:25,397 - Run 16
+INFO - exp2.py - 2022-08-08 20:48:25,715 - Training Starting
+INFO - exp2.py - 2022-08-08 20:48:28,367 - Training Complete
+INFO - exp2.py - 2022-08-08 20:48:28,394 - Distance between net weights and OLS: 0.07507742941379547
+INFO - exp2.py - 2022-08-08 20:48:28,394 - Risk of Net: 1.2284300327301025
+INFO - exp2.py - 2022-08-08 20:48:28,394 - Risk of OLS: 1.2336547374725342
+INFO - exp2.py - 2022-08-08 20:48:28,394 - Training loss of Net: 3.7991327417330467e-07
+INFO - exp2.py - 2022-08-08 20:48:28,395 - Training loss of OLS: 7.5132466008653864e-06
+INFO - exp2.py - 2022-08-08 20:48:28,395 - Run 17
+INFO - exp2.py - 2022-08-08 20:48:28,705 - Training Starting
+INFO - exp2.py - 2022-08-08 20:48:31,234 - Training Complete
+INFO - exp2.py - 2022-08-08 20:48:31,259 - Distance between net weights and OLS: 0.07470427453517914
+INFO - exp2.py - 2022-08-08 20:48:31,260 - Risk of Net: 0.897210419178009
+INFO - exp2.py - 2022-08-08 20:48:31,260 - Risk of OLS: 0.8961917757987976
+INFO - exp2.py - 2022-08-08 20:48:31,260 - Training loss of Net: 3.5774829143520037e-07
+INFO - exp2.py - 2022-08-08 20:48:31,260 - Training loss of OLS: 8.370009709324222e-06
+INFO - exp2.py - 2022-08-08 20:48:31,260 - Run 18
+INFO - exp2.py - 2022-08-08 20:48:31,584 - Training Starting
+INFO - exp2.py - 2022-08-08 20:48:33,981 - Training Complete
+INFO - exp2.py - 2022-08-08 20:48:34,013 - Distance between net weights and OLS: 0.08045408129692078
+INFO - exp2.py - 2022-08-08 20:48:34,013 - Risk of Net: 1.0330263376235962
+INFO - exp2.py - 2022-08-08 20:48:34,013 - Risk of OLS: 1.0346051454544067
+INFO - exp2.py - 2022-08-08 20:48:34,013 - Training loss of Net: 3.5864550795849937e-07
+INFO - exp2.py - 2022-08-08 20:48:34,014 - Training loss of OLS: 8.330279342771973e-06
+INFO - exp2.py - 2022-08-08 20:48:34,014 - Run 19
+INFO - exp2.py - 2022-08-08 20:48:34,421 - Training Starting
+INFO - exp2.py - 2022-08-08 20:48:36,883 - Training Complete
+INFO - exp2.py - 2022-08-08 20:48:36,920 - Distance between net weights and OLS: 0.07425914704799652
+INFO - exp2.py - 2022-08-08 20:48:36,920 - Risk of Net: 1.0014692544937134
+INFO - exp2.py - 2022-08-08 20:48:36,920 - Risk of OLS: 1.0011159181594849
+INFO - exp2.py - 2022-08-08 20:48:36,920 - Training loss of Net: 3.220017106286832e-07
+INFO - exp2.py - 2022-08-08 20:48:36,921 - Training loss of OLS: 7.457495485141408e-06
+INFO - exp2.py - 2022-08-08 20:48:36,921 - Current alpha is 0.00022222222222222223
+INFO - exp2.py - 2022-08-08 20:48:36,921 - Dimension is 500
+INFO - exp2.py - 2022-08-08 20:48:36,921 - Run 0
+INFO - exp2.py - 2022-08-08 20:48:37,251 - Training Starting
+INFO - exp2.py - 2022-08-08 20:48:39,666 - Training Complete
+INFO - exp2.py - 2022-08-08 20:48:39,704 - Distance between net weights and OLS: 0.30654221773147583
+INFO - exp2.py - 2022-08-08 20:48:39,704 - Risk of Net: 1.0229250192642212
+INFO - exp2.py - 2022-08-08 20:48:39,704 - Risk of OLS: 1.0207256078720093
+INFO - exp2.py - 2022-08-08 20:48:39,704 - Training loss of Net: 3.8050208672757435e-07
+INFO - exp2.py - 2022-08-08 20:48:39,705 - Training loss of OLS: 8.900013199308887e-06
+INFO - exp2.py - 2022-08-08 20:48:39,705 - Run 1
+INFO - exp2.py - 2022-08-08 20:48:40,110 - Training Starting
+INFO - exp2.py - 2022-08-08 20:48:42,741 - Training Complete
+INFO - exp2.py - 2022-08-08 20:48:42,775 - Distance between net weights and OLS: 0.304300993680954
+INFO - exp2.py - 2022-08-08 20:48:42,776 - Risk of Net: 0.8847138285636902
+INFO - exp2.py - 2022-08-08 20:48:42,776 - Risk of OLS: 0.8810977339744568
+INFO - exp2.py - 2022-08-08 20:48:42,776 - Training loss of Net: 3.5401552622715826e-07
+INFO - exp2.py - 2022-08-08 20:48:42,776 - Training loss of OLS: 5.92389233133872e-06
+INFO - exp2.py - 2022-08-08 20:48:42,777 - Run 2
+INFO - exp2.py - 2022-08-08 20:48:43,112 - Training Starting
+INFO - exp2.py - 2022-08-08 20:48:45,649 - Training Complete
+INFO - exp2.py - 2022-08-08 20:48:45,675 - Distance between net weights and OLS: 0.30092450976371765
+INFO - exp2.py - 2022-08-08 20:48:45,675 - Risk of Net: 1.3032913208007812
+INFO - exp2.py - 2022-08-08 20:48:45,675 - Risk of OLS: 1.3007208108901978
+INFO - exp2.py - 2022-08-08 20:48:45,675 - Training loss of Net: 3.842531270947802e-07
+INFO - exp2.py - 2022-08-08 20:48:45,676 - Training loss of OLS: 7.830977665435057e-06
+INFO - exp2.py - 2022-08-08 20:48:45,676 - Run 3
+INFO - exp2.py - 2022-08-08 20:48:45,992 - Training Starting
+INFO - exp2.py - 2022-08-08 20:48:48,380 - Training Complete
+INFO - exp2.py - 2022-08-08 20:48:48,421 - Distance between net weights and OLS: 0.2955176532268524
+INFO - exp2.py - 2022-08-08 20:48:48,422 - Risk of Net: 1.1914258003234863
+INFO - exp2.py - 2022-08-08 20:48:48,422 - Risk of OLS: 1.1809591054916382
+INFO - exp2.py - 2022-08-08 20:48:48,422 - Training loss of Net: 3.9956623254511214e-07
+INFO - exp2.py - 2022-08-08 20:48:48,422 - Training loss of OLS: 1.055459233612055e-05
+INFO - exp2.py - 2022-08-08 20:48:48,423 - Run 4
+INFO - exp2.py - 2022-08-08 20:48:48,900 - Training Starting
+INFO - exp2.py - 2022-08-08 20:48:51,428 - Training Complete
+INFO - exp2.py - 2022-08-08 20:48:51,453 - Distance between net weights and OLS: 0.3003811836242676
+INFO - exp2.py - 2022-08-08 20:48:51,453 - Risk of Net: 1.0173182487487793
+INFO - exp2.py - 2022-08-08 20:48:51,453 - Risk of OLS: 1.0135434865951538
+INFO - exp2.py - 2022-08-08 20:48:51,453 - Training loss of Net: 4.00837592451353e-07
+INFO - exp2.py - 2022-08-08 20:48:51,454 - Training loss of OLS: 9.310467248724308e-06
+INFO - exp2.py - 2022-08-08 20:48:51,454 - Run 5
+INFO - exp2.py - 2022-08-08 20:48:51,766 - Training Starting
+INFO - exp2.py - 2022-08-08 20:48:54,478 - Training Complete
+INFO - exp2.py - 2022-08-08 20:48:54,509 - Distance between net weights and OLS: 0.3066729009151459
+INFO - exp2.py - 2022-08-08 20:48:54,509 - Risk of Net: 0.9173648357391357
+INFO - exp2.py - 2022-08-08 20:48:54,509 - Risk of OLS: 0.9126120805740356
+INFO - exp2.py - 2022-08-08 20:48:54,510 - Training loss of Net: 3.9453561839764006e-07
+INFO - exp2.py - 2022-08-08 20:48:54,510 - Training loss of OLS: 7.265811291290447e-06
+INFO - exp2.py - 2022-08-08 20:48:54,510 - Run 6
+INFO - exp2.py - 2022-08-08 20:48:54,852 - Training Starting
+INFO - exp2.py - 2022-08-08 20:48:57,639 - Training Complete
+INFO - exp2.py - 2022-08-08 20:48:57,674 - Distance between net weights and OLS: 0.2946075201034546
+INFO - exp2.py - 2022-08-08 20:48:57,674 - Risk of Net: 1.2923946380615234
+INFO - exp2.py - 2022-08-08 20:48:57,675 - Risk of OLS: 1.2874480485916138
+INFO - exp2.py - 2022-08-08 20:48:57,675 - Training loss of Net: 3.836985911220836e-07
+INFO - exp2.py - 2022-08-08 20:48:57,675 - Training loss of OLS: 9.369389772473369e-06
+INFO - exp2.py - 2022-08-08 20:48:57,675 - Run 7
+INFO - exp2.py - 2022-08-08 20:48:58,088 - Training Starting
+INFO - exp2.py - 2022-08-08 20:49:00,448 - Training Complete
+INFO - exp2.py - 2022-08-08 20:49:00,473 - Distance between net weights and OLS: 0.2950151562690735
+INFO - exp2.py - 2022-08-08 20:49:00,473 - Risk of Net: 1.194967269897461
+INFO - exp2.py - 2022-08-08 20:49:00,473 - Risk of OLS: 1.190346598625183
+INFO - exp2.py - 2022-08-08 20:49:00,473 - Training loss of Net: 3.6882192944176495e-07
+INFO - exp2.py - 2022-08-08 20:49:00,473 - Training loss of OLS: 6.486063739430392e-06
+INFO - exp2.py - 2022-08-08 20:49:00,473 - Run 8
+INFO - exp2.py - 2022-08-08 20:49:00,785 - Training Starting
+INFO - exp2.py - 2022-08-08 20:49:03,478 - Training Complete
+INFO - exp2.py - 2022-08-08 20:49:03,503 - Distance between net weights and OLS: 0.30152806639671326
+INFO - exp2.py - 2022-08-08 20:49:03,503 - Risk of Net: 0.9150136709213257
+INFO - exp2.py - 2022-08-08 20:49:03,503 - Risk of OLS: 0.9144608974456787
+INFO - exp2.py - 2022-08-08 20:49:03,503 - Training loss of Net: 3.965476196299278e-07
+INFO - exp2.py - 2022-08-08 20:49:03,504 - Training loss of OLS: 8.69875293574296e-06
+INFO - exp2.py - 2022-08-08 20:49:03,504 - Run 9
+INFO - exp2.py - 2022-08-08 20:49:03,819 - Training Starting
+INFO - exp2.py - 2022-08-08 20:49:06,171 - Training Complete
+INFO - exp2.py - 2022-08-08 20:49:06,201 - Distance between net weights and OLS: 0.2937797009944916
+INFO - exp2.py - 2022-08-08 20:49:06,201 - Risk of Net: 1.0613571405410767
+INFO - exp2.py - 2022-08-08 20:49:06,201 - Risk of OLS: 1.0660138130187988
+INFO - exp2.py - 2022-08-08 20:49:06,201 - Training loss of Net: 4.063204244175722e-07
+INFO - exp2.py - 2022-08-08 20:49:06,202 - Training loss of OLS: 9.0649464254966e-06
+INFO - exp2.py - 2022-08-08 20:49:06,202 - Run 10
+INFO - exp2.py - 2022-08-08 20:49:06,519 - Training Starting
+INFO - exp2.py - 2022-08-08 20:49:09,014 - Training Complete
+INFO - exp2.py - 2022-08-08 20:49:09,043 - Distance between net weights and OLS: 0.2750798761844635
+INFO - exp2.py - 2022-08-08 20:49:09,044 - Risk of Net: 1.2156552076339722
+INFO - exp2.py - 2022-08-08 20:49:09,044 - Risk of OLS: 1.2115973234176636
+INFO - exp2.py - 2022-08-08 20:49:09,044 - Training loss of Net: 3.738794305263582e-07
+INFO - exp2.py - 2022-08-08 20:49:09,044 - Training loss of OLS: 4.6394316086662e-06
+INFO - exp2.py - 2022-08-08 20:49:09,044 - Run 11
+INFO - exp2.py - 2022-08-08 20:49:09,375 - Training Starting
+INFO - exp2.py - 2022-08-08 20:49:12,016 - Training Complete
+INFO - exp2.py - 2022-08-08 20:49:12,048 - Distance between net weights and OLS: 0.2764950394630432
+INFO - exp2.py - 2022-08-08 20:49:12,048 - Risk of Net: 1.0476536750793457
+INFO - exp2.py - 2022-08-08 20:49:12,048 - Risk of OLS: 1.0360420942306519
+INFO - exp2.py - 2022-08-08 20:49:12,048 - Training loss of Net: 3.7753812875962467e-07
+INFO - exp2.py - 2022-08-08 20:49:12,049 - Training loss of OLS: 1.0836221008503344e-05
+INFO - exp2.py - 2022-08-08 20:49:12,049 - Run 12
+INFO - exp2.py - 2022-08-08 20:49:12,387 - Training Starting
+INFO - exp2.py - 2022-08-08 20:49:14,762 - Training Complete
+INFO - exp2.py - 2022-08-08 20:49:14,801 - Distance between net weights and OLS: 0.30431389808654785
+INFO - exp2.py - 2022-08-08 20:49:14,801 - Risk of Net: 0.9710649251937866
+INFO - exp2.py - 2022-08-08 20:49:14,801 - Risk of OLS: 0.9757814407348633
+INFO - exp2.py - 2022-08-08 20:49:14,801 - Training loss of Net: 3.471881484529149e-07
+INFO - exp2.py - 2022-08-08 20:49:14,802 - Training loss of OLS: 5.768176379206125e-06
+INFO - exp2.py - 2022-08-08 20:49:14,802 - Run 13
+INFO - exp2.py - 2022-08-08 20:49:15,124 - Training Starting
+INFO - exp2.py - 2022-08-08 20:49:17,752 - Training Complete
+INFO - exp2.py - 2022-08-08 20:49:17,777 - Distance between net weights and OLS: 0.29981520771980286
+INFO - exp2.py - 2022-08-08 20:49:17,777 - Risk of Net: 0.8057299256324768
+INFO - exp2.py - 2022-08-08 20:49:17,777 - Risk of OLS: 0.8012714385986328
+INFO - exp2.py - 2022-08-08 20:49:17,777 - Training loss of Net: 3.728229955868301e-07
+INFO - exp2.py - 2022-08-08 20:49:17,778 - Training loss of OLS: 1.2817454262403771e-05
+INFO - exp2.py - 2022-08-08 20:49:17,778 - Run 14
+INFO - exp2.py - 2022-08-08 20:49:18,091 - Training Starting
+INFO - exp2.py - 2022-08-08 20:49:20,759 - Training Complete
+INFO - exp2.py - 2022-08-08 20:49:20,784 - Distance between net weights and OLS: 0.2937221825122833
+INFO - exp2.py - 2022-08-08 20:49:20,784 - Risk of Net: 1.296429991722107
+INFO - exp2.py - 2022-08-08 20:49:20,784 - Risk of OLS: 1.2772895097732544
+INFO - exp2.py - 2022-08-08 20:49:20,784 - Training loss of Net: 3.8600322227466677e-07
+INFO - exp2.py - 2022-08-08 20:49:20,784 - Training loss of OLS: 8.24455673864577e-06
+INFO - exp2.py - 2022-08-08 20:49:20,784 - Run 15
+INFO - exp2.py - 2022-08-08 20:49:21,131 - Training Starting
+INFO - exp2.py - 2022-08-08 20:49:24,227 - Training Complete
+INFO - exp2.py - 2022-08-08 20:49:24,256 - Distance between net weights and OLS: 0.31892406940460205
+INFO - exp2.py - 2022-08-08 20:49:24,256 - Risk of Net: 1.2948349714279175
+INFO - exp2.py - 2022-08-08 20:49:24,256 - Risk of OLS: 1.287077784538269
+INFO - exp2.py - 2022-08-08 20:49:24,257 - Training loss of Net: 3.8306100691443135e-07
+INFO - exp2.py - 2022-08-08 20:49:24,257 - Training loss of OLS: 7.398878096864792e-06
+INFO - exp2.py - 2022-08-08 20:49:24,257 - Run 16
+INFO - exp2.py - 2022-08-08 20:49:24,567 - Training Starting
+INFO - exp2.py - 2022-08-08 20:49:27,077 - Training Complete
+INFO - exp2.py - 2022-08-08 20:49:27,116 - Distance between net weights and OLS: 0.2943558096885681
+INFO - exp2.py - 2022-08-08 20:49:27,116 - Risk of Net: 0.9095089435577393
+INFO - exp2.py - 2022-08-08 20:49:27,116 - Risk of OLS: 0.9037957787513733
+INFO - exp2.py - 2022-08-08 20:49:27,117 - Training loss of Net: 3.761818732073152e-07
+INFO - exp2.py - 2022-08-08 20:49:27,117 - Training loss of OLS: 9.590651643520687e-06
+INFO - exp2.py - 2022-08-08 20:49:27,117 - Run 17
+INFO - exp2.py - 2022-08-08 20:49:27,583 - Training Starting
+INFO - exp2.py - 2022-08-08 20:49:30,148 - Training Complete
+INFO - exp2.py - 2022-08-08 20:49:30,184 - Distance between net weights and OLS: 0.31118500232696533
+INFO - exp2.py - 2022-08-08 20:49:30,184 - Risk of Net: 1.100024700164795
+INFO - exp2.py - 2022-08-08 20:49:30,184 - Risk of OLS: 1.09786057472229
+INFO - exp2.py - 2022-08-08 20:49:30,184 - Training loss of Net: 3.6893345622956986e-07
+INFO - exp2.py - 2022-08-08 20:49:30,185 - Training loss of OLS: 8.247320693044458e-06
+INFO - exp2.py - 2022-08-08 20:49:30,185 - Run 18
+INFO - exp2.py - 2022-08-08 20:49:30,574 - Training Starting
+INFO - exp2.py - 2022-08-08 20:49:32,877 - Training Complete
+INFO - exp2.py - 2022-08-08 20:49:32,916 - Distance between net weights and OLS: 0.32268962264060974
+INFO - exp2.py - 2022-08-08 20:49:32,916 - Risk of Net: 1.0355892181396484
+INFO - exp2.py - 2022-08-08 20:49:32,916 - Risk of OLS: 1.0306670665740967
+INFO - exp2.py - 2022-08-08 20:49:32,916 - Training loss of Net: 3.720400059137319e-07
+INFO - exp2.py - 2022-08-08 20:49:32,917 - Training loss of OLS: 7.469610409316374e-06
+INFO - exp2.py - 2022-08-08 20:49:32,917 - Run 19
+INFO - exp2.py - 2022-08-08 20:49:33,300 - Training Starting
+INFO - exp2.py - 2022-08-08 20:49:35,742 - Training Complete
+INFO - exp2.py - 2022-08-08 20:49:35,779 - Distance between net weights and OLS: 0.29150888323783875
+INFO - exp2.py - 2022-08-08 20:49:35,779 - Risk of Net: 1.1621291637420654
+INFO - exp2.py - 2022-08-08 20:49:35,779 - Risk of OLS: 1.1547669172286987
+INFO - exp2.py - 2022-08-08 20:49:35,779 - Training loss of Net: 4.120967389553698e-07
+INFO - exp2.py - 2022-08-08 20:49:35,780 - Training loss of OLS: 6.223709533514921e-06
+INFO - exp2.py - 2022-08-08 20:49:35,780 - Current alpha is 0.0003333333333333334
+INFO - exp2.py - 2022-08-08 20:49:35,780 - Dimension is 500
+INFO - exp2.py - 2022-08-08 20:49:35,780 - Run 0
+INFO - exp2.py - 2022-08-08 20:49:36,110 - Training Starting
+INFO - exp2.py - 2022-08-08 20:49:38,713 - Training Complete
+INFO - exp2.py - 2022-08-08 20:49:38,751 - Distance between net weights and OLS: 0.6069957613945007
+INFO - exp2.py - 2022-08-08 20:49:38,751 - Risk of Net: 1.0381803512573242
+INFO - exp2.py - 2022-08-08 20:49:38,751 - Risk of OLS: 1.0304094552993774
+INFO - exp2.py - 2022-08-08 20:49:38,751 - Training loss of Net: 4.5150270011617977e-07
+INFO - exp2.py - 2022-08-08 20:49:38,752 - Training loss of OLS: 5.880995558982249e-06
+INFO - exp2.py - 2022-08-08 20:49:38,752 - Run 1
+INFO - exp2.py - 2022-08-08 20:49:39,091 - Training Starting
+INFO - exp2.py - 2022-08-08 20:49:41,849 - Training Complete
+INFO - exp2.py - 2022-08-08 20:49:41,884 - Distance between net weights and OLS: 0.6372654438018799
+INFO - exp2.py - 2022-08-08 20:49:41,884 - Risk of Net: 1.116209626197815
+INFO - exp2.py - 2022-08-08 20:49:41,884 - Risk of OLS: 1.1060996055603027
+INFO - exp2.py - 2022-08-08 20:49:41,884 - Training loss of Net: 4.316295019179961e-07
+INFO - exp2.py - 2022-08-08 20:49:41,885 - Training loss of OLS: 1.02147105280892e-05
+INFO - exp2.py - 2022-08-08 20:49:41,885 - Run 2
+INFO - exp2.py - 2022-08-08 20:49:42,279 - Training Starting
+INFO - exp2.py - 2022-08-08 20:49:44,798 - Training Complete
+INFO - exp2.py - 2022-08-08 20:49:44,822 - Distance between net weights and OLS: 0.6683557629585266
+INFO - exp2.py - 2022-08-08 20:49:44,822 - Risk of Net: 1.153557538986206
+INFO - exp2.py - 2022-08-08 20:49:44,822 - Risk of OLS: 1.1503145694732666
+INFO - exp2.py - 2022-08-08 20:49:44,823 - Training loss of Net: 4.2963637270077015e-07
+INFO - exp2.py - 2022-08-08 20:49:44,823 - Training loss of OLS: 1.2067550414940342e-05
+INFO - exp2.py - 2022-08-08 20:49:44,823 - Run 3
+INFO - exp2.py - 2022-08-08 20:49:45,141 - Training Starting
+INFO - exp2.py - 2022-08-08 20:49:47,553 - Training Complete
+INFO - exp2.py - 2022-08-08 20:49:47,579 - Distance between net weights and OLS: 0.694654643535614
+INFO - exp2.py - 2022-08-08 20:49:47,579 - Risk of Net: 0.9918825030326843
+INFO - exp2.py - 2022-08-08 20:49:47,579 - Risk of OLS: 0.985133171081543
+INFO - exp2.py - 2022-08-08 20:49:47,579 - Training loss of Net: 4.570515272916964e-07
+INFO - exp2.py - 2022-08-08 20:49:47,579 - Training loss of OLS: 8.064005669439211e-06
+INFO - exp2.py - 2022-08-08 20:49:47,579 - Run 4
+INFO - exp2.py - 2022-08-08 20:49:47,906 - Training Starting
+INFO - exp2.py - 2022-08-08 20:49:50,519 - Training Complete
+INFO - exp2.py - 2022-08-08 20:49:50,547 - Distance between net weights and OLS: 0.6879895925521851
+INFO - exp2.py - 2022-08-08 20:49:50,547 - Risk of Net: 0.9531041979789734
+INFO - exp2.py - 2022-08-08 20:49:50,547 - Risk of OLS: 0.9420992732048035
+INFO - exp2.py - 2022-08-08 20:49:50,547 - Training loss of Net: 4.441283749656577e-07
+INFO - exp2.py - 2022-08-08 20:49:50,548 - Training loss of OLS: 5.2723025874001905e-06
+INFO - exp2.py - 2022-08-08 20:49:50,548 - Run 5
+INFO - exp2.py - 2022-08-08 20:49:50,872 - Training Starting
+INFO - exp2.py - 2022-08-08 20:49:53,266 - Training Complete
+INFO - exp2.py - 2022-08-08 20:49:53,291 - Distance between net weights and OLS: 0.6802803874015808
+INFO - exp2.py - 2022-08-08 20:49:53,291 - Risk of Net: 0.8153903484344482
+INFO - exp2.py - 2022-08-08 20:49:53,291 - Risk of OLS: 0.8102463483810425
+INFO - exp2.py - 2022-08-08 20:49:53,291 - Training loss of Net: 4.4780702523894433e-07
+INFO - exp2.py - 2022-08-08 20:49:53,292 - Training loss of OLS: 6.386878339981195e-06
+INFO - exp2.py - 2022-08-08 20:49:53,292 - Run 6
+INFO - exp2.py - 2022-08-08 20:49:53,604 - Training Starting
+INFO - exp2.py - 2022-08-08 20:49:56,075 - Training Complete
+INFO - exp2.py - 2022-08-08 20:49:56,099 - Distance between net weights and OLS: 0.672766923904419
+INFO - exp2.py - 2022-08-08 20:49:56,100 - Risk of Net: 1.0972518920898438
+INFO - exp2.py - 2022-08-08 20:49:56,100 - Risk of OLS: 1.1011500358581543
+INFO - exp2.py - 2022-08-08 20:49:56,100 - Training loss of Net: 4.143358864894253e-07
+INFO - exp2.py - 2022-08-08 20:49:56,100 - Training loss of OLS: 8.37617517390754e-06
+INFO - exp2.py - 2022-08-08 20:49:56,100 - Run 7
+INFO - exp2.py - 2022-08-08 20:49:56,412 - Training Starting
+INFO - exp2.py - 2022-08-08 20:49:58,966 - Training Complete
+INFO - exp2.py - 2022-08-08 20:49:59,004 - Distance between net weights and OLS: 0.677772045135498
+INFO - exp2.py - 2022-08-08 20:49:59,004 - Risk of Net: 1.0667269229888916
+INFO - exp2.py - 2022-08-08 20:49:59,004 - Risk of OLS: 1.0628490447998047
+INFO - exp2.py - 2022-08-08 20:49:59,005 - Training loss of Net: 4.287035721972643e-07
+INFO - exp2.py - 2022-08-08 20:49:59,005 - Training loss of OLS: 4.716545845440123e-06
+INFO - exp2.py - 2022-08-08 20:49:59,005 - Run 8
+INFO - exp2.py - 2022-08-08 20:49:59,336 - Training Starting
+INFO - exp2.py - 2022-08-08 20:50:01,824 - Training Complete
+INFO - exp2.py - 2022-08-08 20:50:01,852 - Distance between net weights and OLS: 0.6685012578964233
+INFO - exp2.py - 2022-08-08 20:50:01,853 - Risk of Net: 1.1246365308761597
+INFO - exp2.py - 2022-08-08 20:50:01,853 - Risk of OLS: 1.1178088188171387
+INFO - exp2.py - 2022-08-08 20:50:01,853 - Training loss of Net: 4.3373901803533954e-07
+INFO - exp2.py - 2022-08-08 20:50:01,853 - Training loss of OLS: 6.726498213538434e-06
+INFO - exp2.py - 2022-08-08 20:50:01,853 - Run 9
+INFO - exp2.py - 2022-08-08 20:50:02,186 - Training Starting
+INFO - exp2.py - 2022-08-08 20:50:04,776 - Training Complete
+INFO - exp2.py - 2022-08-08 20:50:04,809 - Distance between net weights and OLS: 0.6933670043945312
+INFO - exp2.py - 2022-08-08 20:50:04,810 - Risk of Net: 1.100540280342102
+INFO - exp2.py - 2022-08-08 20:50:04,810 - Risk of OLS: 1.0848735570907593
+INFO - exp2.py - 2022-08-08 20:50:04,810 - Training loss of Net: 4.298485407616681e-07
+INFO - exp2.py - 2022-08-08 20:50:04,810 - Training loss of OLS: 7.517306585214101e-06
+INFO - exp2.py - 2022-08-08 20:50:04,811 - Run 10
+INFO - exp2.py - 2022-08-08 20:50:05,142 - Training Starting
+INFO - exp2.py - 2022-08-08 20:50:07,815 - Training Complete
+INFO - exp2.py - 2022-08-08 20:50:07,918 - Distance between net weights and OLS: 0.6848565340042114
+INFO - exp2.py - 2022-08-08 20:50:07,918 - Risk of Net: 1.0960897207260132
+INFO - exp2.py - 2022-08-08 20:50:07,918 - Risk of OLS: 1.0892446041107178
+INFO - exp2.py - 2022-08-08 20:50:07,918 - Training loss of Net: 4.5337611709328485e-07
+INFO - exp2.py - 2022-08-08 20:50:07,918 - Training loss of OLS: 1.1498472304083407e-05
+INFO - exp2.py - 2022-08-08 20:50:07,918 - Run 11
+INFO - exp2.py - 2022-08-08 20:50:08,233 - Training Starting
+INFO - exp2.py - 2022-08-08 20:50:10,755 - Training Complete
+INFO - exp2.py - 2022-08-08 20:50:10,780 - Distance between net weights and OLS: 0.6703892946243286
+INFO - exp2.py - 2022-08-08 20:50:10,780 - Risk of Net: 1.1074541807174683
+INFO - exp2.py - 2022-08-08 20:50:10,781 - Risk of OLS: 1.0995614528656006
+INFO - exp2.py - 2022-08-08 20:50:10,781 - Training loss of Net: 4.1603212252994126e-07
+INFO - exp2.py - 2022-08-08 20:50:10,781 - Training loss of OLS: 8.66598384163808e-06
+INFO - exp2.py - 2022-08-08 20:50:10,781 - Run 12
+INFO - exp2.py - 2022-08-08 20:50:11,094 - Training Starting
+INFO - exp2.py - 2022-08-08 20:50:13,317 - Training Complete
+INFO - exp2.py - 2022-08-08 20:50:13,342 - Distance between net weights and OLS: 0.6614203453063965
+INFO - exp2.py - 2022-08-08 20:50:13,342 - Risk of Net: 0.9962935447692871
+INFO - exp2.py - 2022-08-08 20:50:13,342 - Risk of OLS: 0.9917264580726624
+INFO - exp2.py - 2022-08-08 20:50:13,342 - Training loss of Net: 4.176710319825361e-07
+INFO - exp2.py - 2022-08-08 20:50:13,343 - Training loss of OLS: 8.550636266591027e-06
+INFO - exp2.py - 2022-08-08 20:50:13,343 - Run 13
+INFO - exp2.py - 2022-08-08 20:50:13,654 - Training Starting
+INFO - exp2.py - 2022-08-08 20:50:16,089 - Training Complete
+INFO - exp2.py - 2022-08-08 20:50:16,113 - Distance between net weights and OLS: 0.6570656895637512
+INFO - exp2.py - 2022-08-08 20:50:16,114 - Risk of Net: 1.2245138883590698
+INFO - exp2.py - 2022-08-08 20:50:16,114 - Risk of OLS: 1.2127424478530884
+INFO - exp2.py - 2022-08-08 20:50:16,114 - Training loss of Net: 4.608650385762303e-07
+INFO - exp2.py - 2022-08-08 20:50:16,114 - Training loss of OLS: 1.291538865189068e-05
+INFO - exp2.py - 2022-08-08 20:50:16,114 - Run 14
+INFO - exp2.py - 2022-08-08 20:50:16,433 - Training Starting
+INFO - exp2.py - 2022-08-08 20:50:18,939 - Training Complete
+INFO - exp2.py - 2022-08-08 20:50:18,966 - Distance between net weights and OLS: 0.6628429889678955
+INFO - exp2.py - 2022-08-08 20:50:18,966 - Risk of Net: 1.0219169855117798
+INFO - exp2.py - 2022-08-08 20:50:18,966 - Risk of OLS: 1.0211455821990967
+INFO - exp2.py - 2022-08-08 20:50:18,966 - Training loss of Net: 4.600324245984666e-07
+INFO - exp2.py - 2022-08-08 20:50:18,966 - Training loss of OLS: 6.457595645770198e-06
+INFO - exp2.py - 2022-08-08 20:50:18,966 - Run 15
+INFO - exp2.py - 2022-08-08 20:50:19,279 - Training Starting
+INFO - exp2.py - 2022-08-08 20:50:21,860 - Training Complete
+INFO - exp2.py - 2022-08-08 20:50:21,884 - Distance between net weights and OLS: 0.675329864025116
+INFO - exp2.py - 2022-08-08 20:50:21,884 - Risk of Net: 1.1923309564590454
+INFO - exp2.py - 2022-08-08 20:50:21,884 - Risk of OLS: 1.1798348426818848
+INFO - exp2.py - 2022-08-08 20:50:21,884 - Training loss of Net: 4.468708141303068e-07
+INFO - exp2.py - 2022-08-08 20:50:21,884 - Training loss of OLS: 9.855413736659102e-06
+INFO - exp2.py - 2022-08-08 20:50:21,884 - Run 16
+INFO - exp2.py - 2022-08-08 20:50:22,201 - Training Starting
+INFO - exp2.py - 2022-08-08 20:50:24,665 - Training Complete
+INFO - exp2.py - 2022-08-08 20:50:24,692 - Distance between net weights and OLS: 0.6513024568557739
+INFO - exp2.py - 2022-08-08 20:50:24,692 - Risk of Net: 1.1886522769927979
+INFO - exp2.py - 2022-08-08 20:50:24,692 - Risk of OLS: 1.1776386499404907
+INFO - exp2.py - 2022-08-08 20:50:24,692 - Training loss of Net: 4.371344743958616e-07
+INFO - exp2.py - 2022-08-08 20:50:24,692 - Training loss of OLS: 3.3172877920151222e-06
+INFO - exp2.py - 2022-08-08 20:50:24,692 - Run 17
+INFO - exp2.py - 2022-08-08 20:50:25,006 - Training Starting
+INFO - exp2.py - 2022-08-08 20:50:27,377 - Training Complete
+INFO - exp2.py - 2022-08-08 20:50:27,404 - Distance between net weights and OLS: 0.6959457397460938
+INFO - exp2.py - 2022-08-08 20:50:27,404 - Risk of Net: 1.2762227058410645
+INFO - exp2.py - 2022-08-08 20:50:27,405 - Risk of OLS: 1.2682015895843506
+INFO - exp2.py - 2022-08-08 20:50:27,405 - Training loss of Net: 4.5479671939574473e-07
+INFO - exp2.py - 2022-08-08 20:50:27,405 - Training loss of OLS: 1.3784627299173735e-05
+INFO - exp2.py - 2022-08-08 20:50:27,405 - Run 18
+INFO - exp2.py - 2022-08-08 20:50:27,723 - Training Starting
+INFO - exp2.py - 2022-08-08 20:50:30,108 - Training Complete
+INFO - exp2.py - 2022-08-08 20:50:30,139 - Distance between net weights and OLS: 0.6952431201934814
+INFO - exp2.py - 2022-08-08 20:50:30,139 - Risk of Net: 0.9497324228286743
+INFO - exp2.py - 2022-08-08 20:50:30,140 - Risk of OLS: 0.9395766258239746
+INFO - exp2.py - 2022-08-08 20:50:30,140 - Training loss of Net: 5.085001362203911e-07
+INFO - exp2.py - 2022-08-08 20:50:30,140 - Training loss of OLS: 9.58818600338418e-06
+INFO - exp2.py - 2022-08-08 20:50:30,140 - Run 19
+INFO - exp2.py - 2022-08-08 20:50:30,460 - Training Starting
+INFO - exp2.py - 2022-08-08 20:50:32,686 - Training Complete
+INFO - exp2.py - 2022-08-08 20:50:32,718 - Distance between net weights and OLS: 0.68857342004776
+INFO - exp2.py - 2022-08-08 20:50:32,718 - Risk of Net: 0.9026050567626953
+INFO - exp2.py - 2022-08-08 20:50:32,719 - Risk of OLS: 0.8994806408882141
+INFO - exp2.py - 2022-08-08 20:50:32,719 - Training loss of Net: 4.721209734270815e-07
+INFO - exp2.py - 2022-08-08 20:50:32,719 - Training loss of OLS: 7.378606824204326e-06
+INFO - exp2.py - 2022-08-08 20:50:32,719 - Current alpha is 0.00044444444444444447
+INFO - exp2.py - 2022-08-08 20:50:32,719 - Dimension is 500
+INFO - exp2.py - 2022-08-08 20:50:32,719 - Run 0
+INFO - exp2.py - 2022-08-08 20:50:33,045 - Training Starting
+INFO - exp2.py - 2022-08-08 20:50:35,587 - Training Complete
+INFO - exp2.py - 2022-08-08 20:50:35,624 - Distance between net weights and OLS: 1.2094734907150269
+INFO - exp2.py - 2022-08-08 20:50:35,624 - Risk of Net: 1.067594289779663
+INFO - exp2.py - 2022-08-08 20:50:35,624 - Risk of OLS: 1.0563037395477295
+INFO - exp2.py - 2022-08-08 20:50:35,624 - Training loss of Net: 5.132970954946359e-07
+INFO - exp2.py - 2022-08-08 20:50:35,625 - Training loss of OLS: 1.010676714940928e-05
+INFO - exp2.py - 2022-08-08 20:50:35,625 - Run 1
+INFO - exp2.py - 2022-08-08 20:50:35,953 - Training Starting
+INFO - exp2.py - 2022-08-08 20:50:38,395 - Training Complete
+INFO - exp2.py - 2022-08-08 20:50:38,432 - Distance between net weights and OLS: 1.190352201461792
+INFO - exp2.py - 2022-08-08 20:50:38,432 - Risk of Net: 0.931864321231842
+INFO - exp2.py - 2022-08-08 20:50:38,432 - Risk of OLS: 0.9097793698310852
+INFO - exp2.py - 2022-08-08 20:50:38,432 - Training loss of Net: 5.751278990828723e-07
+INFO - exp2.py - 2022-08-08 20:50:38,433 - Training loss of OLS: 5.743823749071453e-06
+INFO - exp2.py - 2022-08-08 20:50:38,433 - Run 2
+INFO - exp2.py - 2022-08-08 20:50:38,794 - Training Starting
+INFO - exp2.py - 2022-08-08 20:50:41,210 - Training Complete
+INFO - exp2.py - 2022-08-08 20:50:41,237 - Distance between net weights and OLS: 1.1404342651367188
+INFO - exp2.py - 2022-08-08 20:50:41,237 - Risk of Net: 1.1539247035980225
+INFO - exp2.py - 2022-08-08 20:50:41,237 - Risk of OLS: 1.1317710876464844
+INFO - exp2.py - 2022-08-08 20:50:41,237 - Training loss of Net: 5.116801276017213e-07
+INFO - exp2.py - 2022-08-08 20:50:41,237 - Training loss of OLS: 6.122729701019125e-06
+INFO - exp2.py - 2022-08-08 20:50:41,237 - Run 3
+INFO - exp2.py - 2022-08-08 20:50:41,548 - Training Starting
+INFO - exp2.py - 2022-08-08 20:50:44,051 - Training Complete
+INFO - exp2.py - 2022-08-08 20:50:44,076 - Distance between net weights and OLS: 1.2178906202316284
+INFO - exp2.py - 2022-08-08 20:50:44,077 - Risk of Net: 1.2367545366287231
+INFO - exp2.py - 2022-08-08 20:50:44,077 - Risk of OLS: 1.2220269441604614
+INFO - exp2.py - 2022-08-08 20:50:44,077 - Training loss of Net: 5.35787023636658e-07
+INFO - exp2.py - 2022-08-08 20:50:44,077 - Training loss of OLS: 9.297675205743872e-06
+INFO - exp2.py - 2022-08-08 20:50:44,077 - Run 4
+INFO - exp2.py - 2022-08-08 20:50:44,399 - Training Starting
+INFO - exp2.py - 2022-08-08 20:50:47,083 - Training Complete
+INFO - exp2.py - 2022-08-08 20:50:47,107 - Distance between net weights and OLS: 1.1960275173187256
+INFO - exp2.py - 2022-08-08 20:50:47,108 - Risk of Net: 1.1329559087753296
+INFO - exp2.py - 2022-08-08 20:50:47,108 - Risk of OLS: 1.1015610694885254
+INFO - exp2.py - 2022-08-08 20:50:47,108 - Training loss of Net: 4.980473136129149e-07
+INFO - exp2.py - 2022-08-08 20:50:47,108 - Training loss of OLS: 1.4675681086373515e-05
+INFO - exp2.py - 2022-08-08 20:50:47,108 - Run 5
+INFO - exp2.py - 2022-08-08 20:50:47,418 - Training Starting
+INFO - exp2.py - 2022-08-08 20:50:49,902 - Training Complete
+INFO - exp2.py - 2022-08-08 20:50:49,927 - Distance between net weights and OLS: 1.162879467010498
+INFO - exp2.py - 2022-08-08 20:50:49,928 - Risk of Net: 0.803181529045105
+INFO - exp2.py - 2022-08-08 20:50:49,928 - Risk of OLS: 0.7951616048812866
+INFO - exp2.py - 2022-08-08 20:50:49,928 - Training loss of Net: 5.046946398579166e-07
+INFO - exp2.py - 2022-08-08 20:50:49,928 - Training loss of OLS: 8.262400115199853e-06
+INFO - exp2.py - 2022-08-08 20:50:49,928 - Run 6
+INFO - exp2.py - 2022-08-08 20:50:50,245 - Training Starting
+INFO - exp2.py - 2022-08-08 20:50:52,627 - Training Complete
+INFO - exp2.py - 2022-08-08 20:50:52,662 - Distance between net weights and OLS: 1.1726725101470947
+INFO - exp2.py - 2022-08-08 20:50:52,662 - Risk of Net: 1.021426796913147
+INFO - exp2.py - 2022-08-08 20:50:52,662 - Risk of OLS: 0.9960407018661499
+INFO - exp2.py - 2022-08-08 20:50:52,662 - Training loss of Net: 5.636437663270044e-07
+INFO - exp2.py - 2022-08-08 20:50:52,663 - Training loss of OLS: 5.6408721320622135e-06
+INFO - exp2.py - 2022-08-08 20:50:52,663 - Run 7
+INFO - exp2.py - 2022-08-08 20:50:53,005 - Training Starting
+INFO - exp2.py - 2022-08-08 20:50:55,529 - Training Complete
+INFO - exp2.py - 2022-08-08 20:50:55,561 - Distance between net weights and OLS: 1.2552907466888428
+INFO - exp2.py - 2022-08-08 20:50:55,562 - Risk of Net: 1.094417691230774
+INFO - exp2.py - 2022-08-08 20:50:55,562 - Risk of OLS: 1.0734565258026123
+INFO - exp2.py - 2022-08-08 20:50:55,562 - Training loss of Net: 5.196875463298056e-07
+INFO - exp2.py - 2022-08-08 20:50:55,562 - Training loss of OLS: 9.360498552268837e-06
+INFO - exp2.py - 2022-08-08 20:50:55,562 - Run 8
+INFO - exp2.py - 2022-08-08 20:50:55,910 - Training Starting
+INFO - exp2.py - 2022-08-08 20:50:58,443 - Training Complete
+INFO - exp2.py - 2022-08-08 20:50:58,468 - Distance between net weights and OLS: 1.195868730545044
+INFO - exp2.py - 2022-08-08 20:50:58,469 - Risk of Net: 0.9858068823814392
+INFO - exp2.py - 2022-08-08 20:50:58,469 - Risk of OLS: 0.9703155159950256
+INFO - exp2.py - 2022-08-08 20:50:58,469 - Training loss of Net: 4.981950496585341e-07
+INFO - exp2.py - 2022-08-08 20:50:58,469 - Training loss of OLS: 1.6892274288693443e-05
+INFO - exp2.py - 2022-08-08 20:50:58,469 - Run 9
+INFO - exp2.py - 2022-08-08 20:50:58,787 - Training Starting
+INFO - exp2.py - 2022-08-08 20:51:01,257 - Training Complete
+INFO - exp2.py - 2022-08-08 20:51:01,297 - Distance between net weights and OLS: 1.2834429740905762
+INFO - exp2.py - 2022-08-08 20:51:01,298 - Risk of Net: 1.1136277914047241
+INFO - exp2.py - 2022-08-08 20:51:01,298 - Risk of OLS: 1.0997968912124634
+INFO - exp2.py - 2022-08-08 20:51:01,298 - Training loss of Net: 5.041246708969993e-07
+INFO - exp2.py - 2022-08-08 20:51:01,299 - Training loss of OLS: 6.571327048732201e-06
+INFO - exp2.py - 2022-08-08 20:51:01,299 - Run 10
+INFO - exp2.py - 2022-08-08 20:51:01,636 - Training Starting
+INFO - exp2.py - 2022-08-08 20:51:04,177 - Training Complete
+INFO - exp2.py - 2022-08-08 20:51:04,221 - Distance between net weights and OLS: 1.1598745584487915
+INFO - exp2.py - 2022-08-08 20:51:04,222 - Risk of Net: 1.0716139078140259
+INFO - exp2.py - 2022-08-08 20:51:04,222 - Risk of OLS: 1.0499372482299805
+INFO - exp2.py - 2022-08-08 20:51:04,222 - Training loss of Net: 5.276194201542239e-07
+INFO - exp2.py - 2022-08-08 20:51:04,222 - Training loss of OLS: 1.1818105122074485e-05
+INFO - exp2.py - 2022-08-08 20:51:04,222 - Run 11
+INFO - exp2.py - 2022-08-08 20:51:04,538 - Training Starting
+INFO - exp2.py - 2022-08-08 20:51:07,007 - Training Complete
+INFO - exp2.py - 2022-08-08 20:51:07,032 - Distance between net weights and OLS: 1.1058903932571411
+INFO - exp2.py - 2022-08-08 20:51:07,032 - Risk of Net: 1.3040084838867188
+INFO - exp2.py - 2022-08-08 20:51:07,032 - Risk of OLS: 1.2876160144805908
+INFO - exp2.py - 2022-08-08 20:51:07,032 - Training loss of Net: 4.943140083923936e-07
+INFO - exp2.py - 2022-08-08 20:51:07,032 - Training loss of OLS: 8.209848601836711e-06
+INFO - exp2.py - 2022-08-08 20:51:07,032 - Run 12
+INFO - exp2.py - 2022-08-08 20:51:07,344 - Training Starting
+INFO - exp2.py - 2022-08-08 20:51:09,787 - Training Complete
+INFO - exp2.py - 2022-08-08 20:51:09,812 - Distance between net weights and OLS: 1.2021996974945068
+INFO - exp2.py - 2022-08-08 20:51:09,812 - Risk of Net: 0.988979160785675
+INFO - exp2.py - 2022-08-08 20:51:09,812 - Risk of OLS: 0.9745184183120728
+INFO - exp2.py - 2022-08-08 20:51:09,812 - Training loss of Net: 5.50835466128774e-07
+INFO - exp2.py - 2022-08-08 20:51:09,812 - Training loss of OLS: 1.2422839063219726e-05
+INFO - exp2.py - 2022-08-08 20:51:09,813 - Run 13
+INFO - exp2.py - 2022-08-08 20:51:10,129 - Training Starting
+INFO - exp2.py - 2022-08-08 20:51:12,541 - Training Complete
+INFO - exp2.py - 2022-08-08 20:51:12,566 - Distance between net weights and OLS: 1.221922755241394
+INFO - exp2.py - 2022-08-08 20:51:12,566 - Risk of Net: 1.0450379848480225
+INFO - exp2.py - 2022-08-08 20:51:12,566 - Risk of OLS: 1.0442848205566406
+INFO - exp2.py - 2022-08-08 20:51:12,566 - Training loss of Net: 5.322910396898806e-07
+INFO - exp2.py - 2022-08-08 20:51:12,566 - Training loss of OLS: 7.73913325247122e-06
+INFO - exp2.py - 2022-08-08 20:51:12,566 - Run 14
+INFO - exp2.py - 2022-08-08 20:51:12,883 - Training Starting
+INFO - exp2.py - 2022-08-08 20:51:15,317 - Training Complete
+INFO - exp2.py - 2022-08-08 20:51:15,341 - Distance between net weights and OLS: 1.2139875888824463
+INFO - exp2.py - 2022-08-08 20:51:15,341 - Risk of Net: 0.9610886573791504
+INFO - exp2.py - 2022-08-08 20:51:15,341 - Risk of OLS: 0.9465465545654297
+INFO - exp2.py - 2022-08-08 20:51:15,341 - Training loss of Net: 5.997745233798923e-07
+INFO - exp2.py - 2022-08-08 20:51:15,342 - Training loss of OLS: 5.347952537704259e-06
+INFO - exp2.py - 2022-08-08 20:51:15,342 - Run 15
+INFO - exp2.py - 2022-08-08 20:51:15,663 - Training Starting
+INFO - exp2.py - 2022-08-08 20:51:18,098 - Training Complete
+INFO - exp2.py - 2022-08-08 20:51:18,122 - Distance between net weights and OLS: 1.2608236074447632
+INFO - exp2.py - 2022-08-08 20:51:18,123 - Risk of Net: 1.038739562034607
+INFO - exp2.py - 2022-08-08 20:51:18,123 - Risk of OLS: 1.0256049633026123
+INFO - exp2.py - 2022-08-08 20:51:18,123 - Training loss of Net: 5.398986786531168e-07
+INFO - exp2.py - 2022-08-08 20:51:18,123 - Training loss of OLS: 9.548847629048396e-06
+INFO - exp2.py - 2022-08-08 20:51:18,123 - Run 16
+INFO - exp2.py - 2022-08-08 20:51:18,436 - Training Starting
+INFO - exp2.py - 2022-08-08 20:51:21,370 - Training Complete
+INFO - exp2.py - 2022-08-08 20:51:21,398 - Distance between net weights and OLS: 1.1980775594711304
+INFO - exp2.py - 2022-08-08 20:51:21,398 - Risk of Net: 1.0293906927108765
+INFO - exp2.py - 2022-08-08 20:51:21,398 - Risk of OLS: 1.0151690244674683
+INFO - exp2.py - 2022-08-08 20:51:21,399 - Training loss of Net: 5.30979548329924e-07
+INFO - exp2.py - 2022-08-08 20:51:21,399 - Training loss of OLS: 1.023054664983647e-05
+INFO - exp2.py - 2022-08-08 20:51:21,399 - Run 17
+INFO - exp2.py - 2022-08-08 20:51:21,714 - Training Starting
+INFO - exp2.py - 2022-08-08 20:51:24,152 - Training Complete
+INFO - exp2.py - 2022-08-08 20:51:24,177 - Distance between net weights and OLS: 1.1867834329605103
+INFO - exp2.py - 2022-08-08 20:51:24,178 - Risk of Net: 0.9786772131919861
+INFO - exp2.py - 2022-08-08 20:51:24,178 - Risk of OLS: 0.9605029225349426
+INFO - exp2.py - 2022-08-08 20:51:24,178 - Training loss of Net: 5.904687441216083e-07
+INFO - exp2.py - 2022-08-08 20:51:24,178 - Training loss of OLS: 7.633899258507881e-06
+INFO - exp2.py - 2022-08-08 20:51:24,178 - Run 18
+INFO - exp2.py - 2022-08-08 20:51:24,490 - Training Starting
+INFO - exp2.py - 2022-08-08 20:51:26,900 - Training Complete
+INFO - exp2.py - 2022-08-08 20:51:26,925 - Distance between net weights and OLS: 1.2497910261154175
+INFO - exp2.py - 2022-08-08 20:51:26,925 - Risk of Net: 1.2403292655944824
+INFO - exp2.py - 2022-08-08 20:51:26,925 - Risk of OLS: 1.203379511833191
+INFO - exp2.py - 2022-08-08 20:51:26,925 - Training loss of Net: 5.126389055476466e-07
+INFO - exp2.py - 2022-08-08 20:51:26,926 - Training loss of OLS: 7.418213044729782e-06
+INFO - exp2.py - 2022-08-08 20:51:26,926 - Run 19
+INFO - exp2.py - 2022-08-08 20:51:27,243 - Training Starting
+INFO - exp2.py - 2022-08-08 20:51:29,609 - Training Complete
+INFO - exp2.py - 2022-08-08 20:51:29,650 - Distance between net weights and OLS: 1.203251600265503
+INFO - exp2.py - 2022-08-08 20:51:29,650 - Risk of Net: 1.0407814979553223
+INFO - exp2.py - 2022-08-08 20:51:29,650 - Risk of OLS: 1.0307772159576416
+INFO - exp2.py - 2022-08-08 20:51:29,650 - Training loss of Net: 5.301956207404146e-07
+INFO - exp2.py - 2022-08-08 20:51:29,651 - Training loss of OLS: 1.006517959467601e-05
+INFO - exp2.py - 2022-08-08 20:51:29,651 - Current alpha is 0.0005555555555555556
+INFO - exp2.py - 2022-08-08 20:51:29,651 - Dimension is 500
+INFO - exp2.py - 2022-08-08 20:51:29,651 - Run 0
+INFO - exp2.py - 2022-08-08 20:51:30,075 - Training Starting
+INFO - exp2.py - 2022-08-08 20:51:32,523 - Training Complete
+INFO - exp2.py - 2022-08-08 20:51:32,558 - Distance between net weights and OLS: 1.8958348035812378
+INFO - exp2.py - 2022-08-08 20:51:32,558 - Risk of Net: 1.1837996244430542
+INFO - exp2.py - 2022-08-08 20:51:32,558 - Risk of OLS: 1.176002860069275
+INFO - exp2.py - 2022-08-08 20:51:32,559 - Training loss of Net: 5.931428290750773e-07
+INFO - exp2.py - 2022-08-08 20:51:32,559 - Training loss of OLS: 5.9742746998381335e-06
+INFO - exp2.py - 2022-08-08 20:51:32,559 - Run 1
+INFO - exp2.py - 2022-08-08 20:51:32,922 - Training Starting
+INFO - exp2.py - 2022-08-08 20:51:35,493 - Training Complete
+INFO - exp2.py - 2022-08-08 20:51:35,530 - Distance between net weights and OLS: 1.8330063819885254
+INFO - exp2.py - 2022-08-08 20:51:35,531 - Risk of Net: 1.013987421989441
+INFO - exp2.py - 2022-08-08 20:51:35,531 - Risk of OLS: 1.0008718967437744
+INFO - exp2.py - 2022-08-08 20:51:35,531 - Training loss of Net: 6.046470275578031e-07
+INFO - exp2.py - 2022-08-08 20:51:35,531 - Training loss of OLS: 7.610178272443591e-06
+INFO - exp2.py - 2022-08-08 20:51:35,531 - Run 2
+INFO - exp2.py - 2022-08-08 20:51:35,865 - Training Starting
+INFO - exp2.py - 2022-08-08 20:51:38,568 - Training Complete
+INFO - exp2.py - 2022-08-08 20:51:38,611 - Distance between net weights and OLS: 1.8462053537368774
+INFO - exp2.py - 2022-08-08 20:51:38,611 - Risk of Net: 1.2035783529281616
+INFO - exp2.py - 2022-08-08 20:51:38,612 - Risk of OLS: 1.1750000715255737
+INFO - exp2.py - 2022-08-08 20:51:38,612 - Training loss of Net: 6.105405532252917e-07
+INFO - exp2.py - 2022-08-08 20:51:38,612 - Training loss of OLS: 7.873789400036912e-06
+INFO - exp2.py - 2022-08-08 20:51:38,612 - Run 3
+INFO - exp2.py - 2022-08-08 20:51:39,055 - Training Starting
+INFO - exp2.py - 2022-08-08 20:51:41,767 - Training Complete
+INFO - exp2.py - 2022-08-08 20:51:41,792 - Distance between net weights and OLS: 1.7296606302261353
+INFO - exp2.py - 2022-08-08 20:51:41,793 - Risk of Net: 1.0767207145690918
+INFO - exp2.py - 2022-08-08 20:51:41,793 - Risk of OLS: 1.0429753065109253
+INFO - exp2.py - 2022-08-08 20:51:41,793 - Training loss of Net: 6.390354201357695e-07
+INFO - exp2.py - 2022-08-08 20:51:41,793 - Training loss of OLS: 1.030099065246759e-05
+INFO - exp2.py - 2022-08-08 20:51:41,793 - Run 4
+INFO - exp2.py - 2022-08-08 20:51:42,106 - Training Starting
+INFO - exp2.py - 2022-08-08 20:51:44,603 - Training Complete
+INFO - exp2.py - 2022-08-08 20:51:44,627 - Distance between net weights and OLS: 1.8240227699279785
+INFO - exp2.py - 2022-08-08 20:51:44,627 - Risk of Net: 1.128580093383789
+INFO - exp2.py - 2022-08-08 20:51:44,627 - Risk of OLS: 1.1224825382232666
+INFO - exp2.py - 2022-08-08 20:51:44,627 - Training loss of Net: 6.609055844819522e-07
+INFO - exp2.py - 2022-08-08 20:51:44,628 - Training loss of OLS: 1.0275261956849135e-05
+INFO - exp2.py - 2022-08-08 20:51:44,628 - Run 5
+INFO - exp2.py - 2022-08-08 20:51:44,949 - Training Starting
+INFO - exp2.py - 2022-08-08 20:51:47,338 - Training Complete
+INFO - exp2.py - 2022-08-08 20:51:47,367 - Distance between net weights and OLS: 1.7258806228637695
+INFO - exp2.py - 2022-08-08 20:51:47,367 - Risk of Net: 1.2383921146392822
+INFO - exp2.py - 2022-08-08 20:51:47,368 - Risk of OLS: 1.2053967714309692
+INFO - exp2.py - 2022-08-08 20:51:47,368 - Training loss of Net: 5.870393238183169e-07
+INFO - exp2.py - 2022-08-08 20:51:47,368 - Training loss of OLS: 9.291627975471783e-06
+INFO - exp2.py - 2022-08-08 20:51:47,368 - Run 6
+INFO - exp2.py - 2022-08-08 20:51:47,681 - Training Starting
+INFO - exp2.py - 2022-08-08 20:51:50,237 - Training Complete
+INFO - exp2.py - 2022-08-08 20:51:50,265 - Distance between net weights and OLS: 1.8471132516860962
+INFO - exp2.py - 2022-08-08 20:51:50,266 - Risk of Net: 1.1319655179977417
+INFO - exp2.py - 2022-08-08 20:51:50,266 - Risk of OLS: 1.1120613813400269
+INFO - exp2.py - 2022-08-08 20:51:50,266 - Training loss of Net: 6.417012627935037e-07
+INFO - exp2.py - 2022-08-08 20:51:50,266 - Training loss of OLS: 4.9449117796029896e-06
+INFO - exp2.py - 2022-08-08 20:51:50,266 - Run 7
+INFO - exp2.py - 2022-08-08 20:51:50,616 - Training Starting
+INFO - exp2.py - 2022-08-08 20:51:53,253 - Training Complete
+INFO - exp2.py - 2022-08-08 20:51:53,286 - Distance between net weights and OLS: 1.8321232795715332
+INFO - exp2.py - 2022-08-08 20:51:53,286 - Risk of Net: 1.1310545206069946
+INFO - exp2.py - 2022-08-08 20:51:53,286 - Risk of OLS: 1.1319396495819092
+INFO - exp2.py - 2022-08-08 20:51:53,286 - Training loss of Net: 6.551474598381901e-07
+INFO - exp2.py - 2022-08-08 20:51:53,286 - Training loss of OLS: 6.610488981095841e-06
+INFO - exp2.py - 2022-08-08 20:51:53,287 - Run 8
+INFO - exp2.py - 2022-08-08 20:51:53,605 - Training Starting
+INFO - exp2.py - 2022-08-08 20:51:56,273 - Training Complete
+INFO - exp2.py - 2022-08-08 20:51:56,308 - Distance between net weights and OLS: 1.9812713861465454
+INFO - exp2.py - 2022-08-08 20:51:56,308 - Risk of Net: 1.0506843328475952
+INFO - exp2.py - 2022-08-08 20:51:56,309 - Risk of OLS: 1.0159052610397339
+INFO - exp2.py - 2022-08-08 20:51:56,309 - Training loss of Net: 5.977527166578511e-07
+INFO - exp2.py - 2022-08-08 20:51:56,309 - Training loss of OLS: 1.3540922736865468e-05
+INFO - exp2.py - 2022-08-08 20:51:56,309 - Run 9
+INFO - exp2.py - 2022-08-08 20:51:56,644 - Training Starting
+INFO - exp2.py - 2022-08-08 20:51:59,415 - Training Complete
+INFO - exp2.py - 2022-08-08 20:51:59,448 - Distance between net weights and OLS: 1.8995441198349
+INFO - exp2.py - 2022-08-08 20:51:59,448 - Risk of Net: 0.9621247053146362
+INFO - exp2.py - 2022-08-08 20:51:59,449 - Risk of OLS: 0.9543629884719849
+INFO - exp2.py - 2022-08-08 20:51:59,449 - Training loss of Net: 6.859644372525509e-07
+INFO - exp2.py - 2022-08-08 20:51:59,449 - Training loss of OLS: 9.512357792118564e-06
+INFO - exp2.py - 2022-08-08 20:51:59,449 - Run 10
+INFO - exp2.py - 2022-08-08 20:51:59,780 - Training Starting
+INFO - exp2.py - 2022-08-08 20:52:02,215 - Training Complete
+INFO - exp2.py - 2022-08-08 20:52:02,242 - Distance between net weights and OLS: 1.8080741167068481
+INFO - exp2.py - 2022-08-08 20:52:02,242 - Risk of Net: 1.1955351829528809
+INFO - exp2.py - 2022-08-08 20:52:02,242 - Risk of OLS: 1.175364375114441
+INFO - exp2.py - 2022-08-08 20:52:02,243 - Training loss of Net: 5.891728847018385e-07
+INFO - exp2.py - 2022-08-08 20:52:02,243 - Training loss of OLS: 1.0041201676358469e-05
+INFO - exp2.py - 2022-08-08 20:52:02,243 - Run 11
+INFO - exp2.py - 2022-08-08 20:52:02,558 - Training Starting
+INFO - exp2.py - 2022-08-08 20:52:05,156 - Training Complete
+INFO - exp2.py - 2022-08-08 20:52:05,184 - Distance between net weights and OLS: 1.775768756866455
+INFO - exp2.py - 2022-08-08 20:52:05,184 - Risk of Net: 1.1327488422393799
+INFO - exp2.py - 2022-08-08 20:52:05,184 - Risk of OLS: 1.108357548713684
+INFO - exp2.py - 2022-08-08 20:52:05,184 - Training loss of Net: 6.705334385515016e-07
+INFO - exp2.py - 2022-08-08 20:52:05,184 - Training loss of OLS: 1.599098504811991e-05
+INFO - exp2.py - 2022-08-08 20:52:05,184 - Run 12
+INFO - exp2.py - 2022-08-08 20:52:05,501 - Training Starting
+INFO - exp2.py - 2022-08-08 20:52:08,127 - Training Complete
+INFO - exp2.py - 2022-08-08 20:52:08,151 - Distance between net weights and OLS: 2.056647300720215
+INFO - exp2.py - 2022-08-08 20:52:08,152 - Risk of Net: 0.9882484078407288
+INFO - exp2.py - 2022-08-08 20:52:08,152 - Risk of OLS: 0.9681918621063232
+INFO - exp2.py - 2022-08-08 20:52:08,152 - Training loss of Net: 6.576744340236473e-07
+INFO - exp2.py - 2022-08-08 20:52:08,152 - Training loss of OLS: 9.8281216196483e-06
+INFO - exp2.py - 2022-08-08 20:52:08,152 - Run 13
+INFO - exp2.py - 2022-08-08 20:52:08,471 - Training Starting
+INFO - exp2.py - 2022-08-08 20:52:11,011 - Training Complete
+INFO - exp2.py - 2022-08-08 20:52:11,035 - Distance between net weights and OLS: 1.8355575799942017
+INFO - exp2.py - 2022-08-08 20:52:11,035 - Risk of Net: 1.1982351541519165
+INFO - exp2.py - 2022-08-08 20:52:11,036 - Risk of OLS: 1.1782490015029907
+INFO - exp2.py - 2022-08-08 20:52:11,036 - Training loss of Net: 5.999320364935556e-07
+INFO - exp2.py - 2022-08-08 20:52:11,036 - Training loss of OLS: 7.034452664811397e-06
+INFO - exp2.py - 2022-08-08 20:52:11,036 - Run 14
+INFO - exp2.py - 2022-08-08 20:52:11,346 - Training Starting
+INFO - exp2.py - 2022-08-08 20:52:13,740 - Training Complete
+INFO - exp2.py - 2022-08-08 20:52:13,764 - Distance between net weights and OLS: 1.858776330947876
+INFO - exp2.py - 2022-08-08 20:52:13,764 - Risk of Net: 0.9805824160575867
+INFO - exp2.py - 2022-08-08 20:52:13,764 - Risk of OLS: 0.9691586494445801
+INFO - exp2.py - 2022-08-08 20:52:13,764 - Training loss of Net: 6.0210487617951e-07
+INFO - exp2.py - 2022-08-08 20:52:13,765 - Training loss of OLS: 9.451146070205141e-06
+INFO - exp2.py - 2022-08-08 20:52:13,765 - Run 15
+INFO - exp2.py - 2022-08-08 20:52:14,081 - Training Starting
+INFO - exp2.py - 2022-08-08 20:52:16,492 - Training Complete
+INFO - exp2.py - 2022-08-08 20:52:16,521 - Distance between net weights and OLS: 1.8296688795089722
+INFO - exp2.py - 2022-08-08 20:52:16,522 - Risk of Net: 1.0652843713760376
+INFO - exp2.py - 2022-08-08 20:52:16,522 - Risk of OLS: 1.032644510269165
+INFO - exp2.py - 2022-08-08 20:52:16,522 - Training loss of Net: 6.439765911636641e-07
+INFO - exp2.py - 2022-08-08 20:52:16,522 - Training loss of OLS: 1.2083022738806903e-05
+INFO - exp2.py - 2022-08-08 20:52:16,522 - Run 16
+INFO - exp2.py - 2022-08-08 20:52:16,873 - Training Starting
+INFO - exp2.py - 2022-08-08 20:52:19,350 - Training Complete
+INFO - exp2.py - 2022-08-08 20:52:19,395 - Distance between net weights and OLS: 1.9157027006149292
+INFO - exp2.py - 2022-08-08 20:52:19,396 - Risk of Net: 0.9794019460678101
+INFO - exp2.py - 2022-08-08 20:52:19,396 - Risk of OLS: 0.9689328074455261
+INFO - exp2.py - 2022-08-08 20:52:19,396 - Training loss of Net: 7.075119015098608e-07
+INFO - exp2.py - 2022-08-08 20:52:19,396 - Training loss of OLS: 1.087422151613282e-05
+INFO - exp2.py - 2022-08-08 20:52:19,396 - Run 17
+INFO - exp2.py - 2022-08-08 20:52:19,820 - Training Starting
+INFO - exp2.py - 2022-08-08 20:52:22,350 - Training Complete
+INFO - exp2.py - 2022-08-08 20:52:22,382 - Distance between net weights and OLS: 1.9113459587097168
+INFO - exp2.py - 2022-08-08 20:52:22,382 - Risk of Net: 1.0934031009674072
+INFO - exp2.py - 2022-08-08 20:52:22,383 - Risk of OLS: 1.0776351690292358
+INFO - exp2.py - 2022-08-08 20:52:22,383 - Training loss of Net: 6.142603297121241e-07
+INFO - exp2.py - 2022-08-08 20:52:22,383 - Training loss of OLS: 4.270711542631034e-06
+INFO - exp2.py - 2022-08-08 20:52:22,383 - Run 18
+INFO - exp2.py - 2022-08-08 20:52:22,700 - Training Starting
+INFO - exp2.py - 2022-08-08 20:52:25,000 - Training Complete
+INFO - exp2.py - 2022-08-08 20:52:25,031 - Distance between net weights and OLS: 1.7730156183242798
+INFO - exp2.py - 2022-08-08 20:52:25,031 - Risk of Net: 0.9859082698822021
+INFO - exp2.py - 2022-08-08 20:52:25,031 - Risk of OLS: 0.9683527946472168
+INFO - exp2.py - 2022-08-08 20:52:25,031 - Training loss of Net: 6.304751991592639e-07
+INFO - exp2.py - 2022-08-08 20:52:25,032 - Training loss of OLS: 5.679007699654903e-06
+INFO - exp2.py - 2022-08-08 20:52:25,032 - Run 19
+INFO - exp2.py - 2022-08-08 20:52:25,373 - Training Starting
+INFO - exp2.py - 2022-08-08 20:52:27,749 - Training Complete
+INFO - exp2.py - 2022-08-08 20:52:27,782 - Distance between net weights and OLS: 1.8669850826263428
+INFO - exp2.py - 2022-08-08 20:52:27,783 - Risk of Net: 0.9039128422737122
+INFO - exp2.py - 2022-08-08 20:52:27,783 - Risk of OLS: 0.9000378847122192
+INFO - exp2.py - 2022-08-08 20:52:27,783 - Training loss of Net: 6.932480118848616e-07
+INFO - exp2.py - 2022-08-08 20:52:27,783 - Training loss of OLS: 1.2390121810312849e-05
+INFO - exp2.py - 2022-08-08 20:52:27,783 - Current alpha is 0.0006666666666666668
+INFO - exp2.py - 2022-08-08 20:52:27,783 - Dimension is 500
+INFO - exp2.py - 2022-08-08 20:52:27,784 - Run 0
+INFO - exp2.py - 2022-08-08 20:52:28,110 - Training Starting
+INFO - exp2.py - 2022-08-08 20:52:30,512 - Training Complete
+INFO - exp2.py - 2022-08-08 20:52:30,551 - Distance between net weights and OLS: 2.7105562686920166
+INFO - exp2.py - 2022-08-08 20:52:30,551 - Risk of Net: 1.1021324396133423
+INFO - exp2.py - 2022-08-08 20:52:30,551 - Risk of OLS: 1.0992984771728516
+INFO - exp2.py - 2022-08-08 20:52:30,552 - Training loss of Net: 7.015676146693295e-07
+INFO - exp2.py - 2022-08-08 20:52:30,552 - Training loss of OLS: 8.183375939552207e-06
+INFO - exp2.py - 2022-08-08 20:52:30,552 - Run 1
+INFO - exp2.py - 2022-08-08 20:52:30,872 - Training Starting
+INFO - exp2.py - 2022-08-08 20:52:33,088 - Training Complete
+INFO - exp2.py - 2022-08-08 20:52:33,120 - Distance between net weights and OLS: 2.7988216876983643
+INFO - exp2.py - 2022-08-08 20:52:33,120 - Risk of Net: 1.0618699789047241
+INFO - exp2.py - 2022-08-08 20:52:33,120 - Risk of OLS: 1.0395346879959106
+INFO - exp2.py - 2022-08-08 20:52:33,121 - Training loss of Net: 8.185949127437198e-07
+INFO - exp2.py - 2022-08-08 20:52:33,121 - Training loss of OLS: 1.0975089935527649e-05
+INFO - exp2.py - 2022-08-08 20:52:33,121 - Run 2
+INFO - exp2.py - 2022-08-08 20:52:33,484 - Training Starting
+INFO - exp2.py - 2022-08-08 20:52:35,901 - Training Complete
+INFO - exp2.py - 2022-08-08 20:52:35,937 - Distance between net weights and OLS: 2.7863712310791016
+INFO - exp2.py - 2022-08-08 20:52:35,937 - Risk of Net: 0.8727366924285889
+INFO - exp2.py - 2022-08-08 20:52:35,937 - Risk of OLS: 0.8307752013206482
+INFO - exp2.py - 2022-08-08 20:52:35,937 - Training loss of Net: 7.968962449922401e-07
+INFO - exp2.py - 2022-08-08 20:52:35,938 - Training loss of OLS: 5.561505986406701e-06
+INFO - exp2.py - 2022-08-08 20:52:35,938 - Run 3
+INFO - exp2.py - 2022-08-08 20:52:36,267 - Training Starting
+INFO - exp2.py - 2022-08-08 20:52:38,637 - Training Complete
+INFO - exp2.py - 2022-08-08 20:52:38,662 - Distance between net weights and OLS: 2.7834982872009277
+INFO - exp2.py - 2022-08-08 20:52:38,662 - Risk of Net: 1.0513081550598145
+INFO - exp2.py - 2022-08-08 20:52:38,662 - Risk of OLS: 0.9953896999359131
+INFO - exp2.py - 2022-08-08 20:52:38,662 - Training loss of Net: 7.082256274770771e-07
+INFO - exp2.py - 2022-08-08 20:52:38,662 - Training loss of OLS: 1.1284580068604555e-05
+INFO - exp2.py - 2022-08-08 20:52:38,663 - Run 4
+INFO - exp2.py - 2022-08-08 20:52:38,976 - Training Starting
+INFO - exp2.py - 2022-08-08 20:52:41,470 - Training Complete
+INFO - exp2.py - 2022-08-08 20:52:41,499 - Distance between net weights and OLS: 2.936924695968628
+INFO - exp2.py - 2022-08-08 20:52:41,499 - Risk of Net: 0.9647778272628784
+INFO - exp2.py - 2022-08-08 20:52:41,499 - Risk of OLS: 0.9338605999946594
+INFO - exp2.py - 2022-08-08 20:52:41,499 - Training loss of Net: 8.252679322140466e-07
+INFO - exp2.py - 2022-08-08 20:52:41,499 - Training loss of OLS: 7.265650765475584e-06
+INFO - exp2.py - 2022-08-08 20:52:41,500 - Run 5
+INFO - exp2.py - 2022-08-08 20:52:41,814 - Training Starting
+INFO - exp2.py - 2022-08-08 20:52:44,706 - Training Complete
+INFO - exp2.py - 2022-08-08 20:52:44,735 - Distance between net weights and OLS: 2.7869763374328613
+INFO - exp2.py - 2022-08-08 20:52:44,735 - Risk of Net: 1.2781113386154175
+INFO - exp2.py - 2022-08-08 20:52:44,736 - Risk of OLS: 1.2317532300949097
+INFO - exp2.py - 2022-08-08 20:52:44,736 - Training loss of Net: 6.375043426487537e-07
+INFO - exp2.py - 2022-08-08 20:52:44,736 - Training loss of OLS: 6.363686679833336e-06
+INFO - exp2.py - 2022-08-08 20:52:44,736 - Run 6
+INFO - exp2.py - 2022-08-08 20:52:45,048 - Training Starting
+INFO - exp2.py - 2022-08-08 20:52:47,810 - Training Complete
+INFO - exp2.py - 2022-08-08 20:52:47,839 - Distance between net weights and OLS: 2.8137459754943848
+INFO - exp2.py - 2022-08-08 20:52:47,839 - Risk of Net: 0.9241937398910522
+INFO - exp2.py - 2022-08-08 20:52:47,840 - Risk of OLS: 0.8855115175247192
+INFO - exp2.py - 2022-08-08 20:52:47,840 - Training loss of Net: 8.013030310394242e-07
+INFO - exp2.py - 2022-08-08 20:52:47,840 - Training loss of OLS: 6.1367786656774115e-06
+INFO - exp2.py - 2022-08-08 20:52:47,840 - Run 7
+INFO - exp2.py - 2022-08-08 20:52:48,191 - Training Starting
+INFO - exp2.py - 2022-08-08 20:52:50,934 - Training Complete
+INFO - exp2.py - 2022-08-08 20:52:50,968 - Distance between net weights and OLS: 2.7707221508026123
+INFO - exp2.py - 2022-08-08 20:52:50,968 - Risk of Net: 0.9946023225784302
+INFO - exp2.py - 2022-08-08 20:52:50,968 - Risk of OLS: 0.9779118895530701
+INFO - exp2.py - 2022-08-08 20:52:50,982 - Training loss of Net: 7.495863201256725e-07
+INFO - exp2.py - 2022-08-08 20:52:50,982 - Training loss of OLS: 9.175919331028126e-06
+INFO - exp2.py - 2022-08-08 20:52:50,982 - Run 8
+INFO - exp2.py - 2022-08-08 20:52:51,358 - Training Starting
+INFO - exp2.py - 2022-08-08 20:52:53,751 - Training Complete
+INFO - exp2.py - 2022-08-08 20:52:53,791 - Distance between net weights and OLS: 2.678834915161133
+INFO - exp2.py - 2022-08-08 20:52:53,791 - Risk of Net: 1.0946688652038574
+INFO - exp2.py - 2022-08-08 20:52:53,792 - Risk of OLS: 1.0787755250930786
+INFO - exp2.py - 2022-08-08 20:52:53,792 - Training loss of Net: 7.727608704044542e-07
+INFO - exp2.py - 2022-08-08 20:52:53,792 - Training loss of OLS: 6.800345090596238e-06
+INFO - exp2.py - 2022-08-08 20:52:53,792 - Run 9
+INFO - exp2.py - 2022-08-08 20:52:54,125 - Training Starting
+INFO - exp2.py - 2022-08-08 20:52:56,647 - Training Complete
+INFO - exp2.py - 2022-08-08 20:52:56,691 - Distance between net weights and OLS: 2.7807681560516357
+INFO - exp2.py - 2022-08-08 20:52:56,691 - Risk of Net: 0.9966188073158264
+INFO - exp2.py - 2022-08-08 20:52:56,691 - Risk of OLS: 0.9901924729347229
+INFO - exp2.py - 2022-08-08 20:52:56,691 - Training loss of Net: 7.096858780641924e-07
+INFO - exp2.py - 2022-08-08 20:52:56,692 - Training loss of OLS: 8.270149010058958e-06
+INFO - exp2.py - 2022-08-08 20:52:56,692 - Run 10
+INFO - exp2.py - 2022-08-08 20:52:57,011 - Training Starting
+INFO - exp2.py - 2022-08-08 20:52:59,427 - Training Complete
+INFO - exp2.py - 2022-08-08 20:52:59,458 - Distance between net weights and OLS: 2.720459461212158
+INFO - exp2.py - 2022-08-08 20:52:59,459 - Risk of Net: 1.0210705995559692
+INFO - exp2.py - 2022-08-08 20:52:59,459 - Risk of OLS: 0.9954360127449036
+INFO - exp2.py - 2022-08-08 20:52:59,459 - Training loss of Net: 7.157950676628388e-07
+INFO - exp2.py - 2022-08-08 20:52:59,459 - Training loss of OLS: 9.664784556662198e-06
+INFO - exp2.py - 2022-08-08 20:52:59,459 - Run 11
+INFO - exp2.py - 2022-08-08 20:52:59,795 - Training Starting
+INFO - exp2.py - 2022-08-08 20:53:02,204 - Training Complete
+INFO - exp2.py - 2022-08-08 20:53:02,229 - Distance between net weights and OLS: 2.6993725299835205
+INFO - exp2.py - 2022-08-08 20:53:02,229 - Risk of Net: 1.2041385173797607
+INFO - exp2.py - 2022-08-08 20:53:02,229 - Risk of OLS: 1.1709879636764526
+INFO - exp2.py - 2022-08-08 20:53:02,229 - Training loss of Net: 7.899817546785926e-07
+INFO - exp2.py - 2022-08-08 20:53:02,229 - Training loss of OLS: 7.590760105813388e-06
+INFO - exp2.py - 2022-08-08 20:53:02,229 - Run 12
+INFO - exp2.py - 2022-08-08 20:53:02,541 - Training Starting
+INFO - exp2.py - 2022-08-08 20:53:04,956 - Training Complete
+INFO - exp2.py - 2022-08-08 20:53:04,980 - Distance between net weights and OLS: 2.5992848873138428
+INFO - exp2.py - 2022-08-08 20:53:04,980 - Risk of Net: 0.9792009592056274
+INFO - exp2.py - 2022-08-08 20:53:04,980 - Risk of OLS: 0.9435347318649292
+INFO - exp2.py - 2022-08-08 20:53:04,981 - Training loss of Net: 7.4900663094013e-07
+INFO - exp2.py - 2022-08-08 20:53:04,981 - Training loss of OLS: 5.059867362433579e-06
+INFO - exp2.py - 2022-08-08 20:53:04,981 - Run 13
+INFO - exp2.py - 2022-08-08 20:53:05,294 - Training Starting
+INFO - exp2.py - 2022-08-08 20:53:07,615 - Training Complete
+INFO - exp2.py - 2022-08-08 20:53:07,639 - Distance between net weights and OLS: 2.5171828269958496
+INFO - exp2.py - 2022-08-08 20:53:07,640 - Risk of Net: 1.1801239252090454
+INFO - exp2.py - 2022-08-08 20:53:07,640 - Risk of OLS: 1.1755893230438232
+INFO - exp2.py - 2022-08-08 20:53:07,640 - Training loss of Net: 7.323522481783584e-07
+INFO - exp2.py - 2022-08-08 20:53:07,640 - Training loss of OLS: 9.795297955861315e-06
+INFO - exp2.py - 2022-08-08 20:53:07,640 - Run 14
+INFO - exp2.py - 2022-08-08 20:53:07,953 - Training Starting
+INFO - exp2.py - 2022-08-08 20:53:10,468 - Training Complete
+INFO - exp2.py - 2022-08-08 20:53:10,492 - Distance between net weights and OLS: 2.663984537124634
+INFO - exp2.py - 2022-08-08 20:53:10,493 - Risk of Net: 1.344102382659912
+INFO - exp2.py - 2022-08-08 20:53:10,493 - Risk of OLS: 1.3219050168991089
+INFO - exp2.py - 2022-08-08 20:53:10,493 - Training loss of Net: 7.13649797035032e-07
+INFO - exp2.py - 2022-08-08 20:53:10,493 - Training loss of OLS: 6.599613698199391e-06
+INFO - exp2.py - 2022-08-08 20:53:10,493 - Run 15
+INFO - exp2.py - 2022-08-08 20:53:10,814 - Training Starting
+INFO - exp2.py - 2022-08-08 20:53:13,536 - Training Complete
+INFO - exp2.py - 2022-08-08 20:53:13,561 - Distance between net weights and OLS: 2.6153948307037354
+INFO - exp2.py - 2022-08-08 20:53:13,561 - Risk of Net: 1.0889745950698853
+INFO - exp2.py - 2022-08-08 20:53:13,561 - Risk of OLS: 1.0558240413665771
+INFO - exp2.py - 2022-08-08 20:53:13,561 - Training loss of Net: 6.56725092085253e-07
+INFO - exp2.py - 2022-08-08 20:53:13,562 - Training loss of OLS: 1.1247453585383482e-05
+INFO - exp2.py - 2022-08-08 20:53:13,562 - Run 16
+INFO - exp2.py - 2022-08-08 20:53:13,872 - Training Starting
+INFO - exp2.py - 2022-08-08 20:53:16,285 - Training Complete
+INFO - exp2.py - 2022-08-08 20:53:16,309 - Distance between net weights and OLS: 2.8016412258148193
+INFO - exp2.py - 2022-08-08 20:53:16,310 - Risk of Net: 1.1413410902023315
+INFO - exp2.py - 2022-08-08 20:53:16,310 - Risk of OLS: 1.1110389232635498
+INFO - exp2.py - 2022-08-08 20:53:16,310 - Training loss of Net: 7.233245469251415e-07
+INFO - exp2.py - 2022-08-08 20:53:16,310 - Training loss of OLS: 4.489308594202157e-06
+INFO - exp2.py - 2022-08-08 20:53:16,310 - Run 17
+INFO - exp2.py - 2022-08-08 20:53:16,620 - Training Starting
+INFO - exp2.py - 2022-08-08 20:53:18,818 - Training Complete
+INFO - exp2.py - 2022-08-08 20:53:18,844 - Distance between net weights and OLS: 2.5878329277038574
+INFO - exp2.py - 2022-08-08 20:53:18,844 - Risk of Net: 0.8367973566055298
+INFO - exp2.py - 2022-08-08 20:53:18,844 - Risk of OLS: 0.797075629234314
+INFO - exp2.py - 2022-08-08 20:53:18,844 - Training loss of Net: 9.385494763591851e-07
+INFO - exp2.py - 2022-08-08 20:53:18,845 - Training loss of OLS: 4.234467724018032e-06
+INFO - exp2.py - 2022-08-08 20:53:18,845 - Run 18
+INFO - exp2.py - 2022-08-08 20:53:19,161 - Training Starting
+INFO - exp2.py - 2022-08-08 20:53:21,511 - Training Complete
+INFO - exp2.py - 2022-08-08 20:53:21,536 - Distance between net weights and OLS: 2.6789660453796387
+INFO - exp2.py - 2022-08-08 20:53:21,537 - Risk of Net: 1.0409752130508423
+INFO - exp2.py - 2022-08-08 20:53:21,537 - Risk of OLS: 1.0081346035003662
+INFO - exp2.py - 2022-08-08 20:53:21,537 - Training loss of Net: 6.359190365401446e-07
+INFO - exp2.py - 2022-08-08 20:53:21,537 - Training loss of OLS: 7.478172392438864e-06
+INFO - exp2.py - 2022-08-08 20:53:21,537 - Run 19
+INFO - exp2.py - 2022-08-08 20:53:21,850 - Training Starting
+INFO - exp2.py - 2022-08-08 20:53:24,389 - Training Complete
+INFO - exp2.py - 2022-08-08 20:53:24,416 - Distance between net weights and OLS: 2.5645828247070312
+INFO - exp2.py - 2022-08-08 20:53:24,417 - Risk of Net: 0.9211150407791138
+INFO - exp2.py - 2022-08-08 20:53:24,417 - Risk of OLS: 0.8809893131256104
+INFO - exp2.py - 2022-08-08 20:53:24,417 - Training loss of Net: 7.299613002942351e-07
+INFO - exp2.py - 2022-08-08 20:53:24,417 - Training loss of OLS: 9.073984074348118e-06
+INFO - exp2.py - 2022-08-08 20:53:24,418 - Current alpha is 0.0007777777777777778
+INFO - exp2.py - 2022-08-08 20:53:24,418 - Dimension is 500
+INFO - exp2.py - 2022-08-08 20:53:24,418 - Run 0
+INFO - exp2.py - 2022-08-08 20:53:24,761 - Training Starting
+INFO - exp2.py - 2022-08-08 20:53:27,266 - Training Complete
+INFO - exp2.py - 2022-08-08 20:53:27,302 - Distance between net weights and OLS: 3.670118808746338
+INFO - exp2.py - 2022-08-08 20:53:27,302 - Risk of Net: 1.270514965057373
+INFO - exp2.py - 2022-08-08 20:53:27,302 - Risk of OLS: 1.2436797618865967
+INFO - exp2.py - 2022-08-08 20:53:27,302 - Training loss of Net: 7.681447868890245e-07
+INFO - exp2.py - 2022-08-08 20:53:27,303 - Training loss of OLS: 3.8121270335977897e-06
+INFO - exp2.py - 2022-08-08 20:53:27,303 - Run 1
+INFO - exp2.py - 2022-08-08 20:53:27,681 - Training Starting
+INFO - exp2.py - 2022-08-08 20:53:30,076 - Training Complete
+INFO - exp2.py - 2022-08-08 20:53:30,107 - Distance between net weights and OLS: 3.6284685134887695
+INFO - exp2.py - 2022-08-08 20:53:30,107 - Risk of Net: 0.9526066184043884
+INFO - exp2.py - 2022-08-08 20:53:30,107 - Risk of OLS: 0.9117617011070251
+INFO - exp2.py - 2022-08-08 20:53:30,107 - Training loss of Net: 8.41854159716604e-07
+INFO - exp2.py - 2022-08-08 20:53:30,108 - Training loss of OLS: 5.55949964109459e-06
+INFO - exp2.py - 2022-08-08 20:53:30,108 - Run 2
+INFO - exp2.py - 2022-08-08 20:53:30,437 - Training Starting
+INFO - exp2.py - 2022-08-08 20:53:32,730 - Training Complete
+INFO - exp2.py - 2022-08-08 20:53:32,763 - Distance between net weights and OLS: 3.7860636711120605
+INFO - exp2.py - 2022-08-08 20:53:32,764 - Risk of Net: 1.2183784246444702
+INFO - exp2.py - 2022-08-08 20:53:32,764 - Risk of OLS: 1.1851669549942017
+INFO - exp2.py - 2022-08-08 20:53:32,764 - Training loss of Net: 7.575671361337299e-07
+INFO - exp2.py - 2022-08-08 20:53:32,764 - Training loss of OLS: 6.339051651593763e-06
+INFO - exp2.py - 2022-08-08 20:53:32,765 - Run 3
+INFO - exp2.py - 2022-08-08 20:53:33,116 - Training Starting
+INFO - exp2.py - 2022-08-08 20:53:35,573 - Training Complete
+INFO - exp2.py - 2022-08-08 20:53:35,606 - Distance between net weights and OLS: 3.5798587799072266
+INFO - exp2.py - 2022-08-08 20:53:35,607 - Risk of Net: 1.246977686882019
+INFO - exp2.py - 2022-08-08 20:53:35,607 - Risk of OLS: 1.2146612405776978
+INFO - exp2.py - 2022-08-08 20:53:35,607 - Training loss of Net: 8.125115300572361e-07
+INFO - exp2.py - 2022-08-08 20:53:35,607 - Training loss of OLS: 8.28636530059157e-06
+INFO - exp2.py - 2022-08-08 20:53:35,607 - Run 4
+INFO - exp2.py - 2022-08-08 20:53:35,989 - Training Starting
+INFO - exp2.py - 2022-08-08 20:53:38,539 - Training Complete
+INFO - exp2.py - 2022-08-08 20:53:38,575 - Distance between net weights and OLS: 3.6716041564941406
+INFO - exp2.py - 2022-08-08 20:53:38,575 - Risk of Net: 1.380017876625061
+INFO - exp2.py - 2022-08-08 20:53:38,575 - Risk of OLS: 1.3704806566238403
+INFO - exp2.py - 2022-08-08 20:53:38,575 - Training loss of Net: 8.137927807183587e-07
+INFO - exp2.py - 2022-08-08 20:53:38,576 - Training loss of OLS: 9.927114660968073e-06
+INFO - exp2.py - 2022-08-08 20:53:38,576 - Run 5
+INFO - exp2.py - 2022-08-08 20:53:38,924 - Training Starting
+INFO - exp2.py - 2022-08-08 20:53:41,292 - Training Complete
+INFO - exp2.py - 2022-08-08 20:53:41,328 - Distance between net weights and OLS: 3.5126330852508545
+INFO - exp2.py - 2022-08-08 20:53:41,328 - Risk of Net: 1.2840641736984253
+INFO - exp2.py - 2022-08-08 20:53:41,328 - Risk of OLS: 1.2179704904556274
+INFO - exp2.py - 2022-08-08 20:53:41,328 - Training loss of Net: 8.227357284340542e-07
+INFO - exp2.py - 2022-08-08 20:53:41,329 - Training loss of OLS: 1.2709580914815888e-05
+INFO - exp2.py - 2022-08-08 20:53:41,329 - Run 6
+INFO - exp2.py - 2022-08-08 20:53:41,642 - Training Starting
+INFO - exp2.py - 2022-08-08 20:53:44,282 - Training Complete
+INFO - exp2.py - 2022-08-08 20:53:44,307 - Distance between net weights and OLS: 3.6412651538848877
+INFO - exp2.py - 2022-08-08 20:53:44,307 - Risk of Net: 1.2975066900253296
+INFO - exp2.py - 2022-08-08 20:53:44,307 - Risk of OLS: 1.260048508644104
+INFO - exp2.py - 2022-08-08 20:53:44,307 - Training loss of Net: 7.543275160060148e-07
+INFO - exp2.py - 2022-08-08 20:53:44,307 - Training loss of OLS: 1.190600323752733e-05
+INFO - exp2.py - 2022-08-08 20:53:44,307 - Run 7
+INFO - exp2.py - 2022-08-08 20:53:44,623 - Training Starting
+INFO - exp2.py - 2022-08-08 20:53:47,102 - Training Complete
+INFO - exp2.py - 2022-08-08 20:53:47,126 - Distance between net weights and OLS: 3.438995838165283
+INFO - exp2.py - 2022-08-08 20:53:47,127 - Risk of Net: 1.0072314739227295
+INFO - exp2.py - 2022-08-08 20:53:47,127 - Risk of OLS: 0.9874653220176697
+INFO - exp2.py - 2022-08-08 20:53:47,127 - Training loss of Net: 9.209092581841105e-07
+INFO - exp2.py - 2022-08-08 20:53:47,127 - Training loss of OLS: 9.848938134382479e-06
+INFO - exp2.py - 2022-08-08 20:53:47,127 - Run 8
+INFO - exp2.py - 2022-08-08 20:53:47,440 - Training Starting
+INFO - exp2.py - 2022-08-08 20:53:49,780 - Training Complete
+INFO - exp2.py - 2022-08-08 20:53:49,804 - Distance between net weights and OLS: 3.707265853881836
+INFO - exp2.py - 2022-08-08 20:53:49,804 - Risk of Net: 1.2155168056488037
+INFO - exp2.py - 2022-08-08 20:53:49,804 - Risk of OLS: 1.1631546020507812
+INFO - exp2.py - 2022-08-08 20:53:49,805 - Training loss of Net: 7.81483549872064e-07
+INFO - exp2.py - 2022-08-08 20:53:49,805 - Training loss of OLS: 1.4054901839699596e-05
+INFO - exp2.py - 2022-08-08 20:53:49,805 - Run 9
+INFO - exp2.py - 2022-08-08 20:53:50,118 - Training Starting
+INFO - exp2.py - 2022-08-08 20:53:52,526 - Training Complete
+INFO - exp2.py - 2022-08-08 20:53:52,551 - Distance between net weights and OLS: 3.548377275466919
+INFO - exp2.py - 2022-08-08 20:53:52,551 - Risk of Net: 1.3266804218292236
+INFO - exp2.py - 2022-08-08 20:53:52,551 - Risk of OLS: 1.286247968673706
+INFO - exp2.py - 2022-08-08 20:53:52,551 - Training loss of Net: 8.473827506350062e-07
+INFO - exp2.py - 2022-08-08 20:53:52,551 - Training loss of OLS: 9.299514204030856e-06
+INFO - exp2.py - 2022-08-08 20:53:52,552 - Run 10
+INFO - exp2.py - 2022-08-08 20:53:52,862 - Training Starting
+INFO - exp2.py - 2022-08-08 20:53:55,296 - Training Complete
+INFO - exp2.py - 2022-08-08 20:53:55,321 - Distance between net weights and OLS: 3.7588441371917725
+INFO - exp2.py - 2022-08-08 20:53:55,321 - Risk of Net: 1.03284752368927
+INFO - exp2.py - 2022-08-08 20:53:55,321 - Risk of OLS: 0.9999749660491943
+INFO - exp2.py - 2022-08-08 20:53:55,321 - Training loss of Net: 7.59663748794992e-07
+INFO - exp2.py - 2022-08-08 20:53:55,322 - Training loss of OLS: 8.265011274488643e-06
+INFO - exp2.py - 2022-08-08 20:53:55,322 - Run 11
+INFO - exp2.py - 2022-08-08 20:53:55,638 - Training Starting
+INFO - exp2.py - 2022-08-08 20:53:58,065 - Training Complete
+INFO - exp2.py - 2022-08-08 20:53:58,090 - Distance between net weights and OLS: 3.7850537300109863
+INFO - exp2.py - 2022-08-08 20:53:58,090 - Risk of Net: 0.9799305200576782
+INFO - exp2.py - 2022-08-08 20:53:58,090 - Risk of OLS: 0.9488833546638489
+INFO - exp2.py - 2022-08-08 20:53:58,090 - Training loss of Net: 8.722405482330942e-07
+INFO - exp2.py - 2022-08-08 20:53:58,090 - Training loss of OLS: 7.643903700227384e-06
+INFO - exp2.py - 2022-08-08 20:53:58,091 - Run 12
+INFO - exp2.py - 2022-08-08 20:53:58,433 - Training Starting
+INFO - exp2.py - 2022-08-08 20:54:00,756 - Training Complete
+INFO - exp2.py - 2022-08-08 20:54:00,782 - Distance between net weights and OLS: 3.761843204498291
+INFO - exp2.py - 2022-08-08 20:54:00,782 - Risk of Net: 0.9802992939949036
+INFO - exp2.py - 2022-08-08 20:54:00,782 - Risk of OLS: 0.937700092792511
+INFO - exp2.py - 2022-08-08 20:54:00,782 - Training loss of Net: 8.184860575966013e-07
+INFO - exp2.py - 2022-08-08 20:54:00,783 - Training loss of OLS: 5.422198682936141e-06
+INFO - exp2.py - 2022-08-08 20:54:00,783 - Run 13
+INFO - exp2.py - 2022-08-08 20:54:01,119 - Training Starting
+INFO - exp2.py - 2022-08-08 20:54:03,599 - Training Complete
+INFO - exp2.py - 2022-08-08 20:54:03,638 - Distance between net weights and OLS: 3.8060357570648193
+INFO - exp2.py - 2022-08-08 20:54:03,638 - Risk of Net: 1.3796658515930176
+INFO - exp2.py - 2022-08-08 20:54:03,639 - Risk of OLS: 1.3201146125793457
+INFO - exp2.py - 2022-08-08 20:54:03,639 - Training loss of Net: 7.834511848159309e-07
+INFO - exp2.py - 2022-08-08 20:54:03,639 - Training loss of OLS: 8.688459274708293e-06
+INFO - exp2.py - 2022-08-08 20:54:03,639 - Run 14
+INFO - exp2.py - 2022-08-08 20:54:04,033 - Training Starting
+INFO - exp2.py - 2022-08-08 20:54:06,605 - Training Complete
+INFO - exp2.py - 2022-08-08 20:54:06,636 - Distance between net weights and OLS: 3.6113924980163574
+INFO - exp2.py - 2022-08-08 20:54:06,636 - Risk of Net: 1.101181983947754
+INFO - exp2.py - 2022-08-08 20:54:06,636 - Risk of OLS: 1.0629994869232178
+INFO - exp2.py - 2022-08-08 20:54:06,636 - Training loss of Net: 8.920353025132499e-07
+INFO - exp2.py - 2022-08-08 20:54:06,637 - Training loss of OLS: 6.396362095983932e-06
+INFO - exp2.py - 2022-08-08 20:54:06,637 - Run 15
+INFO - exp2.py - 2022-08-08 20:54:06,990 - Training Starting
+INFO - exp2.py - 2022-08-08 20:54:09,464 - Training Complete
+INFO - exp2.py - 2022-08-08 20:54:09,496 - Distance between net weights and OLS: 3.6248085498809814
+INFO - exp2.py - 2022-08-08 20:54:09,496 - Risk of Net: 1.1642924547195435
+INFO - exp2.py - 2022-08-08 20:54:09,496 - Risk of OLS: 1.1179853677749634
+INFO - exp2.py - 2022-08-08 20:54:09,496 - Training loss of Net: 8.554256396564597e-07
+INFO - exp2.py - 2022-08-08 20:54:09,496 - Training loss of OLS: 1.7326034139841795e-05
+INFO - exp2.py - 2022-08-08 20:54:09,497 - Run 16
+INFO - exp2.py - 2022-08-08 20:54:09,868 - Training Starting
+INFO - exp2.py - 2022-08-08 20:54:12,326 - Training Complete
+INFO - exp2.py - 2022-08-08 20:54:12,354 - Distance between net weights and OLS: 3.5736753940582275
+INFO - exp2.py - 2022-08-08 20:54:12,354 - Risk of Net: 1.0385926961898804
+INFO - exp2.py - 2022-08-08 20:54:12,354 - Risk of OLS: 1.0229661464691162
+INFO - exp2.py - 2022-08-08 20:54:12,354 - Training loss of Net: 8.44863961901865e-07
+INFO - exp2.py - 2022-08-08 20:54:12,354 - Training loss of OLS: 6.273929102462716e-06
+INFO - exp2.py - 2022-08-08 20:54:12,354 - Run 17
+INFO - exp2.py - 2022-08-08 20:54:12,667 - Training Starting
+INFO - exp2.py - 2022-08-08 20:54:15,218 - Training Complete
+INFO - exp2.py - 2022-08-08 20:54:15,242 - Distance between net weights and OLS: 4.025131702423096
+INFO - exp2.py - 2022-08-08 20:54:15,242 - Risk of Net: 1.1271990537643433
+INFO - exp2.py - 2022-08-08 20:54:15,243 - Risk of OLS: 1.0797784328460693
+INFO - exp2.py - 2022-08-08 20:54:15,243 - Training loss of Net: 8.788937293502386e-07
+INFO - exp2.py - 2022-08-08 20:54:15,243 - Training loss of OLS: 6.229201972018927e-06
+INFO - exp2.py - 2022-08-08 20:54:15,243 - Run 18
+INFO - exp2.py - 2022-08-08 20:54:15,555 - Training Starting
+INFO - exp2.py - 2022-08-08 20:54:17,810 - Training Complete
+INFO - exp2.py - 2022-08-08 20:54:17,834 - Distance between net weights and OLS: 4.025238513946533
+INFO - exp2.py - 2022-08-08 20:54:17,835 - Risk of Net: 1.0597645044326782
+INFO - exp2.py - 2022-08-08 20:54:17,835 - Risk of OLS: 1.0087978839874268
+INFO - exp2.py - 2022-08-08 20:54:17,835 - Training loss of Net: 9.221739674103446e-07
+INFO - exp2.py - 2022-08-08 20:54:17,835 - Training loss of OLS: 7.485601145162946e-06
+INFO - exp2.py - 2022-08-08 20:54:17,835 - Run 19
+INFO - exp2.py - 2022-08-08 20:54:18,151 - Training Starting
+INFO - exp2.py - 2022-08-08 20:54:20,611 - Training Complete
+INFO - exp2.py - 2022-08-08 20:54:20,638 - Distance between net weights and OLS: 3.6976194381713867
+INFO - exp2.py - 2022-08-08 20:54:20,639 - Risk of Net: 1.127978801727295
+INFO - exp2.py - 2022-08-08 20:54:20,639 - Risk of OLS: 1.0933833122253418
+INFO - exp2.py - 2022-08-08 20:54:20,639 - Training loss of Net: 8.344900948031864e-07
+INFO - exp2.py - 2022-08-08 20:54:20,639 - Training loss of OLS: 7.46594560041558e-06
+INFO - exp2.py - 2022-08-08 20:54:20,639 - Current alpha is 0.0008888888888888889
+INFO - exp2.py - 2022-08-08 20:54:20,639 - Dimension is 500
+INFO - exp2.py - 2022-08-08 20:54:20,639 - Run 0
+INFO - exp2.py - 2022-08-08 20:54:20,954 - Training Starting
+INFO - exp2.py - 2022-08-08 20:54:23,789 - Training Complete
+INFO - exp2.py - 2022-08-08 20:54:23,814 - Distance between net weights and OLS: 4.958112716674805
+INFO - exp2.py - 2022-08-08 20:54:23,814 - Risk of Net: 1.059693694114685
+INFO - exp2.py - 2022-08-08 20:54:23,814 - Risk of OLS: 0.9871936440467834
+INFO - exp2.py - 2022-08-08 20:54:23,814 - Training loss of Net: 1.0338662832509726e-06
+INFO - exp2.py - 2022-08-08 20:54:23,814 - Training loss of OLS: 1.720362706691958e-05
+INFO - exp2.py - 2022-08-08 20:54:23,814 - Run 1
+INFO - exp2.py - 2022-08-08 20:54:24,133 - Training Starting
+INFO - exp2.py - 2022-08-08 20:54:26,756 - Training Complete
+INFO - exp2.py - 2022-08-08 20:54:26,842 - Distance between net weights and OLS: 4.800004482269287
+INFO - exp2.py - 2022-08-08 20:54:26,842 - Risk of Net: 1.0722131729125977
+INFO - exp2.py - 2022-08-08 20:54:26,842 - Risk of OLS: 1.0205137729644775
+INFO - exp2.py - 2022-08-08 20:54:26,842 - Training loss of Net: 1.0005669537349604e-06
+INFO - exp2.py - 2022-08-08 20:54:26,842 - Training loss of OLS: 6.690136160614202e-06
+INFO - exp2.py - 2022-08-08 20:54:26,842 - Run 2
+INFO - exp2.py - 2022-08-08 20:54:27,155 - Training Starting
+INFO - exp2.py - 2022-08-08 20:54:29,624 - Training Complete
+INFO - exp2.py - 2022-08-08 20:54:29,658 - Distance between net weights and OLS: 4.569454669952393
+INFO - exp2.py - 2022-08-08 20:54:29,658 - Risk of Net: 1.0705000162124634
+INFO - exp2.py - 2022-08-08 20:54:29,658 - Risk of OLS: 1.0033304691314697
+INFO - exp2.py - 2022-08-08 20:54:29,658 - Training loss of Net: 1.0785367976495763e-06
+INFO - exp2.py - 2022-08-08 20:54:29,659 - Training loss of OLS: 4.024267127533676e-06
+INFO - exp2.py - 2022-08-08 20:54:29,659 - Run 3
+INFO - exp2.py - 2022-08-08 20:54:30,033 - Training Starting
+INFO - exp2.py - 2022-08-08 20:54:32,491 - Training Complete
+INFO - exp2.py - 2022-08-08 20:54:32,532 - Distance between net weights and OLS: 4.7326202392578125
+INFO - exp2.py - 2022-08-08 20:54:32,532 - Risk of Net: 1.1470674276351929
+INFO - exp2.py - 2022-08-08 20:54:32,532 - Risk of OLS: 1.0870964527130127
+INFO - exp2.py - 2022-08-08 20:54:32,532 - Training loss of Net: 9.483921417086094e-07
+INFO - exp2.py - 2022-08-08 20:54:32,533 - Training loss of OLS: 1.0397757250757422e-05
+INFO - exp2.py - 2022-08-08 20:54:32,533 - Run 4
+INFO - exp2.py - 2022-08-08 20:54:32,867 - Training Starting
+INFO - exp2.py - 2022-08-08 20:54:35,392 - Training Complete
+INFO - exp2.py - 2022-08-08 20:54:35,435 - Distance between net weights and OLS: 4.676428318023682
+INFO - exp2.py - 2022-08-08 20:54:35,436 - Risk of Net: 1.1317088603973389
+INFO - exp2.py - 2022-08-08 20:54:35,436 - Risk of OLS: 1.0792888402938843
+INFO - exp2.py - 2022-08-08 20:54:35,436 - Training loss of Net: 8.333205983035441e-07
+INFO - exp2.py - 2022-08-08 20:54:35,436 - Training loss of OLS: 8.358932063856628e-06
+INFO - exp2.py - 2022-08-08 20:54:35,437 - Run 5
+INFO - exp2.py - 2022-08-08 20:54:35,843 - Training Starting
+INFO - exp2.py - 2022-08-08 20:54:38,444 - Training Complete
+INFO - exp2.py - 2022-08-08 20:54:38,468 - Distance between net weights and OLS: 4.328418254852295
+INFO - exp2.py - 2022-08-08 20:54:38,468 - Risk of Net: 1.21242356300354
+INFO - exp2.py - 2022-08-08 20:54:38,468 - Risk of OLS: 1.1566523313522339
+INFO - exp2.py - 2022-08-08 20:54:38,468 - Training loss of Net: 9.83152517619601e-07
+INFO - exp2.py - 2022-08-08 20:54:38,469 - Training loss of OLS: 9.281055099563673e-06
+INFO - exp2.py - 2022-08-08 20:54:38,469 - Run 6
+INFO - exp2.py - 2022-08-08 20:54:38,780 - Training Starting
+INFO - exp2.py - 2022-08-08 20:54:41,244 - Training Complete
+INFO - exp2.py - 2022-08-08 20:54:41,268 - Distance between net weights and OLS: 4.625227928161621
+INFO - exp2.py - 2022-08-08 20:54:41,268 - Risk of Net: 1.086236834526062
+INFO - exp2.py - 2022-08-08 20:54:41,268 - Risk of OLS: 1.0384941101074219
+INFO - exp2.py - 2022-08-08 20:54:41,268 - Training loss of Net: 1.0223445769952377e-06
+INFO - exp2.py - 2022-08-08 20:54:41,268 - Training loss of OLS: 8.740555131225847e-06
+INFO - exp2.py - 2022-08-08 20:54:41,269 - Run 7
+INFO - exp2.py - 2022-08-08 20:54:41,588 - Training Starting
+INFO - exp2.py - 2022-08-08 20:54:44,191 - Training Complete
+INFO - exp2.py - 2022-08-08 20:54:44,217 - Distance between net weights and OLS: 5.002744197845459
+INFO - exp2.py - 2022-08-08 20:54:44,217 - Risk of Net: 1.231891393661499
+INFO - exp2.py - 2022-08-08 20:54:44,217 - Risk of OLS: 1.2061498165130615
+INFO - exp2.py - 2022-08-08 20:54:44,217 - Training loss of Net: 1.0150489515581285e-06
+INFO - exp2.py - 2022-08-08 20:54:44,218 - Training loss of OLS: 1.0338982065150049e-05
+INFO - exp2.py - 2022-08-08 20:54:44,218 - Run 8
+INFO - exp2.py - 2022-08-08 20:54:44,530 - Training Starting
+INFO - exp2.py - 2022-08-08 20:54:47,165 - Training Complete
+INFO - exp2.py - 2022-08-08 20:54:47,191 - Distance between net weights and OLS: 5.118553638458252
+INFO - exp2.py - 2022-08-08 20:54:47,192 - Risk of Net: 1.2417805194854736
+INFO - exp2.py - 2022-08-08 20:54:47,192 - Risk of OLS: 1.2058144807815552
+INFO - exp2.py - 2022-08-08 20:54:47,192 - Training loss of Net: 7.925152658572188e-07
+INFO - exp2.py - 2022-08-08 20:54:47,192 - Training loss of OLS: 1.2901496120321099e-05
+INFO - exp2.py - 2022-08-08 20:54:47,192 - Run 9
+INFO - exp2.py - 2022-08-08 20:54:47,564 - Training Starting
+INFO - exp2.py - 2022-08-08 20:54:50,025 - Training Complete
+INFO - exp2.py - 2022-08-08 20:54:50,049 - Distance between net weights and OLS: 4.92484712600708
+INFO - exp2.py - 2022-08-08 20:54:50,049 - Risk of Net: 1.4366772174835205
+INFO - exp2.py - 2022-08-08 20:54:50,050 - Risk of OLS: 1.363996148109436
+INFO - exp2.py - 2022-08-08 20:54:50,050 - Training loss of Net: 9.490030379311065e-07
+INFO - exp2.py - 2022-08-08 20:54:50,050 - Training loss of OLS: 9.992185368901119e-06
+INFO - exp2.py - 2022-08-08 20:54:50,050 - Run 10
+INFO - exp2.py - 2022-08-08 20:54:50,376 - Training Starting
+INFO - exp2.py - 2022-08-08 20:54:53,043 - Training Complete
+INFO - exp2.py - 2022-08-08 20:54:53,073 - Distance between net weights and OLS: 4.906088352203369
+INFO - exp2.py - 2022-08-08 20:54:53,074 - Risk of Net: 1.0904444456100464
+INFO - exp2.py - 2022-08-08 20:54:53,074 - Risk of OLS: 1.0481547117233276
+INFO - exp2.py - 2022-08-08 20:54:53,074 - Training loss of Net: 8.412862371187657e-07
+INFO - exp2.py - 2022-08-08 20:54:53,074 - Training loss of OLS: 6.3206748563970905e-06
+INFO - exp2.py - 2022-08-08 20:54:53,074 - Run 11
+INFO - exp2.py - 2022-08-08 20:54:53,427 - Training Starting
+INFO - exp2.py - 2022-08-08 20:54:55,818 - Training Complete
+INFO - exp2.py - 2022-08-08 20:54:55,843 - Distance between net weights and OLS: 4.693978786468506
+INFO - exp2.py - 2022-08-08 20:54:55,843 - Risk of Net: 1.0080124139785767
+INFO - exp2.py - 2022-08-08 20:54:55,843 - Risk of OLS: 0.9762365818023682
+INFO - exp2.py - 2022-08-08 20:54:55,843 - Training loss of Net: 1.0154017218155786e-06
+INFO - exp2.py - 2022-08-08 20:54:55,844 - Training loss of OLS: 9.267752830055542e-06
+INFO - exp2.py - 2022-08-08 20:54:55,844 - Run 12
+INFO - exp2.py - 2022-08-08 20:54:56,154 - Training Starting
+INFO - exp2.py - 2022-08-08 20:54:58,685 - Training Complete
+INFO - exp2.py - 2022-08-08 20:54:58,726 - Distance between net weights and OLS: 4.9072651863098145
+INFO - exp2.py - 2022-08-08 20:54:58,726 - Risk of Net: 1.0732029676437378
+INFO - exp2.py - 2022-08-08 20:54:58,727 - Risk of OLS: 1.0603930950164795
+INFO - exp2.py - 2022-08-08 20:54:58,727 - Training loss of Net: 8.146546974785451e-07
+INFO - exp2.py - 2022-08-08 20:54:58,727 - Training loss of OLS: 7.214916422526585e-06
+INFO - exp2.py - 2022-08-08 20:54:58,727 - Run 13
+INFO - exp2.py - 2022-08-08 20:54:59,070 - Training Starting
+INFO - exp2.py - 2022-08-08 20:55:01,596 - Training Complete
+INFO - exp2.py - 2022-08-08 20:55:01,634 - Distance between net weights and OLS: 4.591261386871338
+INFO - exp2.py - 2022-08-08 20:55:01,634 - Risk of Net: 1.3893492221832275
+INFO - exp2.py - 2022-08-08 20:55:01,634 - Risk of OLS: 1.3181076049804688
+INFO - exp2.py - 2022-08-08 20:55:01,634 - Training loss of Net: 7.299574349417526e-07
+INFO - exp2.py - 2022-08-08 20:55:01,635 - Training loss of OLS: 1.7003980246954598e-05
+INFO - exp2.py - 2022-08-08 20:55:01,635 - Run 14
+INFO - exp2.py - 2022-08-08 20:55:01,960 - Training Starting
+INFO - exp2.py - 2022-08-08 20:55:04,441 - Training Complete
+INFO - exp2.py - 2022-08-08 20:55:04,466 - Distance between net weights and OLS: 4.710773468017578
+INFO - exp2.py - 2022-08-08 20:55:04,466 - Risk of Net: 1.1833642721176147
+INFO - exp2.py - 2022-08-08 20:55:04,466 - Risk of OLS: 1.1142066717147827
+INFO - exp2.py - 2022-08-08 20:55:04,466 - Training loss of Net: 9.966562402041745e-07
+INFO - exp2.py - 2022-08-08 20:55:04,466 - Training loss of OLS: 9.831099305301905e-06
+INFO - exp2.py - 2022-08-08 20:55:04,466 - Run 15
+INFO - exp2.py - 2022-08-08 20:55:04,779 - Training Starting
+INFO - exp2.py - 2022-08-08 20:55:07,213 - Training Complete
+INFO - exp2.py - 2022-08-08 20:55:07,240 - Distance between net weights and OLS: 4.7303032875061035
+INFO - exp2.py - 2022-08-08 20:55:07,240 - Risk of Net: 1.086206316947937
+INFO - exp2.py - 2022-08-08 20:55:07,240 - Risk of OLS: 1.042039155960083
+INFO - exp2.py - 2022-08-08 20:55:07,240 - Training loss of Net: 1.0257884923703386e-06
+INFO - exp2.py - 2022-08-08 20:55:07,240 - Training loss of OLS: 1.3524850146495737e-05
+INFO - exp2.py - 2022-08-08 20:55:07,241 - Run 16
+INFO - exp2.py - 2022-08-08 20:55:07,561 - Training Starting
+INFO - exp2.py - 2022-08-08 20:55:09,971 - Training Complete
+INFO - exp2.py - 2022-08-08 20:55:09,996 - Distance between net weights and OLS: 4.87038516998291
+INFO - exp2.py - 2022-08-08 20:55:09,996 - Risk of Net: 1.2918890714645386
+INFO - exp2.py - 2022-08-08 20:55:09,996 - Risk of OLS: 1.2572071552276611
+INFO - exp2.py - 2022-08-08 20:55:09,996 - Training loss of Net: 8.760687251196941e-07
+INFO - exp2.py - 2022-08-08 20:55:09,996 - Training loss of OLS: 8.489236279274337e-06
+INFO - exp2.py - 2022-08-08 20:55:09,996 - Run 17
+INFO - exp2.py - 2022-08-08 20:55:10,319 - Training Starting
+INFO - exp2.py - 2022-08-08 20:55:12,865 - Training Complete
+INFO - exp2.py - 2022-08-08 20:55:12,893 - Distance between net weights and OLS: 4.990180492401123
+INFO - exp2.py - 2022-08-08 20:55:12,893 - Risk of Net: 1.0573793649673462
+INFO - exp2.py - 2022-08-08 20:55:12,893 - Risk of OLS: 1.0245919227600098
+INFO - exp2.py - 2022-08-08 20:55:12,893 - Training loss of Net: 1.1307649856462376e-06
+INFO - exp2.py - 2022-08-08 20:55:12,893 - Training loss of OLS: 6.836091870354721e-06
+INFO - exp2.py - 2022-08-08 20:55:12,893 - Run 18
+INFO - exp2.py - 2022-08-08 20:55:13,205 - Training Starting
+INFO - exp2.py - 2022-08-08 20:55:15,727 - Training Complete
+INFO - exp2.py - 2022-08-08 20:55:15,756 - Distance between net weights and OLS: 4.6214752197265625
+INFO - exp2.py - 2022-08-08 20:55:15,757 - Risk of Net: 0.9811438322067261
+INFO - exp2.py - 2022-08-08 20:55:15,757 - Risk of OLS: 0.9362934231758118
+INFO - exp2.py - 2022-08-08 20:55:15,757 - Training loss of Net: 1.1141283948745695e-06
+INFO - exp2.py - 2022-08-08 20:55:15,757 - Training loss of OLS: 7.523041858803481e-06
+INFO - exp2.py - 2022-08-08 20:55:15,757 - Run 19
+INFO - exp2.py - 2022-08-08 20:55:16,097 - Training Starting
+INFO - exp2.py - 2022-08-08 20:55:18,514 - Training Complete
+INFO - exp2.py - 2022-08-08 20:55:18,545 - Distance between net weights and OLS: 4.737718105316162
+INFO - exp2.py - 2022-08-08 20:55:18,546 - Risk of Net: 1.1293303966522217
+INFO - exp2.py - 2022-08-08 20:55:18,546 - Risk of OLS: 1.0506031513214111
+INFO - exp2.py - 2022-08-08 20:55:18,546 - Training loss of Net: 9.264124969377008e-07
+INFO - exp2.py - 2022-08-08 20:55:18,546 - Training loss of OLS: 5.315611360856565e-06
+INFO - exp2.py - 2022-08-08 20:55:18,546 - Current alpha is 0.001
+INFO - exp2.py - 2022-08-08 20:55:18,546 - Dimension is 500
+INFO - exp2.py - 2022-08-08 20:55:18,546 - Run 0
+INFO - exp2.py - 2022-08-08 20:55:18,900 - Training Starting
+INFO - exp2.py - 2022-08-08 20:55:21,555 - Training Complete
+INFO - exp2.py - 2022-08-08 20:55:21,586 - Distance between net weights and OLS: 6.077162742614746
+INFO - exp2.py - 2022-08-08 20:55:21,586 - Risk of Net: 1.3294230699539185
+INFO - exp2.py - 2022-08-08 20:55:21,586 - Risk of OLS: 1.243935465812683
+INFO - exp2.py - 2022-08-08 20:55:21,586 - Training loss of Net: 7.297016395568789e-07
+INFO - exp2.py - 2022-08-08 20:55:21,587 - Training loss of OLS: 1.0487357940291986e-05
+INFO - exp2.py - 2022-08-08 20:55:21,587 - Run 1
+INFO - exp2.py - 2022-08-08 20:55:21,936 - Training Starting
+INFO - exp2.py - 2022-08-08 20:55:24,468 - Training Complete
+INFO - exp2.py - 2022-08-08 20:55:24,500 - Distance between net weights and OLS: 6.070756435394287
+INFO - exp2.py - 2022-08-08 20:55:24,500 - Risk of Net: 1.3401919603347778
+INFO - exp2.py - 2022-08-08 20:55:24,500 - Risk of OLS: 1.2310467958450317
+INFO - exp2.py - 2022-08-08 20:55:24,500 - Training loss of Net: 9.141269288193143e-07
+INFO - exp2.py - 2022-08-08 20:55:24,500 - Training loss of OLS: 9.528335795039311e-06
+INFO - exp2.py - 2022-08-08 20:55:24,501 - Run 2
+INFO - exp2.py - 2022-08-08 20:55:24,833 - Training Starting
+INFO - exp2.py - 2022-08-08 20:55:27,632 - Training Complete
+INFO - exp2.py - 2022-08-08 20:55:27,660 - Distance between net weights and OLS: 5.749736309051514
+INFO - exp2.py - 2022-08-08 20:55:27,661 - Risk of Net: 1.1891393661499023
+INFO - exp2.py - 2022-08-08 20:55:27,661 - Risk of OLS: 1.1244031190872192
+INFO - exp2.py - 2022-08-08 20:55:27,661 - Training loss of Net: 1.1177843362020212e-06
+INFO - exp2.py - 2022-08-08 20:55:27,661 - Training loss of OLS: 1.4317951354314573e-05
+INFO - exp2.py - 2022-08-08 20:55:27,661 - Run 3
+INFO - exp2.py - 2022-08-08 20:55:28,010 - Training Starting
+INFO - exp2.py - 2022-08-08 20:55:30,237 - Training Complete
+INFO - exp2.py - 2022-08-08 20:55:30,261 - Distance between net weights and OLS: 6.358069896697998
+INFO - exp2.py - 2022-08-08 20:55:30,261 - Risk of Net: 1.0725637674331665
+INFO - exp2.py - 2022-08-08 20:55:30,261 - Risk of OLS: 1.0036174058914185
+INFO - exp2.py - 2022-08-08 20:55:30,261 - Training loss of Net: 1.0602514066704316e-06
+INFO - exp2.py - 2022-08-08 20:55:30,262 - Training loss of OLS: 5.1989054554724135e-06
+INFO - exp2.py - 2022-08-08 20:55:30,262 - Run 4
+INFO - exp2.py - 2022-08-08 20:55:30,580 - Training Starting
+INFO - exp2.py - 2022-08-08 20:55:33,029 - Training Complete
+INFO - exp2.py - 2022-08-08 20:55:33,053 - Distance between net weights and OLS: 6.100167751312256
+INFO - exp2.py - 2022-08-08 20:55:33,053 - Risk of Net: 1.207047939300537
+INFO - exp2.py - 2022-08-08 20:55:33,053 - Risk of OLS: 1.1497182846069336
+INFO - exp2.py - 2022-08-08 20:55:33,053 - Training loss of Net: 1.1418445637900732e-06
+INFO - exp2.py - 2022-08-08 20:55:33,053 - Training loss of OLS: 6.951442628633231e-06
+INFO - exp2.py - 2022-08-08 20:55:33,053 - Run 5
+INFO - exp2.py - 2022-08-08 20:55:33,373 - Training Starting
+INFO - exp2.py - 2022-08-08 20:55:35,821 - Training Complete
+INFO - exp2.py - 2022-08-08 20:55:35,846 - Distance between net weights and OLS: 5.79594612121582
+INFO - exp2.py - 2022-08-08 20:55:35,846 - Risk of Net: 1.2233455181121826
+INFO - exp2.py - 2022-08-08 20:55:35,846 - Risk of OLS: 1.1602481603622437
+INFO - exp2.py - 2022-08-08 20:55:35,846 - Training loss of Net: 1.0454357379785506e-06
+INFO - exp2.py - 2022-08-08 20:55:35,846 - Training loss of OLS: 1.1954167348449118e-05
+INFO - exp2.py - 2022-08-08 20:55:35,846 - Run 6
+INFO - exp2.py - 2022-08-08 20:55:36,170 - Training Starting
+INFO - exp2.py - 2022-08-08 20:55:38,497 - Training Complete
+INFO - exp2.py - 2022-08-08 20:55:38,521 - Distance between net weights and OLS: 5.663296222686768
+INFO - exp2.py - 2022-08-08 20:55:38,521 - Risk of Net: 0.9910678267478943
+INFO - exp2.py - 2022-08-08 20:55:38,521 - Risk of OLS: 0.9516696333885193
+INFO - exp2.py - 2022-08-08 20:55:38,521 - Training loss of Net: 1.1166565627718228e-06
+INFO - exp2.py - 2022-08-08 20:55:38,522 - Training loss of OLS: 8.604604772699531e-06
+INFO - exp2.py - 2022-08-08 20:55:38,522 - Run 7
+INFO - exp2.py - 2022-08-08 20:55:38,841 - Training Starting
+INFO - exp2.py - 2022-08-08 20:55:41,334 - Training Complete
+INFO - exp2.py - 2022-08-08 20:55:41,358 - Distance between net weights and OLS: 6.163474082946777
+INFO - exp2.py - 2022-08-08 20:55:41,359 - Risk of Net: 1.132964015007019
+INFO - exp2.py - 2022-08-08 20:55:41,359 - Risk of OLS: 1.0600746870040894
+INFO - exp2.py - 2022-08-08 20:55:41,359 - Training loss of Net: 1.0472898566149524e-06
+INFO - exp2.py - 2022-08-08 20:55:41,359 - Training loss of OLS: 6.741643574059708e-06
+INFO - exp2.py - 2022-08-08 20:55:41,359 - Run 8
+INFO - exp2.py - 2022-08-08 20:55:41,679 - Training Starting
+INFO - exp2.py - 2022-08-08 20:55:44,150 - Training Complete
+INFO - exp2.py - 2022-08-08 20:55:44,175 - Distance between net weights and OLS: 6.158951759338379
+INFO - exp2.py - 2022-08-08 20:55:44,175 - Risk of Net: 1.01872980594635
+INFO - exp2.py - 2022-08-08 20:55:44,175 - Risk of OLS: 0.941230058670044
+INFO - exp2.py - 2022-08-08 20:55:44,175 - Training loss of Net: 1.2195969247841276e-06
+INFO - exp2.py - 2022-08-08 20:55:44,176 - Training loss of OLS: 1.1374488167348318e-05
+INFO - exp2.py - 2022-08-08 20:55:44,176 - Run 9
+INFO - exp2.py - 2022-08-08 20:55:44,497 - Training Starting
+INFO - exp2.py - 2022-08-08 20:55:46,967 - Training Complete
+INFO - exp2.py - 2022-08-08 20:55:46,991 - Distance between net weights and OLS: 6.323831081390381
+INFO - exp2.py - 2022-08-08 20:55:46,992 - Risk of Net: 1.275473952293396
+INFO - exp2.py - 2022-08-08 20:55:46,992 - Risk of OLS: 1.1984789371490479
+INFO - exp2.py - 2022-08-08 20:55:46,992 - Training loss of Net: 8.23616289835627e-07
+INFO - exp2.py - 2022-08-08 20:55:46,992 - Training loss of OLS: 1.5720363080617972e-05
+INFO - exp2.py - 2022-08-08 20:55:46,992 - Run 10
+INFO - exp2.py - 2022-08-08 20:55:47,311 - Training Starting
+INFO - exp2.py - 2022-08-08 20:55:49,591 - Training Complete
+INFO - exp2.py - 2022-08-08 20:55:49,618 - Distance between net weights and OLS: 5.7924628257751465
+INFO - exp2.py - 2022-08-08 20:55:49,618 - Risk of Net: 1.0734847784042358
+INFO - exp2.py - 2022-08-08 20:55:49,618 - Risk of OLS: 1.0141992568969727
+INFO - exp2.py - 2022-08-08 20:55:49,618 - Training loss of Net: 9.715578244140488e-07
+INFO - exp2.py - 2022-08-08 20:55:49,618 - Training loss of OLS: 6.918898634467041e-06
+INFO - exp2.py - 2022-08-08 20:55:49,618 - Run 11
+INFO - exp2.py - 2022-08-08 20:55:49,938 - Training Starting
+INFO - exp2.py - 2022-08-08 20:55:52,352 - Training Complete
+INFO - exp2.py - 2022-08-08 20:55:52,376 - Distance between net weights and OLS: 6.127010345458984
+INFO - exp2.py - 2022-08-08 20:55:52,376 - Risk of Net: 1.2743197679519653
+INFO - exp2.py - 2022-08-08 20:55:52,376 - Risk of OLS: 1.2193282842636108
+INFO - exp2.py - 2022-08-08 20:55:52,376 - Training loss of Net: 1.108691435547371e-06
+INFO - exp2.py - 2022-08-08 20:55:52,376 - Training loss of OLS: 9.355297152069397e-06
+INFO - exp2.py - 2022-08-08 20:55:52,377 - Run 12
+INFO - exp2.py - 2022-08-08 20:55:52,697 - Training Starting
+INFO - exp2.py - 2022-08-08 20:55:55,141 - Training Complete
+INFO - exp2.py - 2022-08-08 20:55:55,165 - Distance between net weights and OLS: 5.882336139678955
+INFO - exp2.py - 2022-08-08 20:55:55,165 - Risk of Net: 1.2315067052841187
+INFO - exp2.py - 2022-08-08 20:55:55,165 - Risk of OLS: 1.1691296100616455
+INFO - exp2.py - 2022-08-08 20:55:55,165 - Training loss of Net: 1.0851946399270673e-06
+INFO - exp2.py - 2022-08-08 20:55:55,166 - Training loss of OLS: 7.912004548416007e-06
+INFO - exp2.py - 2022-08-08 20:55:55,166 - Run 13
+INFO - exp2.py - 2022-08-08 20:55:55,484 - Training Starting
+INFO - exp2.py - 2022-08-08 20:55:57,859 - Training Complete
+INFO - exp2.py - 2022-08-08 20:55:57,883 - Distance between net weights and OLS: 5.651154041290283
+INFO - exp2.py - 2022-08-08 20:55:57,883 - Risk of Net: 1.2224634885787964
+INFO - exp2.py - 2022-08-08 20:55:57,883 - Risk of OLS: 1.123397707939148
+INFO - exp2.py - 2022-08-08 20:55:57,883 - Training loss of Net: 1.0185082146563218e-06
+INFO - exp2.py - 2022-08-08 20:55:57,883 - Training loss of OLS: 1.5744562915642746e-05
+INFO - exp2.py - 2022-08-08 20:55:57,883 - Run 14
+INFO - exp2.py - 2022-08-08 20:55:58,202 - Training Starting
+INFO - exp2.py - 2022-08-08 20:56:00,529 - Training Complete
+INFO - exp2.py - 2022-08-08 20:56:00,553 - Distance between net weights and OLS: 5.794454097747803
+INFO - exp2.py - 2022-08-08 20:56:00,553 - Risk of Net: 1.3007813692092896
+INFO - exp2.py - 2022-08-08 20:56:00,553 - Risk of OLS: 1.2411222457885742
+INFO - exp2.py - 2022-08-08 20:56:00,553 - Training loss of Net: 1.0109026788995834e-06
+INFO - exp2.py - 2022-08-08 20:56:00,553 - Training loss of OLS: 6.3624784161220305e-06
+INFO - exp2.py - 2022-08-08 20:56:00,553 - Run 15
+INFO - exp2.py - 2022-08-08 20:56:00,872 - Training Starting
+INFO - exp2.py - 2022-08-08 20:56:03,311 - Training Complete
+INFO - exp2.py - 2022-08-08 20:56:03,335 - Distance between net weights and OLS: 5.486057281494141
+INFO - exp2.py - 2022-08-08 20:56:03,335 - Risk of Net: 1.129662275314331
+INFO - exp2.py - 2022-08-08 20:56:03,335 - Risk of OLS: 1.0749789476394653
+INFO - exp2.py - 2022-08-08 20:56:03,335 - Training loss of Net: 1.1761803762055933e-06
+INFO - exp2.py - 2022-08-08 20:56:03,335 - Training loss of OLS: 8.723999599169474e-06
+INFO - exp2.py - 2022-08-08 20:56:03,335 - Run 16
+INFO - exp2.py - 2022-08-08 20:56:03,655 - Training Starting
+INFO - exp2.py - 2022-08-08 20:56:06,193 - Training Complete
+INFO - exp2.py - 2022-08-08 20:56:06,217 - Distance between net weights and OLS: 5.994390487670898
+INFO - exp2.py - 2022-08-08 20:56:06,217 - Risk of Net: 1.009273886680603
+INFO - exp2.py - 2022-08-08 20:56:06,217 - Risk of OLS: 0.9656336903572083
+INFO - exp2.py - 2022-08-08 20:56:06,217 - Training loss of Net: 9.430842169422249e-07
+INFO - exp2.py - 2022-08-08 20:56:06,218 - Training loss of OLS: 1.1278330930508673e-05
+INFO - exp2.py - 2022-08-08 20:56:06,218 - Run 17
+INFO - exp2.py - 2022-08-08 20:56:06,536 - Training Starting
+INFO - exp2.py - 2022-08-08 20:56:08,806 - Training Complete
+INFO - exp2.py - 2022-08-08 20:56:08,831 - Distance between net weights and OLS: 6.25217342376709
+INFO - exp2.py - 2022-08-08 20:56:08,831 - Risk of Net: 1.0514639616012573
+INFO - exp2.py - 2022-08-08 20:56:08,831 - Risk of OLS: 0.9831722378730774
+INFO - exp2.py - 2022-08-08 20:56:08,831 - Training loss of Net: 1.1214967798878206e-06
+INFO - exp2.py - 2022-08-08 20:56:08,832 - Training loss of OLS: 4.3262625695206225e-06
+INFO - exp2.py - 2022-08-08 20:56:08,832 - Run 18
+INFO - exp2.py - 2022-08-08 20:56:09,151 - Training Starting
+INFO - exp2.py - 2022-08-08 20:56:11,582 - Training Complete
+INFO - exp2.py - 2022-08-08 20:56:11,607 - Distance between net weights and OLS: 5.851525783538818
+INFO - exp2.py - 2022-08-08 20:56:11,607 - Risk of Net: 1.1482129096984863
+INFO - exp2.py - 2022-08-08 20:56:11,607 - Risk of OLS: 1.1126636266708374
+INFO - exp2.py - 2022-08-08 20:56:11,607 - Training loss of Net: 9.666135838415357e-07
+INFO - exp2.py - 2022-08-08 20:56:11,607 - Training loss of OLS: 1.3269660485093482e-05
+INFO - exp2.py - 2022-08-08 20:56:11,607 - Run 19
+INFO - exp2.py - 2022-08-08 20:56:11,926 - Training Starting
+INFO - exp2.py - 2022-08-08 20:56:14,366 - Training Complete
+INFO - exp2.py - 2022-08-08 20:56:14,391 - Distance between net weights and OLS: 5.814825057983398
+INFO - exp2.py - 2022-08-08 20:56:14,391 - Risk of Net: 1.1058568954467773
+INFO - exp2.py - 2022-08-08 20:56:14,391 - Risk of OLS: 1.0704575777053833
+INFO - exp2.py - 2022-08-08 20:56:14,391 - Training loss of Net: 1.0382707387179835e-06
+INFO - exp2.py - 2022-08-08 20:56:14,391 - Training loss of OLS: 7.1292606662609614e-06
