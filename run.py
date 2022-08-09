@@ -56,6 +56,20 @@ def parse_args_and_config():
     )
 
     parser.add_argument(
+        "--exp4",
+        type=str,
+        default=False,
+        help="Run Experiment 4 that calculates the norm of theta_OLS - theta and excess risk while sweeping over different init scales beta",
+    )
+
+    parser.add_argument(
+        "--exp5",
+        type=str,
+        default=False,
+        help="Run Experiment 5 that calculates the excess risk of a ReLU net with data drawn from a different ReLU net while sweeping over different init scales beta",
+    )
+
+    parser.add_argument(
         "--alpha",
         type=float,
         default=False,
@@ -146,6 +160,10 @@ def main():
             exp.exp2.exp2(args, config)
         elif args.exp3:
             exp.exp3.exp3(args, config)
+        elif args.exp4:
+            exp.exp4.exp4(args, config)
+        elif args.exp5:
+            exp.exp5.exp5(args, config)
         else:
             logging.info('No experiment provided')
     except Exception:
