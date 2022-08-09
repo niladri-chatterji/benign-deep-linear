@@ -5,9 +5,9 @@ optim:
 
 exp:
     # Parameters for the data
-    num_runs: 1 # 20
+    num_runs: 20 # 20
     dimension: 200  # 200, 500, 1000, 2000
-    num_sweep: 2    # 10     
+    num_sweep: 10    # 10     
     num_samples: 100
     variance: 1.0
     k: 10
