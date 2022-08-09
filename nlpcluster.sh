@@ -64,24 +64,24 @@ mynlprun="nlprun3 -x jagupard[10-26] -a is -p high"
 
 
 # Sweep over the beta with dimension 500
-# CMD="${mynlprun} \"python run.py --config "exp4.yaml" --doc "exp_4_dimension_500" --exp4=True --dimension=500"\"
-# eval ${CMD}
-# sleep 1
+CMD="${mynlprun} \"python run.py --config "exp4.yaml" --doc "exp_4_dimension_500" --exp4=True --dimension=500"\"
+eval ${CMD}
+sleep 1
 
-# # Sweep over the beta with dimension 1000
-# CMD="${mynlprun} \"python run.py --config "exp4.yaml" --doc "exp_4_dimension_1000" --exp4=True --dimension=1000"\"
-# eval ${CMD}
-# sleep 1
+# Sweep over the beta with dimension 1000
+CMD="${mynlprun} \"python run.py --config "exp4.yaml" --doc "exp_4_dimension_1000" --exp4=True --dimension=1000"\"
+eval ${CMD}
+sleep 1
 
-# # Sweep over the beta with dimension 2000
-# CMD="${mynlprun} \"python run.py --config "exp4.yaml" --doc "exp_4_dimension_2000" --exp4=True --dimension=2000"\"
-# eval ${CMD}
-# sleep 1
+# Sweep over the beta with dimension 2000
+CMD="${mynlprun} \"python run.py --config "exp4.yaml" --doc "exp_4_dimension_2000" --exp4=True --dimension=2000"\"
+eval ${CMD}
+sleep 1
 
 
 # Experiments with Neural Network Sweeps Over beta
 
 # Sweep over the beta with ReLUNets
-CMD="${mynlprun} \"python run.py --config "exp5.yaml" --doc "exp_5" --exp5=True"\"
-eval ${CMD}
-sleep 1
+# CMD="${mynlprun} \"python run.py --config "exp5.yaml" --doc "exp_5" --exp5=True"\"
+# eval ${CMD}
+# sleep 1

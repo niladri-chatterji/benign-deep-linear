@@ -58,8 +58,6 @@ def exp4(args, config):
                 results[idx]["risk_ols"] = []
                 results[idx]["training_loss"] = []
 
-                
-
                 num_samples = config.exp.num_samples
                 k = config.exp.k
                 epsilon = config.exp.epsilon
