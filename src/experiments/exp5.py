@@ -1,6 +1,7 @@
 import logging
 import os
 import pickle
+import pdb
 
 import torch
 import torch.optim as optim
@@ -19,7 +20,7 @@ def exp5(args, config):
         logging.info('Loading Parameters')
         # Parameters for the data
         num_runs = config.exp.num_runs
-        dimension = config.exp.dimension
+        dimension = int(config.exp.dimension)
         variance = config.exp.variance
         output_dimension = config.exp.output_dimension
         width_teacher = config.exp.width_teacher
@@ -76,7 +77,7 @@ def exp5(args, config):
 
                 for run_idx in range(num_runs):
                         logging.info('Run {}'.format(run_idx))
-                
+                        # pdb.set_trace()
                         # Generate the data
                         X, Y, net_teacher = PlantedTwoLayerIID(dimension = input_size,
                                                         num_samples = num_samples,
