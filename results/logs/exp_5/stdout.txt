@@ -15,3 +15,1412 @@ INFO - exp5.py - 2022-08-09 10:56:03,306 - Training loss of Net: 2.5069878101348
 INFO - exp5.py - 2022-08-09 10:56:03,306 - Training loss of Teacher: 2.8142879009246826
 INFO - exp5.py - 2022-08-09 10:56:03,307 - Run 1
 INFO - exp5.py - 2022-08-09 10:56:03,310 - Training Starting
+INFO - exp5.py - 2022-08-09 10:59:11,050 - Training Complete
+INFO - exp5.py - 2022-08-09 10:59:11,061 - Risk of Net: 0.39325186610221863
+INFO - exp5.py - 2022-08-09 10:59:11,061 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 10:59:11,061 - Training loss of Net: 2.439579486846924
+INFO - exp5.py - 2022-08-09 10:59:11,062 - Training loss of Teacher: 2.8289711475372314
+INFO - exp5.py - 2022-08-09 10:59:11,062 - Run 2
+INFO - exp5.py - 2022-08-09 10:59:11,066 - Training Starting
+INFO - exp5.py - 2022-08-09 11:02:19,114 - Training Complete
+INFO - exp5.py - 2022-08-09 11:02:19,119 - Risk of Net: 0.33545076847076416
+INFO - exp5.py - 2022-08-09 11:02:19,119 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 11:02:19,120 - Training loss of Net: 2.5501291751861572
+INFO - exp5.py - 2022-08-09 11:02:19,120 - Training loss of Teacher: 2.9131252765655518
+INFO - exp5.py - 2022-08-09 11:02:19,121 - Run 3
+INFO - exp5.py - 2022-08-09 11:02:19,125 - Training Starting
+INFO - exp5.py - 2022-08-09 11:05:26,626 - Training Complete
+INFO - exp5.py - 2022-08-09 11:05:26,633 - Risk of Net: 0.2808234989643097
+INFO - exp5.py - 2022-08-09 11:05:26,633 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 11:05:26,633 - Training loss of Net: 2.711287260055542
+INFO - exp5.py - 2022-08-09 11:05:26,634 - Training loss of Teacher: 3.101411819458008
+INFO - exp5.py - 2022-08-09 11:05:26,634 - Run 4
+INFO - exp5.py - 2022-08-09 11:05:26,638 - Training Starting
+INFO - exp5.py - 2022-08-09 11:08:34,865 - Training Complete
+INFO - exp5.py - 2022-08-09 11:08:34,871 - Risk of Net: 0.36565619707107544
+INFO - exp5.py - 2022-08-09 11:08:34,871 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 11:08:34,872 - Training loss of Net: 2.4959633350372314
+INFO - exp5.py - 2022-08-09 11:08:34,872 - Training loss of Teacher: 2.8712353706359863
+INFO - exp5.py - 2022-08-09 11:08:34,873 - Run 5
+INFO - exp5.py - 2022-08-09 11:08:34,877 - Training Starting
+INFO - exp5.py - 2022-08-09 11:11:42,431 - Training Complete
+INFO - exp5.py - 2022-08-09 11:11:42,443 - Risk of Net: 0.3721727430820465
+INFO - exp5.py - 2022-08-09 11:11:42,443 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 11:11:42,443 - Training loss of Net: 2.6417348384857178
+INFO - exp5.py - 2022-08-09 11:11:42,444 - Training loss of Teacher: 3.0416152477264404
+INFO - exp5.py - 2022-08-09 11:11:42,444 - Run 6
+INFO - exp5.py - 2022-08-09 11:11:42,448 - Training Starting
+INFO - exp5.py - 2022-08-09 11:14:50,272 - Training Complete
+INFO - exp5.py - 2022-08-09 11:14:50,277 - Risk of Net: 0.43462073802948
+INFO - exp5.py - 2022-08-09 11:14:50,277 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 11:14:50,277 - Training loss of Net: 2.52217960357666
+INFO - exp5.py - 2022-08-09 11:14:50,278 - Training loss of Teacher: 3.0111305713653564
+INFO - exp5.py - 2022-08-09 11:14:50,278 - Run 7
+INFO - exp5.py - 2022-08-09 11:14:50,282 - Training Starting
+INFO - exp5.py - 2022-08-09 11:17:58,144 - Training Complete
+INFO - exp5.py - 2022-08-09 11:17:58,150 - Risk of Net: 0.2850787043571472
+INFO - exp5.py - 2022-08-09 11:17:58,150 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 11:17:58,150 - Training loss of Net: 2.735224723815918
+INFO - exp5.py - 2022-08-09 11:17:58,151 - Training loss of Teacher: 3.0386276245117188
+INFO - exp5.py - 2022-08-09 11:17:58,151 - Run 8
+INFO - exp5.py - 2022-08-09 11:17:58,155 - Training Starting
+INFO - exp5.py - 2022-08-09 11:21:06,327 - Training Complete
+INFO - exp5.py - 2022-08-09 11:21:06,333 - Risk of Net: 0.37664756178855896
+INFO - exp5.py - 2022-08-09 11:21:06,334 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 11:21:06,334 - Training loss of Net: 2.493673324584961
+INFO - exp5.py - 2022-08-09 11:21:06,335 - Training loss of Teacher: 2.8627724647521973
+INFO - exp5.py - 2022-08-09 11:21:06,335 - Run 9
+INFO - exp5.py - 2022-08-09 11:21:06,339 - Training Starting
+INFO - exp5.py - 2022-08-09 11:24:14,268 - Training Complete
+INFO - exp5.py - 2022-08-09 11:24:14,283 - Risk of Net: 0.32528403401374817
+INFO - exp5.py - 2022-08-09 11:24:14,283 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 11:24:14,283 - Training loss of Net: 2.7784035205841064
+INFO - exp5.py - 2022-08-09 11:24:14,284 - Training loss of Teacher: 3.13196063041687
+INFO - exp5.py - 2022-08-09 11:24:14,284 - Run 10
+INFO - exp5.py - 2022-08-09 11:24:14,287 - Training Starting
+INFO - exp5.py - 2022-08-09 11:27:22,333 - Training Complete
+INFO - exp5.py - 2022-08-09 11:27:22,337 - Risk of Net: 0.3730579614639282
+INFO - exp5.py - 2022-08-09 11:27:22,337 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 11:27:22,338 - Training loss of Net: 2.5720276832580566
+INFO - exp5.py - 2022-08-09 11:27:22,339 - Training loss of Teacher: 2.9686548709869385
+INFO - exp5.py - 2022-08-09 11:27:22,339 - Run 11
+INFO - exp5.py - 2022-08-09 11:27:22,344 - Training Starting
+INFO - exp5.py - 2022-08-09 11:30:30,522 - Training Complete
+INFO - exp5.py - 2022-08-09 11:30:30,530 - Risk of Net: 0.3577393591403961
+INFO - exp5.py - 2022-08-09 11:30:30,530 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 11:30:30,531 - Training loss of Net: 2.656994581222534
+INFO - exp5.py - 2022-08-09 11:30:30,531 - Training loss of Teacher: 3.064337968826294
+INFO - exp5.py - 2022-08-09 11:30:30,532 - Run 12
+INFO - exp5.py - 2022-08-09 11:30:30,535 - Training Starting
+INFO - exp5.py - 2022-08-09 11:33:38,577 - Training Complete
+INFO - exp5.py - 2022-08-09 11:33:38,587 - Risk of Net: 0.42045679688453674
+INFO - exp5.py - 2022-08-09 11:33:38,587 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 11:33:38,588 - Training loss of Net: 2.664275646209717
+INFO - exp5.py - 2022-08-09 11:33:38,588 - Training loss of Teacher: 3.1050126552581787
+INFO - exp5.py - 2022-08-09 11:33:38,588 - Run 13
+INFO - exp5.py - 2022-08-09 11:33:38,592 - Training Starting
+INFO - exp5.py - 2022-08-09 11:36:46,775 - Training Complete
+INFO - exp5.py - 2022-08-09 11:36:46,789 - Risk of Net: 0.33460938930511475
+INFO - exp5.py - 2022-08-09 11:36:46,789 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 11:36:46,790 - Training loss of Net: 2.7390835285186768
+INFO - exp5.py - 2022-08-09 11:36:46,790 - Training loss of Teacher: 3.154111623764038
+INFO - exp5.py - 2022-08-09 11:36:46,791 - Run 14
+INFO - exp5.py - 2022-08-09 11:36:46,794 - Training Starting
+INFO - exp5.py - 2022-08-09 11:39:55,190 - Training Complete
+INFO - exp5.py - 2022-08-09 11:39:55,196 - Risk of Net: 0.3462669551372528
+INFO - exp5.py - 2022-08-09 11:39:55,196 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 11:39:55,197 - Training loss of Net: 2.616518497467041
+INFO - exp5.py - 2022-08-09 11:39:55,197 - Training loss of Teacher: 3.004672050476074
+INFO - exp5.py - 2022-08-09 11:39:55,198 - Run 15
+INFO - exp5.py - 2022-08-09 11:39:55,202 - Training Starting
+INFO - exp5.py - 2022-08-09 11:43:03,055 - Training Complete
+INFO - exp5.py - 2022-08-09 11:43:03,059 - Risk of Net: 0.2701745629310608
+INFO - exp5.py - 2022-08-09 11:43:03,060 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 11:43:03,060 - Training loss of Net: 2.8031952381134033
+INFO - exp5.py - 2022-08-09 11:43:03,061 - Training loss of Teacher: 3.141214609146118
+INFO - exp5.py - 2022-08-09 11:43:03,061 - Run 16
+INFO - exp5.py - 2022-08-09 11:43:03,065 - Training Starting
+INFO - exp5.py - 2022-08-09 11:46:11,187 - Training Complete
+INFO - exp5.py - 2022-08-09 11:46:11,195 - Risk of Net: 0.35711976885795593
+INFO - exp5.py - 2022-08-09 11:46:11,195 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 11:46:11,195 - Training loss of Net: 2.4547927379608154
+INFO - exp5.py - 2022-08-09 11:46:11,196 - Training loss of Teacher: 2.8602869510650635
+INFO - exp5.py - 2022-08-09 11:46:11,196 - Run 17
+INFO - exp5.py - 2022-08-09 11:46:11,201 - Training Starting
+INFO - exp5.py - 2022-08-09 11:49:18,640 - Training Complete
+INFO - exp5.py - 2022-08-09 11:49:18,644 - Risk of Net: 0.3770211338996887
+INFO - exp5.py - 2022-08-09 11:49:18,644 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 11:49:18,644 - Training loss of Net: 2.468473196029663
+INFO - exp5.py - 2022-08-09 11:49:18,645 - Training loss of Teacher: 2.8387537002563477
+INFO - exp5.py - 2022-08-09 11:49:18,645 - Run 18
+INFO - exp5.py - 2022-08-09 11:49:18,649 - Training Starting
+INFO - exp5.py - 2022-08-09 11:52:26,735 - Training Complete
+INFO - exp5.py - 2022-08-09 11:52:26,750 - Risk of Net: 0.4473046362400055
+INFO - exp5.py - 2022-08-09 11:52:26,751 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 11:52:26,751 - Training loss of Net: 2.544630289077759
+INFO - exp5.py - 2022-08-09 11:52:26,751 - Training loss of Teacher: 3.052044153213501
+INFO - exp5.py - 2022-08-09 11:52:26,752 - Run 19
+INFO - exp5.py - 2022-08-09 11:52:26,754 - Training Starting
+INFO - exp5.py - 2022-08-09 11:55:34,393 - Training Complete
+INFO - exp5.py - 2022-08-09 11:55:34,397 - Risk of Net: 0.39921626448631287
+INFO - exp5.py - 2022-08-09 11:55:34,398 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 11:55:34,398 - Training loss of Net: 2.559358835220337
+INFO - exp5.py - 2022-08-09 11:55:34,399 - Training loss of Teacher: 2.9802658557891846
+INFO - exp5.py - 2022-08-09 11:55:34,399 - Current beta is 0.00011111111111111112
+INFO - exp5.py - 2022-08-09 11:55:34,399 - Dimension is 10
+INFO - exp5.py - 2022-08-09 11:55:34,399 - Run 0
+INFO - exp5.py - 2022-08-09 11:55:34,403 - Training Starting
+INFO - exp5.py - 2022-08-09 11:58:42,646 - Training Complete
+INFO - exp5.py - 2022-08-09 11:58:42,649 - Risk of Net: 0.33630889654159546
+INFO - exp5.py - 2022-08-09 11:58:42,649 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 11:58:42,650 - Training loss of Net: 2.7058768272399902
+INFO - exp5.py - 2022-08-09 11:58:42,650 - Training loss of Teacher: 3.1134605407714844
+INFO - exp5.py - 2022-08-09 11:58:42,650 - Run 1
+INFO - exp5.py - 2022-08-09 11:58:42,654 - Training Starting
+INFO - exp5.py - 2022-08-09 12:01:50,428 - Training Complete
+INFO - exp5.py - 2022-08-09 12:01:50,432 - Risk of Net: 0.37383776903152466
+INFO - exp5.py - 2022-08-09 12:01:50,433 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 12:01:50,433 - Training loss of Net: 2.4731457233428955
+INFO - exp5.py - 2022-08-09 12:01:50,434 - Training loss of Teacher: 2.858626127243042
+INFO - exp5.py - 2022-08-09 12:01:50,434 - Run 2
+INFO - exp5.py - 2022-08-09 12:01:50,438 - Training Starting
+INFO - exp5.py - 2022-08-09 12:04:58,513 - Training Complete
+INFO - exp5.py - 2022-08-09 12:04:58,534 - Risk of Net: 0.33292296528816223
+INFO - exp5.py - 2022-08-09 12:04:58,534 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 12:04:58,534 - Training loss of Net: 2.7506866455078125
+INFO - exp5.py - 2022-08-09 12:04:58,535 - Training loss of Teacher: 3.0957515239715576
+INFO - exp5.py - 2022-08-09 12:04:58,535 - Run 3
+INFO - exp5.py - 2022-08-09 12:04:58,538 - Training Starting
+INFO - exp5.py - 2022-08-09 12:08:06,305 - Training Complete
+INFO - exp5.py - 2022-08-09 12:08:06,309 - Risk of Net: 0.4329823851585388
+INFO - exp5.py - 2022-08-09 12:08:06,309 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 12:08:06,310 - Training loss of Net: 2.7348344326019287
+INFO - exp5.py - 2022-08-09 12:08:06,311 - Training loss of Teacher: 3.197359085083008
+INFO - exp5.py - 2022-08-09 12:08:06,311 - Run 4
+INFO - exp5.py - 2022-08-09 12:08:06,314 - Training Starting
+INFO - exp5.py - 2022-08-09 12:11:14,176 - Training Complete
+INFO - exp5.py - 2022-08-09 12:11:14,190 - Risk of Net: 0.27388134598731995
+INFO - exp5.py - 2022-08-09 12:11:14,190 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 12:11:14,190 - Training loss of Net: 2.7021968364715576
+INFO - exp5.py - 2022-08-09 12:11:14,191 - Training loss of Teacher: 3.0441839694976807
+INFO - exp5.py - 2022-08-09 12:11:14,191 - Run 5
+INFO - exp5.py - 2022-08-09 12:11:14,194 - Training Starting
+INFO - exp5.py - 2022-08-09 12:14:21,685 - Training Complete
+INFO - exp5.py - 2022-08-09 12:14:21,689 - Risk of Net: 0.3079978823661804
+INFO - exp5.py - 2022-08-09 12:14:21,690 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 12:14:21,690 - Training loss of Net: 2.600836753845215
+INFO - exp5.py - 2022-08-09 12:14:21,691 - Training loss of Teacher: 2.9287071228027344
+INFO - exp5.py - 2022-08-09 12:14:21,691 - Run 6
+INFO - exp5.py - 2022-08-09 12:14:21,695 - Training Starting
+INFO - exp5.py - 2022-08-09 12:17:29,460 - Training Complete
+INFO - exp5.py - 2022-08-09 12:17:29,468 - Risk of Net: 0.3860500454902649
+INFO - exp5.py - 2022-08-09 12:17:29,468 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 12:17:29,469 - Training loss of Net: 2.6671206951141357
+INFO - exp5.py - 2022-08-09 12:17:29,469 - Training loss of Teacher: 3.1375625133514404
+INFO - exp5.py - 2022-08-09 12:17:29,469 - Run 7
+INFO - exp5.py - 2022-08-09 12:17:29,473 - Training Starting
+INFO - exp5.py - 2022-08-09 12:20:37,484 - Training Complete
+INFO - exp5.py - 2022-08-09 12:20:37,494 - Risk of Net: 0.3672656714916229
+INFO - exp5.py - 2022-08-09 12:20:37,494 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 12:20:37,495 - Training loss of Net: 2.500917911529541
+INFO - exp5.py - 2022-08-09 12:20:37,495 - Training loss of Teacher: 2.9071226119995117
+INFO - exp5.py - 2022-08-09 12:20:37,496 - Run 8
+INFO - exp5.py - 2022-08-09 12:20:37,499 - Training Starting
+INFO - exp5.py - 2022-08-09 12:23:45,180 - Training Complete
+INFO - exp5.py - 2022-08-09 12:23:45,192 - Risk of Net: 0.37505391240119934
+INFO - exp5.py - 2022-08-09 12:23:45,192 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 12:23:45,192 - Training loss of Net: 2.4339540004730225
+INFO - exp5.py - 2022-08-09 12:23:45,193 - Training loss of Teacher: 2.8464064598083496
+INFO - exp5.py - 2022-08-09 12:23:45,193 - Run 9
+INFO - exp5.py - 2022-08-09 12:23:45,197 - Training Starting
+INFO - exp5.py - 2022-08-09 12:26:53,174 - Training Complete
+INFO - exp5.py - 2022-08-09 12:26:53,180 - Risk of Net: 0.3568906784057617
+INFO - exp5.py - 2022-08-09 12:26:53,180 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 12:26:53,180 - Training loss of Net: 2.600123167037964
+INFO - exp5.py - 2022-08-09 12:26:53,181 - Training loss of Teacher: 2.996581554412842
+INFO - exp5.py - 2022-08-09 12:26:53,181 - Run 10
+INFO - exp5.py - 2022-08-09 12:26:53,186 - Training Starting
+INFO - exp5.py - 2022-08-09 12:30:01,142 - Training Complete
+INFO - exp5.py - 2022-08-09 12:30:01,146 - Risk of Net: 0.364224910736084
+INFO - exp5.py - 2022-08-09 12:30:01,146 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 12:30:01,147 - Training loss of Net: 2.790417194366455
+INFO - exp5.py - 2022-08-09 12:30:01,148 - Training loss of Teacher: 3.1395983695983887
+INFO - exp5.py - 2022-08-09 12:30:01,148 - Run 11
+INFO - exp5.py - 2022-08-09 12:30:01,152 - Training Starting
+INFO - exp5.py - 2022-08-09 12:33:08,513 - Training Complete
+INFO - exp5.py - 2022-08-09 12:33:08,526 - Risk of Net: 0.351976215839386
+INFO - exp5.py - 2022-08-09 12:33:08,526 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 12:33:08,526 - Training loss of Net: 2.4506890773773193
+INFO - exp5.py - 2022-08-09 12:33:08,527 - Training loss of Teacher: 2.84498929977417
+INFO - exp5.py - 2022-08-09 12:33:08,527 - Run 12
+INFO - exp5.py - 2022-08-09 12:33:08,531 - Training Starting
+INFO - exp5.py - 2022-08-09 12:36:16,198 - Training Complete
+INFO - exp5.py - 2022-08-09 12:36:16,202 - Risk of Net: 0.38758498430252075
+INFO - exp5.py - 2022-08-09 12:36:16,202 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 12:36:16,202 - Training loss of Net: 2.5063393115997314
+INFO - exp5.py - 2022-08-09 12:36:16,203 - Training loss of Teacher: 2.8913700580596924
+INFO - exp5.py - 2022-08-09 12:36:16,203 - Run 13
+INFO - exp5.py - 2022-08-09 12:36:16,207 - Training Starting
+INFO - exp5.py - 2022-08-09 12:39:24,016 - Training Complete
+INFO - exp5.py - 2022-08-09 12:39:24,021 - Risk of Net: 0.3191729784011841
+INFO - exp5.py - 2022-08-09 12:39:24,021 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 12:39:24,022 - Training loss of Net: 2.545413017272949
+INFO - exp5.py - 2022-08-09 12:39:24,023 - Training loss of Teacher: 2.867967367172241
+INFO - exp5.py - 2022-08-09 12:39:24,023 - Run 14
+INFO - exp5.py - 2022-08-09 12:39:24,028 - Training Starting
+INFO - exp5.py - 2022-08-09 12:42:33,458 - Training Complete
+INFO - exp5.py - 2022-08-09 12:42:33,463 - Risk of Net: 0.4556521475315094
+INFO - exp5.py - 2022-08-09 12:42:33,463 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 12:42:33,463 - Training loss of Net: 2.579866409301758
+INFO - exp5.py - 2022-08-09 12:42:33,464 - Training loss of Teacher: 3.0514016151428223
+INFO - exp5.py - 2022-08-09 12:42:33,464 - Run 15
+INFO - exp5.py - 2022-08-09 12:42:33,468 - Training Starting
+INFO - exp5.py - 2022-08-09 12:45:41,276 - Training Complete
+INFO - exp5.py - 2022-08-09 12:45:41,284 - Risk of Net: 0.33526313304901123
+INFO - exp5.py - 2022-08-09 12:45:41,284 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 12:45:41,284 - Training loss of Net: 2.621244192123413
+INFO - exp5.py - 2022-08-09 12:45:41,285 - Training loss of Teacher: 3.0054609775543213
+INFO - exp5.py - 2022-08-09 12:45:41,285 - Run 16
+INFO - exp5.py - 2022-08-09 12:45:41,289 - Training Starting
+INFO - exp5.py - 2022-08-09 12:48:49,083 - Training Complete
+INFO - exp5.py - 2022-08-09 12:48:49,087 - Risk of Net: 0.3659559488296509
+INFO - exp5.py - 2022-08-09 12:48:49,087 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 12:48:49,088 - Training loss of Net: 2.735085964202881
+INFO - exp5.py - 2022-08-09 12:48:49,089 - Training loss of Teacher: 3.117631673812866
+INFO - exp5.py - 2022-08-09 12:48:49,089 - Run 17
+INFO - exp5.py - 2022-08-09 12:48:49,093 - Training Starting
+INFO - exp5.py - 2022-08-09 12:51:57,260 - Training Complete
+INFO - exp5.py - 2022-08-09 12:51:57,279 - Risk of Net: 0.36116549372673035
+INFO - exp5.py - 2022-08-09 12:51:57,279 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 12:51:57,279 - Training loss of Net: 2.640427350997925
+INFO - exp5.py - 2022-08-09 12:51:57,280 - Training loss of Teacher: 2.990983009338379
+INFO - exp5.py - 2022-08-09 12:51:57,280 - Run 18
+INFO - exp5.py - 2022-08-09 12:51:57,283 - Training Starting
+INFO - exp5.py - 2022-08-09 12:55:05,171 - Training Complete
+INFO - exp5.py - 2022-08-09 12:55:05,181 - Risk of Net: 0.33885300159454346
+INFO - exp5.py - 2022-08-09 12:55:05,181 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 12:55:05,181 - Training loss of Net: 2.7560198307037354
+INFO - exp5.py - 2022-08-09 12:55:05,182 - Training loss of Teacher: 3.150904655456543
+INFO - exp5.py - 2022-08-09 12:55:05,182 - Run 19
+INFO - exp5.py - 2022-08-09 12:55:05,186 - Training Starting
+INFO - exp5.py - 2022-08-09 12:58:13,196 - Training Complete
+INFO - exp5.py - 2022-08-09 12:58:13,200 - Risk of Net: 0.32631948590278625
+INFO - exp5.py - 2022-08-09 12:58:13,200 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 12:58:13,200 - Training loss of Net: 2.572404623031616
+INFO - exp5.py - 2022-08-09 12:58:13,201 - Training loss of Teacher: 2.958408832550049
+INFO - exp5.py - 2022-08-09 12:58:13,201 - Current beta is 0.00022222222222222223
+INFO - exp5.py - 2022-08-09 12:58:13,201 - Dimension is 10
+INFO - exp5.py - 2022-08-09 12:58:13,202 - Run 0
+INFO - exp5.py - 2022-08-09 12:58:13,205 - Training Starting
+INFO - exp5.py - 2022-08-09 13:01:21,012 - Training Complete
+INFO - exp5.py - 2022-08-09 13:01:21,017 - Risk of Net: 0.3022805154323578
+INFO - exp5.py - 2022-08-09 13:01:21,017 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 13:01:21,017 - Training loss of Net: 2.6175968647003174
+INFO - exp5.py - 2022-08-09 13:01:21,018 - Training loss of Teacher: 2.9440958499908447
+INFO - exp5.py - 2022-08-09 13:01:21,018 - Run 1
+INFO - exp5.py - 2022-08-09 13:01:21,022 - Training Starting
+INFO - exp5.py - 2022-08-09 13:04:28,795 - Training Complete
+INFO - exp5.py - 2022-08-09 13:04:28,803 - Risk of Net: 0.39749589562416077
+INFO - exp5.py - 2022-08-09 13:04:28,803 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 13:04:28,804 - Training loss of Net: 2.60658860206604
+INFO - exp5.py - 2022-08-09 13:04:28,804 - Training loss of Teacher: 3.0651423931121826
+INFO - exp5.py - 2022-08-09 13:04:28,804 - Run 2
+INFO - exp5.py - 2022-08-09 13:04:28,808 - Training Starting
+INFO - exp5.py - 2022-08-09 13:07:36,991 - Training Complete
+INFO - exp5.py - 2022-08-09 13:07:37,009 - Risk of Net: 0.4113067090511322
+INFO - exp5.py - 2022-08-09 13:07:37,009 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 13:07:37,009 - Training loss of Net: 2.562638282775879
+INFO - exp5.py - 2022-08-09 13:07:37,010 - Training loss of Teacher: 2.956531286239624
+INFO - exp5.py - 2022-08-09 13:07:37,010 - Run 3
+INFO - exp5.py - 2022-08-09 13:07:37,013 - Training Starting
+INFO - exp5.py - 2022-08-09 13:10:45,035 - Training Complete
+INFO - exp5.py - 2022-08-09 13:10:45,048 - Risk of Net: 0.34009525179862976
+INFO - exp5.py - 2022-08-09 13:10:45,049 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 13:10:45,049 - Training loss of Net: 2.4375903606414795
+INFO - exp5.py - 2022-08-09 13:10:45,050 - Training loss of Teacher: 2.814155101776123
+INFO - exp5.py - 2022-08-09 13:10:45,050 - Run 4
+INFO - exp5.py - 2022-08-09 13:10:45,054 - Training Starting
+INFO - exp5.py - 2022-08-09 13:13:52,739 - Training Complete
+INFO - exp5.py - 2022-08-09 13:13:52,745 - Risk of Net: 0.47386324405670166
+INFO - exp5.py - 2022-08-09 13:13:52,745 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 13:13:52,745 - Training loss of Net: 2.599189043045044
+INFO - exp5.py - 2022-08-09 13:13:52,746 - Training loss of Teacher: 3.063318967819214
+INFO - exp5.py - 2022-08-09 13:13:52,747 - Run 5
+INFO - exp5.py - 2022-08-09 13:13:52,751 - Training Starting
+INFO - exp5.py - 2022-08-09 13:17:00,731 - Training Complete
+INFO - exp5.py - 2022-08-09 13:17:00,739 - Risk of Net: 0.367902934551239
+INFO - exp5.py - 2022-08-09 13:17:00,739 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 13:17:00,740 - Training loss of Net: 2.6509029865264893
+INFO - exp5.py - 2022-08-09 13:17:00,741 - Training loss of Teacher: 3.026953935623169
+INFO - exp5.py - 2022-08-09 13:17:00,741 - Run 6
+INFO - exp5.py - 2022-08-09 13:17:00,745 - Training Starting
+INFO - exp5.py - 2022-08-09 13:20:08,647 - Training Complete
+INFO - exp5.py - 2022-08-09 13:20:08,653 - Risk of Net: 0.38186636567115784
+INFO - exp5.py - 2022-08-09 13:20:08,654 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 13:20:08,654 - Training loss of Net: 2.7901127338409424
+INFO - exp5.py - 2022-08-09 13:20:08,655 - Training loss of Teacher: 3.1611568927764893
+INFO - exp5.py - 2022-08-09 13:20:08,655 - Run 7
+INFO - exp5.py - 2022-08-09 13:20:08,659 - Training Starting
+INFO - exp5.py - 2022-08-09 13:23:16,453 - Training Complete
+INFO - exp5.py - 2022-08-09 13:23:16,455 - Risk of Net: 0.33331000804901123
+INFO - exp5.py - 2022-08-09 13:23:16,455 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 13:23:16,456 - Training loss of Net: 2.6753811836242676
+INFO - exp5.py - 2022-08-09 13:23:16,456 - Training loss of Teacher: 3.048698663711548
+INFO - exp5.py - 2022-08-09 13:23:16,456 - Run 8
+INFO - exp5.py - 2022-08-09 13:23:16,458 - Training Starting
+INFO - exp5.py - 2022-08-09 13:26:24,436 - Training Complete
+INFO - exp5.py - 2022-08-09 13:26:24,441 - Risk of Net: 0.37954461574554443
+INFO - exp5.py - 2022-08-09 13:26:24,441 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 13:26:24,441 - Training loss of Net: 2.4969847202301025
+INFO - exp5.py - 2022-08-09 13:26:24,442 - Training loss of Teacher: 2.94408917427063
+INFO - exp5.py - 2022-08-09 13:26:24,442 - Run 9
+INFO - exp5.py - 2022-08-09 13:26:24,447 - Training Starting
+INFO - exp5.py - 2022-08-09 13:29:32,413 - Training Complete
+INFO - exp5.py - 2022-08-09 13:29:32,418 - Risk of Net: 0.37607577443122864
+INFO - exp5.py - 2022-08-09 13:29:32,418 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 13:29:32,418 - Training loss of Net: 2.594644546508789
+INFO - exp5.py - 2022-08-09 13:29:32,419 - Training loss of Teacher: 3.0015876293182373
+INFO - exp5.py - 2022-08-09 13:29:32,420 - Run 10
+INFO - exp5.py - 2022-08-09 13:29:32,423 - Training Starting
+INFO - exp5.py - 2022-08-09 13:32:40,536 - Training Complete
+INFO - exp5.py - 2022-08-09 13:32:40,547 - Risk of Net: 0.32499808073043823
+INFO - exp5.py - 2022-08-09 13:32:40,548 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 13:32:40,548 - Training loss of Net: 2.5400712490081787
+INFO - exp5.py - 2022-08-09 13:32:40,549 - Training loss of Teacher: 2.911318778991699
+INFO - exp5.py - 2022-08-09 13:32:40,549 - Run 11
+INFO - exp5.py - 2022-08-09 13:32:40,553 - Training Starting
+INFO - exp5.py - 2022-08-09 13:35:48,112 - Training Complete
+INFO - exp5.py - 2022-08-09 13:35:48,125 - Risk of Net: 0.4068615138530731
+INFO - exp5.py - 2022-08-09 13:35:48,126 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 13:35:48,126 - Training loss of Net: 2.630584955215454
+INFO - exp5.py - 2022-08-09 13:35:48,126 - Training loss of Teacher: 3.0722293853759766
+INFO - exp5.py - 2022-08-09 13:35:48,127 - Run 12
+INFO - exp5.py - 2022-08-09 13:35:48,130 - Training Starting
+INFO - exp5.py - 2022-08-09 13:38:56,180 - Training Complete
+INFO - exp5.py - 2022-08-09 13:38:56,188 - Risk of Net: 0.31661564111709595
+INFO - exp5.py - 2022-08-09 13:38:56,189 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 13:38:56,189 - Training loss of Net: 2.74005389213562
+INFO - exp5.py - 2022-08-09 13:38:56,190 - Training loss of Teacher: 3.116771697998047
+INFO - exp5.py - 2022-08-09 13:38:56,190 - Run 13
+INFO - exp5.py - 2022-08-09 13:38:56,194 - Training Starting
+INFO - exp5.py - 2022-08-09 13:42:04,358 - Training Complete
+INFO - exp5.py - 2022-08-09 13:42:04,368 - Risk of Net: 0.39534133672714233
+INFO - exp5.py - 2022-08-09 13:42:04,369 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 13:42:04,369 - Training loss of Net: 2.553234338760376
+INFO - exp5.py - 2022-08-09 13:42:04,370 - Training loss of Teacher: 2.9234142303466797
+INFO - exp5.py - 2022-08-09 13:42:04,370 - Run 14
+INFO - exp5.py - 2022-08-09 13:42:04,374 - Training Starting
+INFO - exp5.py - 2022-08-09 13:45:12,718 - Training Complete
+INFO - exp5.py - 2022-08-09 13:45:12,729 - Risk of Net: 0.3403577208518982
+INFO - exp5.py - 2022-08-09 13:45:12,729 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 13:45:12,729 - Training loss of Net: 2.663499355316162
+INFO - exp5.py - 2022-08-09 13:45:12,730 - Training loss of Teacher: 3.0683398246765137
+INFO - exp5.py - 2022-08-09 13:45:12,730 - Run 15
+INFO - exp5.py - 2022-08-09 13:45:12,734 - Training Starting
+INFO - exp5.py - 2022-08-09 13:48:20,057 - Training Complete
+INFO - exp5.py - 2022-08-09 13:48:20,062 - Risk of Net: 0.31121304631233215
+INFO - exp5.py - 2022-08-09 13:48:20,062 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 13:48:20,063 - Training loss of Net: 2.516953945159912
+INFO - exp5.py - 2022-08-09 13:48:20,064 - Training loss of Teacher: 2.8424456119537354
+INFO - exp5.py - 2022-08-09 13:48:20,064 - Run 16
+INFO - exp5.py - 2022-08-09 13:48:20,068 - Training Starting
+INFO - exp5.py - 2022-08-09 13:51:28,156 - Training Complete
+INFO - exp5.py - 2022-08-09 13:51:28,164 - Risk of Net: 0.37575364112854004
+INFO - exp5.py - 2022-08-09 13:51:28,164 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 13:51:28,164 - Training loss of Net: 2.65671968460083
+INFO - exp5.py - 2022-08-09 13:51:28,165 - Training loss of Teacher: 3.0781667232513428
+INFO - exp5.py - 2022-08-09 13:51:28,165 - Run 17
+INFO - exp5.py - 2022-08-09 13:51:28,169 - Training Starting
+INFO - exp5.py - 2022-08-09 13:54:36,251 - Training Complete
+INFO - exp5.py - 2022-08-09 13:54:36,256 - Risk of Net: 0.3360786437988281
+INFO - exp5.py - 2022-08-09 13:54:36,256 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 13:54:36,256 - Training loss of Net: 2.4362971782684326
+INFO - exp5.py - 2022-08-09 13:54:36,257 - Training loss of Teacher: 2.7728095054626465
+INFO - exp5.py - 2022-08-09 13:54:36,258 - Run 18
+INFO - exp5.py - 2022-08-09 13:54:36,261 - Training Starting
+INFO - exp5.py - 2022-08-09 13:57:44,292 - Training Complete
+INFO - exp5.py - 2022-08-09 13:57:44,304 - Risk of Net: 0.34797990322113037
+INFO - exp5.py - 2022-08-09 13:57:44,304 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 13:57:44,304 - Training loss of Net: 2.6356210708618164
+INFO - exp5.py - 2022-08-09 13:57:44,305 - Training loss of Teacher: 2.9935109615325928
+INFO - exp5.py - 2022-08-09 13:57:44,305 - Run 19
+INFO - exp5.py - 2022-08-09 13:57:44,309 - Training Starting
+INFO - exp5.py - 2022-08-09 14:00:52,294 - Training Complete
+INFO - exp5.py - 2022-08-09 14:00:52,299 - Risk of Net: 0.31750911474227905
+INFO - exp5.py - 2022-08-09 14:00:52,300 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 14:00:52,300 - Training loss of Net: 2.5290796756744385
+INFO - exp5.py - 2022-08-09 14:00:52,301 - Training loss of Teacher: 2.837693691253662
+INFO - exp5.py - 2022-08-09 14:00:52,301 - Current beta is 0.0003333333333333334
+INFO - exp5.py - 2022-08-09 14:00:52,301 - Dimension is 10
+INFO - exp5.py - 2022-08-09 14:00:52,302 - Run 0
+INFO - exp5.py - 2022-08-09 14:00:52,305 - Training Starting
+INFO - exp5.py - 2022-08-09 14:04:00,052 - Training Complete
+INFO - exp5.py - 2022-08-09 14:04:00,060 - Risk of Net: 0.35766759514808655
+INFO - exp5.py - 2022-08-09 14:04:00,060 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 14:04:00,061 - Training loss of Net: 2.629612684249878
+INFO - exp5.py - 2022-08-09 14:04:00,061 - Training loss of Teacher: 3.0834085941314697
+INFO - exp5.py - 2022-08-09 14:04:00,062 - Run 1
+INFO - exp5.py - 2022-08-09 14:04:00,066 - Training Starting
+INFO - exp5.py - 2022-08-09 14:07:08,027 - Training Complete
+INFO - exp5.py - 2022-08-09 14:07:08,032 - Risk of Net: 0.4065053462982178
+INFO - exp5.py - 2022-08-09 14:07:08,033 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 14:07:08,033 - Training loss of Net: 2.8141860961914062
+INFO - exp5.py - 2022-08-09 14:07:08,034 - Training loss of Teacher: 3.244748830795288
+INFO - exp5.py - 2022-08-09 14:07:08,034 - Run 2
+INFO - exp5.py - 2022-08-09 14:07:08,038 - Training Starting
+INFO - exp5.py - 2022-08-09 14:10:15,784 - Training Complete
+INFO - exp5.py - 2022-08-09 14:10:15,787 - Risk of Net: 0.370846152305603
+INFO - exp5.py - 2022-08-09 14:10:15,787 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 14:10:15,788 - Training loss of Net: 2.8067221641540527
+INFO - exp5.py - 2022-08-09 14:10:15,788 - Training loss of Teacher: 3.239954948425293
+INFO - exp5.py - 2022-08-09 14:10:15,789 - Run 3
+INFO - exp5.py - 2022-08-09 14:10:15,792 - Training Starting
+INFO - exp5.py - 2022-08-09 14:13:23,268 - Training Complete
+INFO - exp5.py - 2022-08-09 14:13:23,274 - Risk of Net: 0.28841090202331543
+INFO - exp5.py - 2022-08-09 14:13:23,274 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 14:13:23,274 - Training loss of Net: 2.529163122177124
+INFO - exp5.py - 2022-08-09 14:13:23,275 - Training loss of Teacher: 2.8633294105529785
+INFO - exp5.py - 2022-08-09 14:13:23,275 - Run 4
+INFO - exp5.py - 2022-08-09 14:13:23,279 - Training Starting
+INFO - exp5.py - 2022-08-09 14:16:31,262 - Training Complete
+INFO - exp5.py - 2022-08-09 14:16:31,272 - Risk of Net: 0.36205726861953735
+INFO - exp5.py - 2022-08-09 14:16:31,272 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 14:16:31,272 - Training loss of Net: 2.752880573272705
+INFO - exp5.py - 2022-08-09 14:16:31,273 - Training loss of Teacher: 3.145934820175171
+INFO - exp5.py - 2022-08-09 14:16:31,273 - Run 5
+INFO - exp5.py - 2022-08-09 14:16:31,277 - Training Starting
+INFO - exp5.py - 2022-08-09 14:19:39,336 - Training Complete
+INFO - exp5.py - 2022-08-09 14:19:39,340 - Risk of Net: 0.45978567004203796
+INFO - exp5.py - 2022-08-09 14:19:39,340 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 14:19:39,340 - Training loss of Net: 2.662262439727783
+INFO - exp5.py - 2022-08-09 14:19:39,341 - Training loss of Teacher: 3.169173240661621
+INFO - exp5.py - 2022-08-09 14:19:39,341 - Run 6
+INFO - exp5.py - 2022-08-09 14:19:39,346 - Training Starting
+INFO - exp5.py - 2022-08-09 14:22:47,323 - Training Complete
+INFO - exp5.py - 2022-08-09 14:22:47,328 - Risk of Net: 0.37655600905418396
+INFO - exp5.py - 2022-08-09 14:22:47,329 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 14:22:47,329 - Training loss of Net: 2.4962520599365234
+INFO - exp5.py - 2022-08-09 14:22:47,330 - Training loss of Teacher: 2.883916139602661
+INFO - exp5.py - 2022-08-09 14:22:47,330 - Run 7
+INFO - exp5.py - 2022-08-09 14:22:47,334 - Training Starting
+INFO - exp5.py - 2022-08-09 14:25:55,311 - Training Complete
+INFO - exp5.py - 2022-08-09 14:25:55,315 - Risk of Net: 0.35641589760780334
+INFO - exp5.py - 2022-08-09 14:25:55,315 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 14:25:55,315 - Training loss of Net: 2.5301313400268555
+INFO - exp5.py - 2022-08-09 14:25:55,316 - Training loss of Teacher: 2.9405202865600586
+INFO - exp5.py - 2022-08-09 14:25:55,317 - Run 8
+INFO - exp5.py - 2022-08-09 14:25:55,321 - Training Starting
+INFO - exp5.py - 2022-08-09 14:29:03,850 - Training Complete
+INFO - exp5.py - 2022-08-09 14:29:03,869 - Risk of Net: 0.3481796681880951
+INFO - exp5.py - 2022-08-09 14:29:03,869 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 14:29:03,869 - Training loss of Net: 2.531780481338501
+INFO - exp5.py - 2022-08-09 14:29:03,870 - Training loss of Teacher: 2.904843807220459
+INFO - exp5.py - 2022-08-09 14:29:03,870 - Run 9
+INFO - exp5.py - 2022-08-09 14:29:03,873 - Training Starting
+INFO - exp5.py - 2022-08-09 14:32:11,748 - Training Complete
+INFO - exp5.py - 2022-08-09 14:32:11,752 - Risk of Net: 0.39563262462615967
+INFO - exp5.py - 2022-08-09 14:32:11,752 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 14:32:11,752 - Training loss of Net: 2.6043875217437744
+INFO - exp5.py - 2022-08-09 14:32:11,753 - Training loss of Teacher: 3.0223019123077393
+INFO - exp5.py - 2022-08-09 14:32:11,753 - Run 10
+INFO - exp5.py - 2022-08-09 14:32:11,757 - Training Starting
+INFO - exp5.py - 2022-08-09 14:35:19,611 - Training Complete
+INFO - exp5.py - 2022-08-09 14:35:19,616 - Risk of Net: 0.35261034965515137
+INFO - exp5.py - 2022-08-09 14:35:19,616 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 14:35:19,616 - Training loss of Net: 2.605879068374634
+INFO - exp5.py - 2022-08-09 14:35:19,617 - Training loss of Teacher: 3.0124194622039795
+INFO - exp5.py - 2022-08-09 14:35:19,617 - Run 11
+INFO - exp5.py - 2022-08-09 14:35:19,621 - Training Starting
+INFO - exp5.py - 2022-08-09 14:38:27,424 - Training Complete
+INFO - exp5.py - 2022-08-09 14:38:27,429 - Risk of Net: 0.33905455470085144
+INFO - exp5.py - 2022-08-09 14:38:27,429 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 14:38:27,429 - Training loss of Net: 2.622638702392578
+INFO - exp5.py - 2022-08-09 14:38:27,430 - Training loss of Teacher: 2.9710617065429688
+INFO - exp5.py - 2022-08-09 14:38:27,430 - Run 12
+INFO - exp5.py - 2022-08-09 14:38:27,435 - Training Starting
+INFO - exp5.py - 2022-08-09 14:41:35,107 - Training Complete
+INFO - exp5.py - 2022-08-09 14:41:35,112 - Risk of Net: 0.36341360211372375
+INFO - exp5.py - 2022-08-09 14:41:35,112 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 14:41:35,112 - Training loss of Net: 2.5997281074523926
+INFO - exp5.py - 2022-08-09 14:41:35,113 - Training loss of Teacher: 2.9997498989105225
+INFO - exp5.py - 2022-08-09 14:41:35,113 - Run 13
+INFO - exp5.py - 2022-08-09 14:41:35,117 - Training Starting
+INFO - exp5.py - 2022-08-09 14:44:43,444 - Training Complete
+INFO - exp5.py - 2022-08-09 14:44:43,449 - Risk of Net: 0.3394208550453186
+INFO - exp5.py - 2022-08-09 14:44:43,449 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 14:44:43,450 - Training loss of Net: 2.60332989692688
+INFO - exp5.py - 2022-08-09 14:44:43,450 - Training loss of Teacher: 2.996875047683716
+INFO - exp5.py - 2022-08-09 14:44:43,451 - Run 14
+INFO - exp5.py - 2022-08-09 14:44:43,455 - Training Starting
+INFO - exp5.py - 2022-08-09 14:47:51,194 - Training Complete
+INFO - exp5.py - 2022-08-09 14:47:51,199 - Risk of Net: 0.38329964876174927
+INFO - exp5.py - 2022-08-09 14:47:51,199 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 14:47:51,200 - Training loss of Net: 2.5915684700012207
+INFO - exp5.py - 2022-08-09 14:47:51,200 - Training loss of Teacher: 3.020695209503174
+INFO - exp5.py - 2022-08-09 14:47:51,201 - Run 15
+INFO - exp5.py - 2022-08-09 14:47:51,205 - Training Starting
+INFO - exp5.py - 2022-08-09 14:50:59,402 - Training Complete
+INFO - exp5.py - 2022-08-09 14:50:59,407 - Risk of Net: 0.35406312346458435
+INFO - exp5.py - 2022-08-09 14:50:59,407 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 14:50:59,408 - Training loss of Net: 2.5142946243286133
+INFO - exp5.py - 2022-08-09 14:50:59,408 - Training loss of Teacher: 2.8603909015655518
+INFO - exp5.py - 2022-08-09 14:50:59,409 - Run 16
+INFO - exp5.py - 2022-08-09 14:50:59,412 - Training Starting
+INFO - exp5.py - 2022-08-09 14:54:07,030 - Training Complete
+INFO - exp5.py - 2022-08-09 14:54:07,040 - Risk of Net: 0.3272443413734436
+INFO - exp5.py - 2022-08-09 14:54:07,040 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 14:54:07,040 - Training loss of Net: 2.604262113571167
+INFO - exp5.py - 2022-08-09 14:54:07,041 - Training loss of Teacher: 2.932931423187256
+INFO - exp5.py - 2022-08-09 14:54:07,041 - Run 17
+INFO - exp5.py - 2022-08-09 14:54:07,044 - Training Starting
+INFO - exp5.py - 2022-08-09 14:57:14,699 - Training Complete
+INFO - exp5.py - 2022-08-09 14:57:14,703 - Risk of Net: 0.28989851474761963
+INFO - exp5.py - 2022-08-09 14:57:14,703 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 14:57:14,704 - Training loss of Net: 2.5204334259033203
+INFO - exp5.py - 2022-08-09 14:57:14,704 - Training loss of Teacher: 2.813455581665039
+INFO - exp5.py - 2022-08-09 14:57:14,704 - Run 18
+INFO - exp5.py - 2022-08-09 14:57:14,709 - Training Starting
+INFO - exp5.py - 2022-08-09 15:00:22,537 - Training Complete
+INFO - exp5.py - 2022-08-09 15:00:22,543 - Risk of Net: 0.40926453471183777
+INFO - exp5.py - 2022-08-09 15:00:22,543 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 15:00:22,543 - Training loss of Net: 2.641408920288086
+INFO - exp5.py - 2022-08-09 15:00:22,544 - Training loss of Teacher: 3.052778959274292
+INFO - exp5.py - 2022-08-09 15:00:22,544 - Run 19
+INFO - exp5.py - 2022-08-09 15:00:22,549 - Training Starting
+INFO - exp5.py - 2022-08-09 15:03:30,132 - Training Complete
+INFO - exp5.py - 2022-08-09 15:03:30,137 - Risk of Net: 0.29849156737327576
+INFO - exp5.py - 2022-08-09 15:03:30,137 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 15:03:30,137 - Training loss of Net: 2.49817156791687
+INFO - exp5.py - 2022-08-09 15:03:30,138 - Training loss of Teacher: 2.8255603313446045
+INFO - exp5.py - 2022-08-09 15:03:30,138 - Current beta is 0.00044444444444444447
+INFO - exp5.py - 2022-08-09 15:03:30,138 - Dimension is 10
+INFO - exp5.py - 2022-08-09 15:03:30,138 - Run 0
+INFO - exp5.py - 2022-08-09 15:03:30,142 - Training Starting
+INFO - exp5.py - 2022-08-09 15:06:38,031 - Training Complete
+INFO - exp5.py - 2022-08-09 15:06:38,041 - Risk of Net: 0.3840598165988922
+INFO - exp5.py - 2022-08-09 15:06:38,042 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 15:06:38,042 - Training loss of Net: 2.7069315910339355
+INFO - exp5.py - 2022-08-09 15:06:38,043 - Training loss of Teacher: 3.144707679748535
+INFO - exp5.py - 2022-08-09 15:06:38,043 - Run 1
+INFO - exp5.py - 2022-08-09 15:06:38,046 - Training Starting
+INFO - exp5.py - 2022-08-09 15:09:45,872 - Training Complete
+INFO - exp5.py - 2022-08-09 15:09:45,884 - Risk of Net: 0.4036716818809509
+INFO - exp5.py - 2022-08-09 15:09:45,884 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 15:09:45,884 - Training loss of Net: 2.584749937057495
+INFO - exp5.py - 2022-08-09 15:09:45,885 - Training loss of Teacher: 3.0027663707733154
+INFO - exp5.py - 2022-08-09 15:09:45,885 - Run 2
+INFO - exp5.py - 2022-08-09 15:09:45,889 - Training Starting
+INFO - exp5.py - 2022-08-09 15:12:53,767 - Training Complete
+INFO - exp5.py - 2022-08-09 15:12:53,772 - Risk of Net: 0.4584033787250519
+INFO - exp5.py - 2022-08-09 15:12:53,772 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 15:12:53,772 - Training loss of Net: 2.735553741455078
+INFO - exp5.py - 2022-08-09 15:12:53,773 - Training loss of Teacher: 3.2599105834960938
+INFO - exp5.py - 2022-08-09 15:12:53,773 - Run 3
+INFO - exp5.py - 2022-08-09 15:12:53,778 - Training Starting
+INFO - exp5.py - 2022-08-09 15:16:02,150 - Training Complete
+INFO - exp5.py - 2022-08-09 15:16:02,154 - Risk of Net: 0.47446370124816895
+INFO - exp5.py - 2022-08-09 15:16:02,155 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 15:16:02,155 - Training loss of Net: 2.588360071182251
+INFO - exp5.py - 2022-08-09 15:16:02,156 - Training loss of Teacher: 3.0934696197509766
+INFO - exp5.py - 2022-08-09 15:16:02,156 - Run 4
+INFO - exp5.py - 2022-08-09 15:16:02,160 - Training Starting
+INFO - exp5.py - 2022-08-09 15:19:09,681 - Training Complete
+INFO - exp5.py - 2022-08-09 15:19:09,692 - Risk of Net: 0.3167071044445038
+INFO - exp5.py - 2022-08-09 15:19:09,692 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 15:19:09,692 - Training loss of Net: 2.632859706878662
+INFO - exp5.py - 2022-08-09 15:19:09,693 - Training loss of Teacher: 2.956399917602539
+INFO - exp5.py - 2022-08-09 15:19:09,693 - Run 5
+INFO - exp5.py - 2022-08-09 15:19:09,697 - Training Starting
+INFO - exp5.py - 2022-08-09 15:22:17,799 - Training Complete
+INFO - exp5.py - 2022-08-09 15:22:17,812 - Risk of Net: 0.3673803210258484
+INFO - exp5.py - 2022-08-09 15:22:17,812 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 15:22:17,812 - Training loss of Net: 2.558793783187866
+INFO - exp5.py - 2022-08-09 15:22:17,813 - Training loss of Teacher: 2.981616973876953
+INFO - exp5.py - 2022-08-09 15:22:17,813 - Run 6
+INFO - exp5.py - 2022-08-09 15:22:17,816 - Training Starting
+INFO - exp5.py - 2022-08-09 15:25:25,477 - Training Complete
+INFO - exp5.py - 2022-08-09 15:25:25,484 - Risk of Net: 0.324516624212265
+INFO - exp5.py - 2022-08-09 15:25:25,484 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 15:25:25,485 - Training loss of Net: 2.6621458530426025
+INFO - exp5.py - 2022-08-09 15:25:25,485 - Training loss of Teacher: 3.0560505390167236
+INFO - exp5.py - 2022-08-09 15:25:25,486 - Run 7
+INFO - exp5.py - 2022-08-09 15:25:25,489 - Training Starting
+INFO - exp5.py - 2022-08-09 15:28:33,608 - Training Complete
+INFO - exp5.py - 2022-08-09 15:28:33,613 - Risk of Net: 0.39964592456817627
+INFO - exp5.py - 2022-08-09 15:28:33,613 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 15:28:33,613 - Training loss of Net: 2.5612170696258545
+INFO - exp5.py - 2022-08-09 15:28:33,614 - Training loss of Teacher: 2.969312906265259
+INFO - exp5.py - 2022-08-09 15:28:33,615 - Run 8
+INFO - exp5.py - 2022-08-09 15:28:33,618 - Training Starting
+INFO - exp5.py - 2022-08-09 15:31:41,510 - Training Complete
+INFO - exp5.py - 2022-08-09 15:31:41,524 - Risk of Net: 0.4049692153930664
+INFO - exp5.py - 2022-08-09 15:31:41,525 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 15:31:41,525 - Training loss of Net: 2.531249761581421
+INFO - exp5.py - 2022-08-09 15:31:41,525 - Training loss of Teacher: 2.941690683364868
+INFO - exp5.py - 2022-08-09 15:31:41,526 - Run 9
+INFO - exp5.py - 2022-08-09 15:31:41,529 - Training Starting
+INFO - exp5.py - 2022-08-09 15:34:49,049 - Training Complete
+INFO - exp5.py - 2022-08-09 15:34:49,054 - Risk of Net: 0.2970031499862671
+INFO - exp5.py - 2022-08-09 15:34:49,054 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 15:34:49,055 - Training loss of Net: 2.7276251316070557
+INFO - exp5.py - 2022-08-09 15:34:49,056 - Training loss of Teacher: 3.012716293334961
+INFO - exp5.py - 2022-08-09 15:34:49,056 - Run 10
+INFO - exp5.py - 2022-08-09 15:34:49,061 - Training Starting
+INFO - exp5.py - 2022-08-09 15:37:57,341 - Training Complete
+INFO - exp5.py - 2022-08-09 15:37:57,349 - Risk of Net: 0.3631950914859772
+INFO - exp5.py - 2022-08-09 15:37:57,349 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 15:37:57,349 - Training loss of Net: 2.5769214630126953
+INFO - exp5.py - 2022-08-09 15:37:57,350 - Training loss of Teacher: 2.9707610607147217
+INFO - exp5.py - 2022-08-09 15:37:57,350 - Run 11
+INFO - exp5.py - 2022-08-09 15:37:57,354 - Training Starting
+INFO - exp5.py - 2022-08-09 15:41:05,564 - Training Complete
+INFO - exp5.py - 2022-08-09 15:41:05,568 - Risk of Net: 0.37356966733932495
+INFO - exp5.py - 2022-08-09 15:41:05,568 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 15:41:05,569 - Training loss of Net: 2.628002405166626
+INFO - exp5.py - 2022-08-09 15:41:05,570 - Training loss of Teacher: 3.0038743019104004
+INFO - exp5.py - 2022-08-09 15:41:05,570 - Run 12
+INFO - exp5.py - 2022-08-09 15:41:05,574 - Training Starting
+INFO - exp5.py - 2022-08-09 15:44:13,591 - Training Complete
+INFO - exp5.py - 2022-08-09 15:44:13,603 - Risk of Net: 0.33625468611717224
+INFO - exp5.py - 2022-08-09 15:44:13,603 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 15:44:13,604 - Training loss of Net: 2.67134428024292
+INFO - exp5.py - 2022-08-09 15:44:13,604 - Training loss of Teacher: 3.0110371112823486
+INFO - exp5.py - 2022-08-09 15:44:13,604 - Run 13
+INFO - exp5.py - 2022-08-09 15:44:13,608 - Training Starting
+INFO - exp5.py - 2022-08-09 15:47:20,966 - Training Complete
+INFO - exp5.py - 2022-08-09 15:47:20,971 - Risk of Net: 0.26325371861457825
+INFO - exp5.py - 2022-08-09 15:47:20,971 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 15:47:20,972 - Training loss of Net: 2.5329504013061523
+INFO - exp5.py - 2022-08-09 15:47:20,973 - Training loss of Teacher: 2.82366681098938
+INFO - exp5.py - 2022-08-09 15:47:20,973 - Run 14
+INFO - exp5.py - 2022-08-09 15:47:20,977 - Training Starting
+INFO - exp5.py - 2022-08-09 15:50:29,305 - Training Complete
+INFO - exp5.py - 2022-08-09 15:50:29,313 - Risk of Net: 0.3919260501861572
+INFO - exp5.py - 2022-08-09 15:50:29,314 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 15:50:29,314 - Training loss of Net: 2.6508708000183105
+INFO - exp5.py - 2022-08-09 15:50:29,315 - Training loss of Teacher: 3.0273358821868896
+INFO - exp5.py - 2022-08-09 15:50:29,315 - Run 15
+INFO - exp5.py - 2022-08-09 15:50:29,319 - Training Starting
+INFO - exp5.py - 2022-08-09 15:53:36,954 - Training Complete
+INFO - exp5.py - 2022-08-09 15:53:36,964 - Risk of Net: 0.37930166721343994
+INFO - exp5.py - 2022-08-09 15:53:36,964 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 15:53:36,964 - Training loss of Net: 2.705538034439087
+INFO - exp5.py - 2022-08-09 15:53:36,965 - Training loss of Teacher: 3.1021134853363037
+INFO - exp5.py - 2022-08-09 15:53:36,965 - Run 16
+INFO - exp5.py - 2022-08-09 15:53:36,970 - Training Starting
+INFO - exp5.py - 2022-08-09 15:56:45,334 - Training Complete
+INFO - exp5.py - 2022-08-09 15:56:45,347 - Risk of Net: 0.3564439117908478
+INFO - exp5.py - 2022-08-09 15:56:45,347 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 15:56:45,347 - Training loss of Net: 2.6839702129364014
+INFO - exp5.py - 2022-08-09 15:56:45,348 - Training loss of Teacher: 3.0694408416748047
+INFO - exp5.py - 2022-08-09 15:56:45,348 - Run 17
+INFO - exp5.py - 2022-08-09 15:56:45,352 - Training Starting
+INFO - exp5.py - 2022-08-09 15:59:52,865 - Training Complete
+INFO - exp5.py - 2022-08-09 15:59:52,871 - Risk of Net: 0.3883833885192871
+INFO - exp5.py - 2022-08-09 15:59:52,871 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 15:59:52,871 - Training loss of Net: 2.757308006286621
+INFO - exp5.py - 2022-08-09 15:59:52,872 - Training loss of Teacher: 3.20474910736084
+INFO - exp5.py - 2022-08-09 15:59:52,872 - Run 18
+INFO - exp5.py - 2022-08-09 15:59:52,877 - Training Starting
+INFO - exp5.py - 2022-08-09 16:03:00,637 - Training Complete
+INFO - exp5.py - 2022-08-09 16:03:00,645 - Risk of Net: 0.39987754821777344
+INFO - exp5.py - 2022-08-09 16:03:00,645 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 16:03:00,645 - Training loss of Net: 2.314511299133301
+INFO - exp5.py - 2022-08-09 16:03:00,646 - Training loss of Teacher: 2.7298734188079834
+INFO - exp5.py - 2022-08-09 16:03:00,646 - Run 19
+INFO - exp5.py - 2022-08-09 16:03:00,650 - Training Starting
+INFO - exp5.py - 2022-08-09 16:06:08,818 - Training Complete
+INFO - exp5.py - 2022-08-09 16:06:08,831 - Risk of Net: 0.2933930456638336
+INFO - exp5.py - 2022-08-09 16:06:08,832 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 16:06:08,832 - Training loss of Net: 2.7572548389434814
+INFO - exp5.py - 2022-08-09 16:06:08,833 - Training loss of Teacher: 3.0996742248535156
+INFO - exp5.py - 2022-08-09 16:06:08,833 - Current beta is 0.0005555555555555556
+INFO - exp5.py - 2022-08-09 16:06:08,833 - Dimension is 10
+INFO - exp5.py - 2022-08-09 16:06:08,833 - Run 0
+INFO - exp5.py - 2022-08-09 16:06:08,836 - Training Starting
+INFO - exp5.py - 2022-08-09 16:09:16,871 - Training Complete
+INFO - exp5.py - 2022-08-09 16:09:16,884 - Risk of Net: 0.40995651483535767
+INFO - exp5.py - 2022-08-09 16:09:16,884 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 16:09:16,885 - Training loss of Net: 2.6218690872192383
+INFO - exp5.py - 2022-08-09 16:09:16,885 - Training loss of Teacher: 3.042724609375
+INFO - exp5.py - 2022-08-09 16:09:16,885 - Run 1
+INFO - exp5.py - 2022-08-09 16:09:16,889 - Training Starting
+INFO - exp5.py - 2022-08-09 16:12:24,187 - Training Complete
+INFO - exp5.py - 2022-08-09 16:12:24,191 - Risk of Net: 0.34662100672721863
+INFO - exp5.py - 2022-08-09 16:12:24,191 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 16:12:24,192 - Training loss of Net: 2.6322402954101562
+INFO - exp5.py - 2022-08-09 16:12:24,193 - Training loss of Teacher: 3.014012098312378
+INFO - exp5.py - 2022-08-09 16:12:24,193 - Run 2
+INFO - exp5.py - 2022-08-09 16:12:24,197 - Training Starting
+INFO - exp5.py - 2022-08-09 16:15:31,803 - Training Complete
+INFO - exp5.py - 2022-08-09 16:15:31,808 - Risk of Net: 0.2985765337944031
+INFO - exp5.py - 2022-08-09 16:15:31,808 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 16:15:31,809 - Training loss of Net: 2.576335906982422
+INFO - exp5.py - 2022-08-09 16:15:31,810 - Training loss of Teacher: 2.923306703567505
+INFO - exp5.py - 2022-08-09 16:15:31,810 - Run 3
+INFO - exp5.py - 2022-08-09 16:15:31,814 - Training Starting
+INFO - exp5.py - 2022-08-09 16:18:40,646 - Training Complete
+INFO - exp5.py - 2022-08-09 16:18:40,654 - Risk of Net: 0.34905195236206055
+INFO - exp5.py - 2022-08-09 16:18:40,654 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 16:18:40,654 - Training loss of Net: 2.6115777492523193
+INFO - exp5.py - 2022-08-09 16:18:40,655 - Training loss of Teacher: 3.0223467350006104
+INFO - exp5.py - 2022-08-09 16:18:40,655 - Run 4
+INFO - exp5.py - 2022-08-09 16:18:40,659 - Training Starting
+INFO - exp5.py - 2022-08-09 16:21:49,581 - Training Complete
+INFO - exp5.py - 2022-08-09 16:21:49,585 - Risk of Net: 0.3633224666118622
+INFO - exp5.py - 2022-08-09 16:21:49,586 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 16:21:49,586 - Training loss of Net: 2.670172691345215
+INFO - exp5.py - 2022-08-09 16:21:49,587 - Training loss of Teacher: 3.0957047939300537
+INFO - exp5.py - 2022-08-09 16:21:49,587 - Run 5
+INFO - exp5.py - 2022-08-09 16:21:49,591 - Training Starting
+INFO - exp5.py - 2022-08-09 16:24:58,586 - Training Complete
+INFO - exp5.py - 2022-08-09 16:24:58,595 - Risk of Net: 0.37219059467315674
+INFO - exp5.py - 2022-08-09 16:24:58,595 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 16:24:58,595 - Training loss of Net: 2.7261462211608887
+INFO - exp5.py - 2022-08-09 16:24:58,596 - Training loss of Teacher: 3.1203410625457764
+INFO - exp5.py - 2022-08-09 16:24:58,597 - Run 6
+INFO - exp5.py - 2022-08-09 16:24:58,601 - Training Starting
+INFO - exp5.py - 2022-08-09 16:28:07,623 - Training Complete
+INFO - exp5.py - 2022-08-09 16:28:07,633 - Risk of Net: 0.3228413760662079
+INFO - exp5.py - 2022-08-09 16:28:07,634 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 16:28:07,634 - Training loss of Net: 2.6122305393218994
+INFO - exp5.py - 2022-08-09 16:28:07,635 - Training loss of Teacher: 2.9563465118408203
+INFO - exp5.py - 2022-08-09 16:28:07,635 - Run 7
+INFO - exp5.py - 2022-08-09 16:28:07,639 - Training Starting
+INFO - exp5.py - 2022-08-09 16:31:16,643 - Training Complete
+INFO - exp5.py - 2022-08-09 16:31:16,660 - Risk of Net: 0.3801862895488739
+INFO - exp5.py - 2022-08-09 16:31:16,660 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 16:31:16,660 - Training loss of Net: 2.7123098373413086
+INFO - exp5.py - 2022-08-09 16:31:16,661 - Training loss of Teacher: 3.121896982192993
+INFO - exp5.py - 2022-08-09 16:31:16,661 - Run 8
+INFO - exp5.py - 2022-08-09 16:31:16,664 - Training Starting
+INFO - exp5.py - 2022-08-09 16:34:25,342 - Training Complete
+INFO - exp5.py - 2022-08-09 16:34:25,347 - Risk of Net: 0.3601677417755127
+INFO - exp5.py - 2022-08-09 16:34:25,347 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 16:34:25,347 - Training loss of Net: 2.6736810207366943
+INFO - exp5.py - 2022-08-09 16:34:25,348 - Training loss of Teacher: 3.0770671367645264
+INFO - exp5.py - 2022-08-09 16:34:25,348 - Run 9
+INFO - exp5.py - 2022-08-09 16:34:25,353 - Training Starting
+INFO - exp5.py - 2022-08-09 16:37:34,298 - Training Complete
+INFO - exp5.py - 2022-08-09 16:37:34,337 - Risk of Net: 0.4145181477069855
+INFO - exp5.py - 2022-08-09 16:37:34,338 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 16:37:34,338 - Training loss of Net: 2.6232333183288574
+INFO - exp5.py - 2022-08-09 16:37:34,339 - Training loss of Teacher: 3.0331997871398926
+INFO - exp5.py - 2022-08-09 16:37:34,339 - Run 10
+INFO - exp5.py - 2022-08-09 16:37:34,344 - Training Starting
+INFO - exp5.py - 2022-08-09 16:40:43,281 - Training Complete
+INFO - exp5.py - 2022-08-09 16:40:43,295 - Risk of Net: 0.3675679862499237
+INFO - exp5.py - 2022-08-09 16:40:43,295 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 16:40:43,296 - Training loss of Net: 2.5694143772125244
+INFO - exp5.py - 2022-08-09 16:40:43,296 - Training loss of Teacher: 2.972510814666748
+INFO - exp5.py - 2022-08-09 16:40:43,297 - Run 11
+INFO - exp5.py - 2022-08-09 16:40:43,300 - Training Starting
+INFO - exp5.py - 2022-08-09 16:43:52,060 - Training Complete
+INFO - exp5.py - 2022-08-09 16:43:52,064 - Risk of Net: 0.3763793110847473
+INFO - exp5.py - 2022-08-09 16:43:52,064 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 16:43:52,065 - Training loss of Net: 2.652139663696289
+INFO - exp5.py - 2022-08-09 16:43:52,066 - Training loss of Teacher: 3.0707457065582275
+INFO - exp5.py - 2022-08-09 16:43:52,066 - Run 12
+INFO - exp5.py - 2022-08-09 16:43:52,070 - Training Starting
+INFO - exp5.py - 2022-08-09 16:47:01,238 - Training Complete
+INFO - exp5.py - 2022-08-09 16:47:01,242 - Risk of Net: 0.3498694598674774
+INFO - exp5.py - 2022-08-09 16:47:01,243 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 16:47:01,243 - Training loss of Net: 2.6194655895233154
+INFO - exp5.py - 2022-08-09 16:47:01,244 - Training loss of Teacher: 2.9972288608551025
+INFO - exp5.py - 2022-08-09 16:47:01,244 - Run 13
+INFO - exp5.py - 2022-08-09 16:47:01,248 - Training Starting
+INFO - exp5.py - 2022-08-09 16:50:09,884 - Training Complete
+INFO - exp5.py - 2022-08-09 16:50:09,894 - Risk of Net: 0.34772729873657227
+INFO - exp5.py - 2022-08-09 16:50:09,894 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 16:50:09,894 - Training loss of Net: 2.541919231414795
+INFO - exp5.py - 2022-08-09 16:50:09,895 - Training loss of Teacher: 2.9384641647338867
+INFO - exp5.py - 2022-08-09 16:50:09,895 - Run 14
+INFO - exp5.py - 2022-08-09 16:50:09,899 - Training Starting
+INFO - exp5.py - 2022-08-09 16:53:18,695 - Training Complete
+INFO - exp5.py - 2022-08-09 16:53:18,700 - Risk of Net: 0.4114692807197571
+INFO - exp5.py - 2022-08-09 16:53:18,700 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 16:53:18,701 - Training loss of Net: 2.7063193321228027
+INFO - exp5.py - 2022-08-09 16:53:18,702 - Training loss of Teacher: 3.150176763534546
+INFO - exp5.py - 2022-08-09 16:53:18,702 - Run 15
+INFO - exp5.py - 2022-08-09 16:53:18,706 - Training Starting
+INFO - exp5.py - 2022-08-09 16:56:27,887 - Training Complete
+INFO - exp5.py - 2022-08-09 16:56:27,894 - Risk of Net: 0.3084287941455841
+INFO - exp5.py - 2022-08-09 16:56:27,894 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 16:56:27,895 - Training loss of Net: 2.6423144340515137
+INFO - exp5.py - 2022-08-09 16:56:27,896 - Training loss of Teacher: 2.988755464553833
+INFO - exp5.py - 2022-08-09 16:56:27,896 - Run 16
+INFO - exp5.py - 2022-08-09 16:56:27,900 - Training Starting
+INFO - exp5.py - 2022-08-09 16:59:36,605 - Training Complete
+INFO - exp5.py - 2022-08-09 16:59:36,617 - Risk of Net: 0.3756426274776459
+INFO - exp5.py - 2022-08-09 16:59:36,617 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 16:59:36,618 - Training loss of Net: 2.6147890090942383
+INFO - exp5.py - 2022-08-09 16:59:36,618 - Training loss of Teacher: 3.031036615371704
+INFO - exp5.py - 2022-08-09 16:59:36,619 - Run 17
+INFO - exp5.py - 2022-08-09 16:59:36,622 - Training Starting
+INFO - exp5.py - 2022-08-09 17:02:45,520 - Training Complete
+INFO - exp5.py - 2022-08-09 17:02:45,525 - Risk of Net: 0.3008189797401428
+INFO - exp5.py - 2022-08-09 17:02:45,525 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 17:02:45,526 - Training loss of Net: 2.465975761413574
+INFO - exp5.py - 2022-08-09 17:02:45,527 - Training loss of Teacher: 2.7793374061584473
+INFO - exp5.py - 2022-08-09 17:02:45,527 - Run 18
+INFO - exp5.py - 2022-08-09 17:02:45,531 - Training Starting
+INFO - exp5.py - 2022-08-09 17:05:54,044 - Training Complete
+INFO - exp5.py - 2022-08-09 17:05:54,050 - Risk of Net: 0.3777742385864258
+INFO - exp5.py - 2022-08-09 17:05:54,051 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 17:05:54,051 - Training loss of Net: 2.6499414443969727
+INFO - exp5.py - 2022-08-09 17:05:54,052 - Training loss of Teacher: 3.07592511177063
+INFO - exp5.py - 2022-08-09 17:05:54,052 - Run 19
+INFO - exp5.py - 2022-08-09 17:05:54,057 - Training Starting
+INFO - exp5.py - 2022-08-09 17:09:03,378 - Training Complete
+INFO - exp5.py - 2022-08-09 17:09:03,382 - Risk of Net: 0.37090644240379333
+INFO - exp5.py - 2022-08-09 17:09:03,382 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 17:09:03,382 - Training loss of Net: 2.5317609310150146
+INFO - exp5.py - 2022-08-09 17:09:03,383 - Training loss of Teacher: 2.93121075630188
+INFO - exp5.py - 2022-08-09 17:09:03,383 - Current beta is 0.0006666666666666668
+INFO - exp5.py - 2022-08-09 17:09:03,384 - Dimension is 10
+INFO - exp5.py - 2022-08-09 17:09:03,384 - Run 0
+INFO - exp5.py - 2022-08-09 17:09:03,388 - Training Starting
+INFO - exp5.py - 2022-08-09 17:12:11,908 - Training Complete
+INFO - exp5.py - 2022-08-09 17:12:11,915 - Risk of Net: 0.32890212535858154
+INFO - exp5.py - 2022-08-09 17:12:11,915 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 17:12:11,916 - Training loss of Net: 2.3655598163604736
+INFO - exp5.py - 2022-08-09 17:12:11,916 - Training loss of Teacher: 2.7022860050201416
+INFO - exp5.py - 2022-08-09 17:12:11,917 - Run 1
+INFO - exp5.py - 2022-08-09 17:12:11,922 - Training Starting
+INFO - exp5.py - 2022-08-09 17:15:20,954 - Training Complete
+INFO - exp5.py - 2022-08-09 17:15:20,958 - Risk of Net: 0.35939863324165344
+INFO - exp5.py - 2022-08-09 17:15:20,959 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 17:15:20,959 - Training loss of Net: 2.52310848236084
+INFO - exp5.py - 2022-08-09 17:15:20,960 - Training loss of Teacher: 2.920173168182373
+INFO - exp5.py - 2022-08-09 17:15:20,960 - Run 2
+INFO - exp5.py - 2022-08-09 17:15:20,964 - Training Starting
+INFO - exp5.py - 2022-08-09 17:18:29,805 - Training Complete
+INFO - exp5.py - 2022-08-09 17:18:29,809 - Risk of Net: 0.362479567527771
+INFO - exp5.py - 2022-08-09 17:18:29,809 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 17:18:29,810 - Training loss of Net: 2.37605881690979
+INFO - exp5.py - 2022-08-09 17:18:29,811 - Training loss of Teacher: 2.773392915725708
+INFO - exp5.py - 2022-08-09 17:18:29,811 - Run 3
+INFO - exp5.py - 2022-08-09 17:18:29,815 - Training Starting
+INFO - exp5.py - 2022-08-09 17:21:38,837 - Training Complete
+INFO - exp5.py - 2022-08-09 17:21:38,842 - Risk of Net: 0.35499632358551025
+INFO - exp5.py - 2022-08-09 17:21:38,842 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 17:21:38,842 - Training loss of Net: 2.7644083499908447
+INFO - exp5.py - 2022-08-09 17:21:38,843 - Training loss of Teacher: 3.1102454662323
+INFO - exp5.py - 2022-08-09 17:21:38,843 - Run 4
+INFO - exp5.py - 2022-08-09 17:21:38,847 - Training Starting
+INFO - exp5.py - 2022-08-09 17:24:47,557 - Training Complete
+INFO - exp5.py - 2022-08-09 17:24:47,561 - Risk of Net: 0.44444936513900757
+INFO - exp5.py - 2022-08-09 17:24:47,562 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 17:24:47,562 - Training loss of Net: 2.4573733806610107
+INFO - exp5.py - 2022-08-09 17:24:47,563 - Training loss of Teacher: 2.916686534881592
+INFO - exp5.py - 2022-08-09 17:24:47,563 - Run 5
+INFO - exp5.py - 2022-08-09 17:24:47,567 - Training Starting
+INFO - exp5.py - 2022-08-09 17:27:56,594 - Training Complete
+INFO - exp5.py - 2022-08-09 17:27:56,598 - Risk of Net: 0.4345686435699463
+INFO - exp5.py - 2022-08-09 17:27:56,599 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 17:27:56,599 - Training loss of Net: 2.8236749172210693
+INFO - exp5.py - 2022-08-09 17:27:56,600 - Training loss of Teacher: 3.2883100509643555
+INFO - exp5.py - 2022-08-09 17:27:56,600 - Run 6
+INFO - exp5.py - 2022-08-09 17:27:56,604 - Training Starting
+INFO - exp5.py - 2022-08-09 17:31:05,280 - Training Complete
+INFO - exp5.py - 2022-08-09 17:31:05,285 - Risk of Net: 0.32929402589797974
+INFO - exp5.py - 2022-08-09 17:31:05,285 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 17:31:05,286 - Training loss of Net: 2.5704264640808105
+INFO - exp5.py - 2022-08-09 17:31:05,286 - Training loss of Teacher: 2.9610838890075684
+INFO - exp5.py - 2022-08-09 17:31:05,287 - Run 7
+INFO - exp5.py - 2022-08-09 17:31:05,290 - Training Starting
+INFO - exp5.py - 2022-08-09 17:34:14,414 - Training Complete
+INFO - exp5.py - 2022-08-09 17:34:14,427 - Risk of Net: 0.2928410470485687
+INFO - exp5.py - 2022-08-09 17:34:14,427 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 17:34:14,427 - Training loss of Net: 2.734691619873047
+INFO - exp5.py - 2022-08-09 17:34:14,428 - Training loss of Teacher: 3.0824153423309326
+INFO - exp5.py - 2022-08-09 17:34:14,428 - Run 8
+INFO - exp5.py - 2022-08-09 17:34:14,432 - Training Starting
+INFO - exp5.py - 2022-08-09 17:37:23,388 - Training Complete
+INFO - exp5.py - 2022-08-09 17:37:23,394 - Risk of Net: 0.41029202938079834
+INFO - exp5.py - 2022-08-09 17:37:23,395 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 17:37:23,395 - Training loss of Net: 2.6950924396514893
+INFO - exp5.py - 2022-08-09 17:37:23,396 - Training loss of Teacher: 3.0840117931365967
+INFO - exp5.py - 2022-08-09 17:37:23,396 - Run 9
+INFO - exp5.py - 2022-08-09 17:37:23,400 - Training Starting
+INFO - exp5.py - 2022-08-09 17:40:32,166 - Training Complete
+INFO - exp5.py - 2022-08-09 17:40:32,174 - Risk of Net: 0.41996294260025024
+INFO - exp5.py - 2022-08-09 17:40:32,175 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 17:40:32,175 - Training loss of Net: 2.7000951766967773
+INFO - exp5.py - 2022-08-09 17:40:32,176 - Training loss of Teacher: 3.1627910137176514
+INFO - exp5.py - 2022-08-09 17:40:32,176 - Run 10
+INFO - exp5.py - 2022-08-09 17:40:32,180 - Training Starting
+INFO - exp5.py - 2022-08-09 17:43:41,300 - Training Complete
+INFO - exp5.py - 2022-08-09 17:43:41,308 - Risk of Net: 0.4205523431301117
+INFO - exp5.py - 2022-08-09 17:43:41,308 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 17:43:41,308 - Training loss of Net: 2.416393280029297
+INFO - exp5.py - 2022-08-09 17:43:41,309 - Training loss of Teacher: 2.8600881099700928
+INFO - exp5.py - 2022-08-09 17:43:41,309 - Run 11
+INFO - exp5.py - 2022-08-09 17:43:41,314 - Training Starting
+INFO - exp5.py - 2022-08-09 17:46:50,364 - Training Complete
+INFO - exp5.py - 2022-08-09 17:46:50,368 - Risk of Net: 0.3842619061470032
+INFO - exp5.py - 2022-08-09 17:46:50,369 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 17:46:50,369 - Training loss of Net: 2.703383684158325
+INFO - exp5.py - 2022-08-09 17:46:50,370 - Training loss of Teacher: 3.074805736541748
+INFO - exp5.py - 2022-08-09 17:46:50,370 - Run 12
+INFO - exp5.py - 2022-08-09 17:46:50,375 - Training Starting
+INFO - exp5.py - 2022-08-09 17:49:59,251 - Training Complete
+INFO - exp5.py - 2022-08-09 17:49:59,259 - Risk of Net: 0.4076876640319824
+INFO - exp5.py - 2022-08-09 17:49:59,259 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 17:49:59,259 - Training loss of Net: 2.5038983821868896
+INFO - exp5.py - 2022-08-09 17:49:59,260 - Training loss of Teacher: 3.0028767585754395
+INFO - exp5.py - 2022-08-09 17:49:59,260 - Run 13
+INFO - exp5.py - 2022-08-09 17:49:59,264 - Training Starting
+INFO - exp5.py - 2022-08-09 17:53:08,391 - Training Complete
+INFO - exp5.py - 2022-08-09 17:53:08,407 - Risk of Net: 0.29501375555992126
+INFO - exp5.py - 2022-08-09 17:53:08,407 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 17:53:08,407 - Training loss of Net: 2.5946662425994873
+INFO - exp5.py - 2022-08-09 17:53:08,408 - Training loss of Teacher: 2.9280858039855957
+INFO - exp5.py - 2022-08-09 17:53:08,408 - Run 14
+INFO - exp5.py - 2022-08-09 17:53:08,411 - Training Starting
+INFO - exp5.py - 2022-08-09 17:56:17,267 - Training Complete
+INFO - exp5.py - 2022-08-09 17:56:17,279 - Risk of Net: 0.3911035358905792
+INFO - exp5.py - 2022-08-09 17:56:17,279 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 17:56:17,279 - Training loss of Net: 2.6707427501678467
+INFO - exp5.py - 2022-08-09 17:56:17,280 - Training loss of Teacher: 3.0902035236358643
+INFO - exp5.py - 2022-08-09 17:56:17,280 - Run 15
+INFO - exp5.py - 2022-08-09 17:56:17,284 - Training Starting
+INFO - exp5.py - 2022-08-09 17:59:25,991 - Training Complete
+INFO - exp5.py - 2022-08-09 17:59:25,998 - Risk of Net: 0.3428221344947815
+INFO - exp5.py - 2022-08-09 17:59:25,998 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 17:59:25,999 - Training loss of Net: 2.582815647125244
+INFO - exp5.py - 2022-08-09 17:59:25,999 - Training loss of Teacher: 2.917874574661255
+INFO - exp5.py - 2022-08-09 17:59:26,000 - Run 16
+INFO - exp5.py - 2022-08-09 17:59:26,003 - Training Starting
+INFO - exp5.py - 2022-08-09 18:02:34,944 - Training Complete
+INFO - exp5.py - 2022-08-09 18:02:34,954 - Risk of Net: 0.33621931076049805
+INFO - exp5.py - 2022-08-09 18:02:34,954 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 18:02:34,954 - Training loss of Net: 2.6696693897247314
+INFO - exp5.py - 2022-08-09 18:02:34,955 - Training loss of Teacher: 3.0531086921691895
+INFO - exp5.py - 2022-08-09 18:02:34,956 - Run 17
+INFO - exp5.py - 2022-08-09 18:02:34,960 - Training Starting
+INFO - exp5.py - 2022-08-09 18:05:43,840 - Training Complete
+INFO - exp5.py - 2022-08-09 18:05:43,865 - Risk of Net: 0.3584231436252594
+INFO - exp5.py - 2022-08-09 18:05:43,866 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 18:05:43,866 - Training loss of Net: 2.7958741188049316
+INFO - exp5.py - 2022-08-09 18:05:43,867 - Training loss of Teacher: 3.181699275970459
+INFO - exp5.py - 2022-08-09 18:05:43,867 - Run 18
+INFO - exp5.py - 2022-08-09 18:05:43,872 - Training Starting
+INFO - exp5.py - 2022-08-09 18:08:52,739 - Training Complete
+INFO - exp5.py - 2022-08-09 18:08:52,743 - Risk of Net: 0.41000741720199585
+INFO - exp5.py - 2022-08-09 18:08:52,743 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 18:08:52,744 - Training loss of Net: 2.5785129070281982
+INFO - exp5.py - 2022-08-09 18:08:52,745 - Training loss of Teacher: 3.0063464641571045
+INFO - exp5.py - 2022-08-09 18:08:52,745 - Run 19
+INFO - exp5.py - 2022-08-09 18:08:52,749 - Training Starting
+INFO - exp5.py - 2022-08-09 18:12:01,293 - Training Complete
+INFO - exp5.py - 2022-08-09 18:12:01,297 - Risk of Net: 0.336349755525589
+INFO - exp5.py - 2022-08-09 18:12:01,297 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 18:12:01,298 - Training loss of Net: 2.519657850265503
+INFO - exp5.py - 2022-08-09 18:12:01,299 - Training loss of Teacher: 2.8609554767608643
+INFO - exp5.py - 2022-08-09 18:12:01,299 - Current beta is 0.0007777777777777778
+INFO - exp5.py - 2022-08-09 18:12:01,299 - Dimension is 10
+INFO - exp5.py - 2022-08-09 18:12:01,300 - Run 0
+INFO - exp5.py - 2022-08-09 18:12:01,303 - Training Starting
+INFO - exp5.py - 2022-08-09 18:15:10,060 - Training Complete
+INFO - exp5.py - 2022-08-09 18:15:10,064 - Risk of Net: 0.3884255290031433
+INFO - exp5.py - 2022-08-09 18:15:10,065 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 18:15:10,065 - Training loss of Net: 2.517378807067871
+INFO - exp5.py - 2022-08-09 18:15:10,066 - Training loss of Teacher: 2.91066312789917
+INFO - exp5.py - 2022-08-09 18:15:10,066 - Run 1
+INFO - exp5.py - 2022-08-09 18:15:10,071 - Training Starting
+INFO - exp5.py - 2022-08-09 18:18:18,705 - Training Complete
+INFO - exp5.py - 2022-08-09 18:18:18,709 - Risk of Net: 0.30274587869644165
+INFO - exp5.py - 2022-08-09 18:18:18,710 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 18:18:18,710 - Training loss of Net: 2.7581591606140137
+INFO - exp5.py - 2022-08-09 18:18:18,711 - Training loss of Teacher: 3.081498146057129
+INFO - exp5.py - 2022-08-09 18:18:18,711 - Run 2
+INFO - exp5.py - 2022-08-09 18:18:18,716 - Training Starting
+INFO - exp5.py - 2022-08-09 18:21:27,977 - Training Complete
+INFO - exp5.py - 2022-08-09 18:21:28,016 - Risk of Net: 0.4071277678012848
+INFO - exp5.py - 2022-08-09 18:21:28,016 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 18:21:28,016 - Training loss of Net: 2.6842055320739746
+INFO - exp5.py - 2022-08-09 18:21:28,017 - Training loss of Teacher: 3.1052675247192383
+INFO - exp5.py - 2022-08-09 18:21:28,018 - Run 3
+INFO - exp5.py - 2022-08-09 18:21:28,022 - Training Starting
+INFO - exp5.py - 2022-08-09 18:24:36,523 - Training Complete
+INFO - exp5.py - 2022-08-09 18:24:36,533 - Risk of Net: 0.3707225024700165
+INFO - exp5.py - 2022-08-09 18:24:36,534 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 18:24:36,534 - Training loss of Net: 2.5964195728302
+INFO - exp5.py - 2022-08-09 18:24:36,535 - Training loss of Teacher: 2.9705893993377686
+INFO - exp5.py - 2022-08-09 18:24:36,535 - Run 4
+INFO - exp5.py - 2022-08-09 18:24:36,539 - Training Starting
+INFO - exp5.py - 2022-08-09 18:27:45,492 - Training Complete
+INFO - exp5.py - 2022-08-09 18:27:45,497 - Risk of Net: 0.38951706886291504
+INFO - exp5.py - 2022-08-09 18:27:45,497 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 18:27:45,497 - Training loss of Net: 2.6232144832611084
+INFO - exp5.py - 2022-08-09 18:27:45,498 - Training loss of Teacher: 3.032921552658081
+INFO - exp5.py - 2022-08-09 18:27:45,498 - Run 5
+INFO - exp5.py - 2022-08-09 18:27:45,503 - Training Starting
+INFO - exp5.py - 2022-08-09 18:30:54,287 - Training Complete
+INFO - exp5.py - 2022-08-09 18:30:54,305 - Risk of Net: 0.34707385301589966
+INFO - exp5.py - 2022-08-09 18:30:54,305 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 18:30:54,305 - Training loss of Net: 2.577660322189331
+INFO - exp5.py - 2022-08-09 18:30:54,306 - Training loss of Teacher: 2.948737621307373
+INFO - exp5.py - 2022-08-09 18:30:54,306 - Run 6
+INFO - exp5.py - 2022-08-09 18:30:54,309 - Training Starting
+INFO - exp5.py - 2022-08-09 18:34:03,136 - Training Complete
+INFO - exp5.py - 2022-08-09 18:34:03,146 - Risk of Net: 0.39440852403640747
+INFO - exp5.py - 2022-08-09 18:34:03,146 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 18:34:03,147 - Training loss of Net: 2.5043997764587402
+INFO - exp5.py - 2022-08-09 18:34:03,147 - Training loss of Teacher: 2.969728469848633
+INFO - exp5.py - 2022-08-09 18:34:03,148 - Run 7
+INFO - exp5.py - 2022-08-09 18:34:03,151 - Training Starting
+INFO - exp5.py - 2022-08-09 18:37:12,295 - Training Complete
+INFO - exp5.py - 2022-08-09 18:37:12,299 - Risk of Net: 0.3292456269264221
+INFO - exp5.py - 2022-08-09 18:37:12,300 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 18:37:12,300 - Training loss of Net: 2.579345464706421
+INFO - exp5.py - 2022-08-09 18:37:12,301 - Training loss of Teacher: 2.9872732162475586
+INFO - exp5.py - 2022-08-09 18:37:12,301 - Run 8
+INFO - exp5.py - 2022-08-09 18:37:12,304 - Training Starting
+INFO - exp5.py - 2022-08-09 18:40:21,168 - Training Complete
+INFO - exp5.py - 2022-08-09 18:40:21,174 - Risk of Net: 0.5180845260620117
+INFO - exp5.py - 2022-08-09 18:40:21,174 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 18:40:21,174 - Training loss of Net: 2.5402138233184814
+INFO - exp5.py - 2022-08-09 18:40:21,175 - Training loss of Teacher: 3.105790615081787
+INFO - exp5.py - 2022-08-09 18:40:21,175 - Run 9
+INFO - exp5.py - 2022-08-09 18:40:21,179 - Training Starting
+INFO - exp5.py - 2022-08-09 18:43:30,152 - Training Complete
+INFO - exp5.py - 2022-08-09 18:43:30,161 - Risk of Net: 0.3404639959335327
+INFO - exp5.py - 2022-08-09 18:43:30,161 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 18:43:30,161 - Training loss of Net: 2.5550975799560547
+INFO - exp5.py - 2022-08-09 18:43:30,162 - Training loss of Teacher: 2.972529649734497
+INFO - exp5.py - 2022-08-09 18:43:30,162 - Run 10
+INFO - exp5.py - 2022-08-09 18:43:30,167 - Training Starting
+INFO - exp5.py - 2022-08-09 18:46:39,288 - Training Complete
+INFO - exp5.py - 2022-08-09 18:46:39,304 - Risk of Net: 0.24631524085998535
+INFO - exp5.py - 2022-08-09 18:46:39,304 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 18:46:39,304 - Training loss of Net: 2.578040361404419
+INFO - exp5.py - 2022-08-09 18:46:39,305 - Training loss of Teacher: 2.909689426422119
+INFO - exp5.py - 2022-08-09 18:46:39,305 - Run 11
+INFO - exp5.py - 2022-08-09 18:46:39,308 - Training Starting
+INFO - exp5.py - 2022-08-09 18:49:47,921 - Training Complete
+INFO - exp5.py - 2022-08-09 18:49:47,938 - Risk of Net: 0.34085920453071594
+INFO - exp5.py - 2022-08-09 18:49:47,938 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 18:49:47,938 - Training loss of Net: 2.632441282272339
+INFO - exp5.py - 2022-08-09 18:49:47,939 - Training loss of Teacher: 3.019563913345337
+INFO - exp5.py - 2022-08-09 18:49:47,939 - Run 12
+INFO - exp5.py - 2022-08-09 18:49:47,942 - Training Starting
+INFO - exp5.py - 2022-08-09 18:52:56,549 - Training Complete
+INFO - exp5.py - 2022-08-09 18:52:56,554 - Risk of Net: 0.31956467032432556
+INFO - exp5.py - 2022-08-09 18:52:56,554 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 18:52:56,555 - Training loss of Net: 2.5803771018981934
+INFO - exp5.py - 2022-08-09 18:52:56,555 - Training loss of Teacher: 2.930666446685791
+INFO - exp5.py - 2022-08-09 18:52:56,556 - Run 13
+INFO - exp5.py - 2022-08-09 18:52:56,560 - Training Starting
+INFO - exp5.py - 2022-08-09 18:56:05,840 - Training Complete
+INFO - exp5.py - 2022-08-09 18:56:05,845 - Risk of Net: 0.3414931297302246
+INFO - exp5.py - 2022-08-09 18:56:05,845 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 18:56:05,845 - Training loss of Net: 2.560901403427124
+INFO - exp5.py - 2022-08-09 18:56:05,846 - Training loss of Teacher: 2.932668685913086
+INFO - exp5.py - 2022-08-09 18:56:05,846 - Run 14
+INFO - exp5.py - 2022-08-09 18:56:05,851 - Training Starting
+INFO - exp5.py - 2022-08-09 18:59:15,200 - Training Complete
+INFO - exp5.py - 2022-08-09 18:59:15,204 - Risk of Net: 0.34006842970848083
+INFO - exp5.py - 2022-08-09 18:59:15,204 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 18:59:15,205 - Training loss of Net: 2.7234315872192383
+INFO - exp5.py - 2022-08-09 18:59:15,205 - Training loss of Teacher: 3.061913013458252
+INFO - exp5.py - 2022-08-09 18:59:15,206 - Run 15
+INFO - exp5.py - 2022-08-09 18:59:15,209 - Training Starting
+INFO - exp5.py - 2022-08-09 19:02:24,171 - Training Complete
+INFO - exp5.py - 2022-08-09 19:02:24,176 - Risk of Net: 0.3624936640262604
+INFO - exp5.py - 2022-08-09 19:02:24,176 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 19:02:24,176 - Training loss of Net: 2.7213518619537354
+INFO - exp5.py - 2022-08-09 19:02:24,177 - Training loss of Teacher: 3.121832847595215
+INFO - exp5.py - 2022-08-09 19:02:24,177 - Run 16
+INFO - exp5.py - 2022-08-09 19:02:24,182 - Training Starting
+INFO - exp5.py - 2022-08-09 19:05:33,358 - Training Complete
+INFO - exp5.py - 2022-08-09 19:05:33,363 - Risk of Net: 0.3694349527359009
+INFO - exp5.py - 2022-08-09 19:05:33,363 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 19:05:33,363 - Training loss of Net: 2.653191089630127
+INFO - exp5.py - 2022-08-09 19:05:33,364 - Training loss of Teacher: 3.037067413330078
+INFO - exp5.py - 2022-08-09 19:05:33,364 - Run 17
+INFO - exp5.py - 2022-08-09 19:05:33,367 - Training Starting
+INFO - exp5.py - 2022-08-09 19:08:42,207 - Training Complete
+INFO - exp5.py - 2022-08-09 19:08:42,211 - Risk of Net: 0.3583256006240845
+INFO - exp5.py - 2022-08-09 19:08:42,211 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 19:08:42,211 - Training loss of Net: 2.490760326385498
+INFO - exp5.py - 2022-08-09 19:08:42,212 - Training loss of Teacher: 2.890535831451416
+INFO - exp5.py - 2022-08-09 19:08:42,212 - Run 18
+INFO - exp5.py - 2022-08-09 19:08:42,215 - Training Starting
+INFO - exp5.py - 2022-08-09 19:11:51,020 - Training Complete
+INFO - exp5.py - 2022-08-09 19:11:51,024 - Risk of Net: 0.4148407578468323
+INFO - exp5.py - 2022-08-09 19:11:51,024 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 19:11:51,025 - Training loss of Net: 2.6002161502838135
+INFO - exp5.py - 2022-08-09 19:11:51,025 - Training loss of Teacher: 3.0522942543029785
+INFO - exp5.py - 2022-08-09 19:11:51,026 - Run 19
+INFO - exp5.py - 2022-08-09 19:11:51,031 - Training Starting
+INFO - exp5.py - 2022-08-09 19:15:00,241 - Training Complete
+INFO - exp5.py - 2022-08-09 19:15:00,245 - Risk of Net: 0.33423542976379395
+INFO - exp5.py - 2022-08-09 19:15:00,245 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 19:15:00,245 - Training loss of Net: 2.7117104530334473
+INFO - exp5.py - 2022-08-09 19:15:00,246 - Training loss of Teacher: 3.096616744995117
+INFO - exp5.py - 2022-08-09 19:15:00,246 - Current beta is 0.0008888888888888889
+INFO - exp5.py - 2022-08-09 19:15:00,246 - Dimension is 10
+INFO - exp5.py - 2022-08-09 19:15:00,247 - Run 0
+INFO - exp5.py - 2022-08-09 19:15:00,251 - Training Starting
+INFO - exp5.py - 2022-08-09 19:18:08,996 - Training Complete
+INFO - exp5.py - 2022-08-09 19:18:09,007 - Risk of Net: 0.4070875644683838
+INFO - exp5.py - 2022-08-09 19:18:09,008 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 19:18:09,008 - Training loss of Net: 2.5635077953338623
+INFO - exp5.py - 2022-08-09 19:18:09,009 - Training loss of Teacher: 3.020418405532837
+INFO - exp5.py - 2022-08-09 19:18:09,009 - Run 1
+INFO - exp5.py - 2022-08-09 19:18:09,013 - Training Starting
+INFO - exp5.py - 2022-08-09 19:21:17,909 - Training Complete
+INFO - exp5.py - 2022-08-09 19:21:17,920 - Risk of Net: 0.3981838822364807
+INFO - exp5.py - 2022-08-09 19:21:17,920 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 19:21:17,921 - Training loss of Net: 2.762131690979004
+INFO - exp5.py - 2022-08-09 19:21:17,921 - Training loss of Teacher: 3.224576473236084
+INFO - exp5.py - 2022-08-09 19:21:17,922 - Run 2
+INFO - exp5.py - 2022-08-09 19:21:17,926 - Training Starting
+INFO - exp5.py - 2022-08-09 19:24:26,616 - Training Complete
+INFO - exp5.py - 2022-08-09 19:24:26,623 - Risk of Net: 0.3217478394508362
+INFO - exp5.py - 2022-08-09 19:24:26,623 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 19:24:26,624 - Training loss of Net: 2.6809017658233643
+INFO - exp5.py - 2022-08-09 19:24:26,624 - Training loss of Teacher: 3.0520291328430176
+INFO - exp5.py - 2022-08-09 19:24:26,625 - Run 3
+INFO - exp5.py - 2022-08-09 19:24:26,629 - Training Starting
+INFO - exp5.py - 2022-08-09 19:27:35,865 - Training Complete
+INFO - exp5.py - 2022-08-09 19:27:35,868 - Risk of Net: 0.33681508898735046
+INFO - exp5.py - 2022-08-09 19:27:35,868 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 19:27:35,868 - Training loss of Net: 2.3973565101623535
+INFO - exp5.py - 2022-08-09 19:27:35,869 - Training loss of Teacher: 2.7996826171875
+INFO - exp5.py - 2022-08-09 19:27:35,869 - Run 4
+INFO - exp5.py - 2022-08-09 19:27:35,871 - Training Starting
+INFO - exp5.py - 2022-08-09 19:30:44,738 - Training Complete
+INFO - exp5.py - 2022-08-09 19:30:44,751 - Risk of Net: 0.2912083864212036
+INFO - exp5.py - 2022-08-09 19:30:44,751 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 19:30:44,751 - Training loss of Net: 2.689455986022949
+INFO - exp5.py - 2022-08-09 19:30:44,752 - Training loss of Teacher: 2.9804701805114746
+INFO - exp5.py - 2022-08-09 19:30:44,752 - Run 5
+INFO - exp5.py - 2022-08-09 19:30:44,756 - Training Starting
+INFO - exp5.py - 2022-08-09 19:33:52,302 - Training Complete
+INFO - exp5.py - 2022-08-09 19:33:52,306 - Risk of Net: 0.45535993576049805
+INFO - exp5.py - 2022-08-09 19:33:52,307 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 19:33:52,307 - Training loss of Net: 2.7219090461730957
+INFO - exp5.py - 2022-08-09 19:33:52,308 - Training loss of Teacher: 3.19038462638855
+INFO - exp5.py - 2022-08-09 19:33:52,308 - Run 6
+INFO - exp5.py - 2022-08-09 19:33:52,312 - Training Starting
+INFO - exp5.py - 2022-08-09 19:37:00,153 - Training Complete
+INFO - exp5.py - 2022-08-09 19:37:00,159 - Risk of Net: 0.33009618520736694
+INFO - exp5.py - 2022-08-09 19:37:00,160 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 19:37:00,160 - Training loss of Net: 2.452327013015747
+INFO - exp5.py - 2022-08-09 19:37:00,161 - Training loss of Teacher: 2.7887508869171143
+INFO - exp5.py - 2022-08-09 19:37:00,161 - Run 7
+INFO - exp5.py - 2022-08-09 19:37:00,165 - Training Starting
+INFO - exp5.py - 2022-08-09 19:40:07,927 - Training Complete
+INFO - exp5.py - 2022-08-09 19:40:07,931 - Risk of Net: 0.3619559705257416
+INFO - exp5.py - 2022-08-09 19:40:07,931 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 19:40:07,932 - Training loss of Net: 2.763038396835327
+INFO - exp5.py - 2022-08-09 19:40:07,932 - Training loss of Teacher: 3.2225759029388428
+INFO - exp5.py - 2022-08-09 19:40:07,932 - Run 8
+INFO - exp5.py - 2022-08-09 19:40:07,936 - Training Starting
+INFO - exp5.py - 2022-08-09 19:43:15,451 - Training Complete
+INFO - exp5.py - 2022-08-09 19:43:15,464 - Risk of Net: 0.3774600625038147
+INFO - exp5.py - 2022-08-09 19:43:15,465 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 19:43:15,465 - Training loss of Net: 2.476112127304077
+INFO - exp5.py - 2022-08-09 19:43:15,465 - Training loss of Teacher: 2.8968825340270996
+INFO - exp5.py - 2022-08-09 19:43:15,466 - Run 9
+INFO - exp5.py - 2022-08-09 19:43:15,469 - Training Starting
+INFO - exp5.py - 2022-08-09 19:46:24,258 - Training Complete
+INFO - exp5.py - 2022-08-09 19:46:24,265 - Risk of Net: 0.42521631717681885
+INFO - exp5.py - 2022-08-09 19:46:24,265 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 19:46:24,265 - Training loss of Net: 2.5058481693267822
+INFO - exp5.py - 2022-08-09 19:46:24,266 - Training loss of Teacher: 2.9820361137390137
+INFO - exp5.py - 2022-08-09 19:46:24,266 - Run 10
+INFO - exp5.py - 2022-08-09 19:46:24,271 - Training Starting
+INFO - exp5.py - 2022-08-09 19:49:31,744 - Training Complete
+INFO - exp5.py - 2022-08-09 19:49:31,752 - Risk of Net: 0.4280981719493866
+INFO - exp5.py - 2022-08-09 19:49:31,752 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 19:49:31,752 - Training loss of Net: 2.682119369506836
+INFO - exp5.py - 2022-08-09 19:49:31,753 - Training loss of Teacher: 3.151695728302002
+INFO - exp5.py - 2022-08-09 19:49:31,753 - Run 11
+INFO - exp5.py - 2022-08-09 19:49:31,757 - Training Starting
+INFO - exp5.py - 2022-08-09 19:52:39,861 - Training Complete
+INFO - exp5.py - 2022-08-09 19:52:39,872 - Risk of Net: 0.31506338715553284
+INFO - exp5.py - 2022-08-09 19:52:39,873 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 19:52:39,873 - Training loss of Net: 2.4691452980041504
+INFO - exp5.py - 2022-08-09 19:52:39,874 - Training loss of Teacher: 2.803232192993164
+INFO - exp5.py - 2022-08-09 19:52:39,874 - Run 12
+INFO - exp5.py - 2022-08-09 19:52:39,877 - Training Starting
+INFO - exp5.py - 2022-08-09 19:55:47,929 - Training Complete
+INFO - exp5.py - 2022-08-09 19:55:47,942 - Risk of Net: 0.3728426694869995
+INFO - exp5.py - 2022-08-09 19:55:47,942 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 19:55:47,943 - Training loss of Net: 2.66015625
+INFO - exp5.py - 2022-08-09 19:55:47,943 - Training loss of Teacher: 3.0870590209960938
+INFO - exp5.py - 2022-08-09 19:55:47,944 - Run 13
+INFO - exp5.py - 2022-08-09 19:55:47,947 - Training Starting
+INFO - exp5.py - 2022-08-09 19:58:56,289 - Training Complete
+INFO - exp5.py - 2022-08-09 19:58:56,296 - Risk of Net: 0.3457823395729065
+INFO - exp5.py - 2022-08-09 19:58:56,296 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 19:58:56,296 - Training loss of Net: 2.4949800968170166
+INFO - exp5.py - 2022-08-09 19:58:56,297 - Training loss of Teacher: 2.883666515350342
+INFO - exp5.py - 2022-08-09 19:58:56,297 - Run 14
+INFO - exp5.py - 2022-08-09 19:58:56,301 - Training Starting
+INFO - exp5.py - 2022-08-09 20:02:04,236 - Training Complete
+INFO - exp5.py - 2022-08-09 20:02:04,247 - Risk of Net: 0.332535058259964
+INFO - exp5.py - 2022-08-09 20:02:04,247 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 20:02:04,247 - Training loss of Net: 2.74595046043396
+INFO - exp5.py - 2022-08-09 20:02:04,248 - Training loss of Teacher: 3.109978199005127
+INFO - exp5.py - 2022-08-09 20:02:04,248 - Run 15
+INFO - exp5.py - 2022-08-09 20:02:04,251 - Training Starting
+INFO - exp5.py - 2022-08-09 20:05:11,354 - Training Complete
+INFO - exp5.py - 2022-08-09 20:05:11,365 - Risk of Net: 0.35637974739074707
+INFO - exp5.py - 2022-08-09 20:05:11,366 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 20:05:11,366 - Training loss of Net: 2.515122413635254
+INFO - exp5.py - 2022-08-09 20:05:11,367 - Training loss of Teacher: 2.89157772064209
+INFO - exp5.py - 2022-08-09 20:05:11,367 - Run 16
+INFO - exp5.py - 2022-08-09 20:05:11,371 - Training Starting
+INFO - exp5.py - 2022-08-09 20:08:18,112 - Training Complete
+INFO - exp5.py - 2022-08-09 20:08:18,129 - Risk of Net: 0.44401970505714417
+INFO - exp5.py - 2022-08-09 20:08:18,129 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 20:08:18,129 - Training loss of Net: 2.6229774951934814
+INFO - exp5.py - 2022-08-09 20:08:18,130 - Training loss of Teacher: 3.095766067504883
+INFO - exp5.py - 2022-08-09 20:08:18,130 - Run 17
+INFO - exp5.py - 2022-08-09 20:08:18,133 - Training Starting
+INFO - exp5.py - 2022-08-09 20:11:24,836 - Training Complete
+INFO - exp5.py - 2022-08-09 20:11:24,844 - Risk of Net: 0.3689659535884857
+INFO - exp5.py - 2022-08-09 20:11:24,844 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 20:11:24,844 - Training loss of Net: 2.506371259689331
+INFO - exp5.py - 2022-08-09 20:11:24,845 - Training loss of Teacher: 2.9168331623077393
+INFO - exp5.py - 2022-08-09 20:11:24,845 - Run 18
+INFO - exp5.py - 2022-08-09 20:11:24,849 - Training Starting
+INFO - exp5.py - 2022-08-09 20:14:31,964 - Training Complete
+INFO - exp5.py - 2022-08-09 20:14:31,968 - Risk of Net: 0.4493924677371979
+INFO - exp5.py - 2022-08-09 20:14:31,968 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 20:14:31,969 - Training loss of Net: 2.4209251403808594
+INFO - exp5.py - 2022-08-09 20:14:31,970 - Training loss of Teacher: 2.876939296722412
+INFO - exp5.py - 2022-08-09 20:14:31,970 - Run 19
+INFO - exp5.py - 2022-08-09 20:14:31,974 - Training Starting
+INFO - exp5.py - 2022-08-09 20:17:38,934 - Training Complete
+INFO - exp5.py - 2022-08-09 20:17:38,947 - Risk of Net: 0.4741368889808655
+INFO - exp5.py - 2022-08-09 20:17:38,948 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 20:17:38,948 - Training loss of Net: 2.9968578815460205
+INFO - exp5.py - 2022-08-09 20:17:38,949 - Training loss of Teacher: 3.4528145790100098
+INFO - exp5.py - 2022-08-09 20:17:38,949 - Current beta is 0.001
+INFO - exp5.py - 2022-08-09 20:17:38,949 - Dimension is 10
+INFO - exp5.py - 2022-08-09 20:17:38,949 - Run 0
+INFO - exp5.py - 2022-08-09 20:17:38,953 - Training Starting
+INFO - exp5.py - 2022-08-09 20:20:46,012 - Training Complete
+INFO - exp5.py - 2022-08-09 20:20:46,026 - Risk of Net: 0.2986281216144562
+INFO - exp5.py - 2022-08-09 20:20:46,026 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 20:20:46,026 - Training loss of Net: 2.4192967414855957
+INFO - exp5.py - 2022-08-09 20:20:46,027 - Training loss of Teacher: 2.742988109588623
+INFO - exp5.py - 2022-08-09 20:20:46,027 - Run 1
+INFO - exp5.py - 2022-08-09 20:20:46,030 - Training Starting
+INFO - exp5.py - 2022-08-09 20:23:52,683 - Training Complete
+INFO - exp5.py - 2022-08-09 20:23:52,688 - Risk of Net: 0.4975259006023407
+INFO - exp5.py - 2022-08-09 20:23:52,689 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 20:23:52,689 - Training loss of Net: 2.6451776027679443
+INFO - exp5.py - 2022-08-09 20:23:52,690 - Training loss of Teacher: 3.1369435787200928
+INFO - exp5.py - 2022-08-09 20:23:52,690 - Run 2
+INFO - exp5.py - 2022-08-09 20:23:52,694 - Training Starting
+INFO - exp5.py - 2022-08-09 20:27:00,225 - Training Complete
+INFO - exp5.py - 2022-08-09 20:27:00,233 - Risk of Net: 0.29592984914779663
+INFO - exp5.py - 2022-08-09 20:27:00,233 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 20:27:00,233 - Training loss of Net: 2.521773338317871
+INFO - exp5.py - 2022-08-09 20:27:00,234 - Training loss of Teacher: 2.8551952838897705
+INFO - exp5.py - 2022-08-09 20:27:00,234 - Run 3
+INFO - exp5.py - 2022-08-09 20:27:00,238 - Training Starting
+INFO - exp5.py - 2022-08-09 20:30:06,704 - Training Complete
+INFO - exp5.py - 2022-08-09 20:30:06,714 - Risk of Net: 0.2931218445301056
+INFO - exp5.py - 2022-08-09 20:30:06,714 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 20:30:06,714 - Training loss of Net: 2.700690507888794
+INFO - exp5.py - 2022-08-09 20:30:06,715 - Training loss of Teacher: 3.027944326400757
+INFO - exp5.py - 2022-08-09 20:30:06,715 - Run 4
+INFO - exp5.py - 2022-08-09 20:30:06,719 - Training Starting
+INFO - exp5.py - 2022-08-09 20:33:13,923 - Training Complete
+INFO - exp5.py - 2022-08-09 20:33:13,934 - Risk of Net: 0.37973329424858093
+INFO - exp5.py - 2022-08-09 20:33:13,935 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 20:33:13,935 - Training loss of Net: 2.654949903488159
+INFO - exp5.py - 2022-08-09 20:33:13,935 - Training loss of Teacher: 3.006593942642212
+INFO - exp5.py - 2022-08-09 20:33:13,936 - Run 5
+INFO - exp5.py - 2022-08-09 20:33:13,939 - Training Starting
+INFO - exp5.py - 2022-08-09 20:36:20,339 - Training Complete
+INFO - exp5.py - 2022-08-09 20:36:20,344 - Risk of Net: 0.2821575105190277
+INFO - exp5.py - 2022-08-09 20:36:20,344 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 20:36:20,345 - Training loss of Net: 2.4736075401306152
+INFO - exp5.py - 2022-08-09 20:36:20,345 - Training loss of Teacher: 2.808861494064331
+INFO - exp5.py - 2022-08-09 20:36:20,346 - Run 6
+INFO - exp5.py - 2022-08-09 20:36:20,349 - Training Starting
+INFO - exp5.py - 2022-08-09 20:39:27,240 - Training Complete
+INFO - exp5.py - 2022-08-09 20:39:27,244 - Risk of Net: 0.39841291308403015
+INFO - exp5.py - 2022-08-09 20:39:27,245 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 20:39:27,245 - Training loss of Net: 2.6935813426971436
+INFO - exp5.py - 2022-08-09 20:39:27,246 - Training loss of Teacher: 3.116279363632202
+INFO - exp5.py - 2022-08-09 20:39:27,246 - Run 7
+INFO - exp5.py - 2022-08-09 20:39:27,250 - Training Starting
+INFO - exp5.py - 2022-08-09 20:42:34,264 - Training Complete
+INFO - exp5.py - 2022-08-09 20:42:34,268 - Risk of Net: 0.30414265394210815
+INFO - exp5.py - 2022-08-09 20:42:34,268 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 20:42:34,268 - Training loss of Net: 2.6146106719970703
+INFO - exp5.py - 2022-08-09 20:42:34,269 - Training loss of Teacher: 2.9619393348693848
+INFO - exp5.py - 2022-08-09 20:42:34,269 - Run 8
+INFO - exp5.py - 2022-08-09 20:42:34,273 - Training Starting
+INFO - exp5.py - 2022-08-09 20:45:41,475 - Training Complete
+INFO - exp5.py - 2022-08-09 20:45:41,479 - Risk of Net: 0.351563036441803
+INFO - exp5.py - 2022-08-09 20:45:41,479 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 20:45:41,479 - Training loss of Net: 2.5480265617370605
+INFO - exp5.py - 2022-08-09 20:45:41,480 - Training loss of Teacher: 2.9257473945617676
+INFO - exp5.py - 2022-08-09 20:45:41,480 - Run 9
+INFO - exp5.py - 2022-08-09 20:45:41,484 - Training Starting
+INFO - exp5.py - 2022-08-09 20:48:48,328 - Training Complete
+INFO - exp5.py - 2022-08-09 20:48:48,346 - Risk of Net: 0.28754279017448425
+INFO - exp5.py - 2022-08-09 20:48:48,346 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 20:48:48,346 - Training loss of Net: 2.5809710025787354
+INFO - exp5.py - 2022-08-09 20:48:48,347 - Training loss of Teacher: 2.8718552589416504
+INFO - exp5.py - 2022-08-09 20:48:48,347 - Run 10
+INFO - exp5.py - 2022-08-09 20:48:48,350 - Training Starting
+INFO - exp5.py - 2022-08-09 20:51:55,344 - Training Complete
+INFO - exp5.py - 2022-08-09 20:51:55,351 - Risk of Net: 0.36120864748954773
+INFO - exp5.py - 2022-08-09 20:51:55,351 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 20:51:55,351 - Training loss of Net: 2.6153125762939453
+INFO - exp5.py - 2022-08-09 20:51:55,352 - Training loss of Teacher: 2.992710590362549
+INFO - exp5.py - 2022-08-09 20:51:55,352 - Run 11
+INFO - exp5.py - 2022-08-09 20:51:55,356 - Training Starting
+INFO - exp5.py - 2022-08-09 20:55:02,413 - Training Complete
+INFO - exp5.py - 2022-08-09 20:55:02,423 - Risk of Net: 0.3587246537208557
+INFO - exp5.py - 2022-08-09 20:55:02,423 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 20:55:02,423 - Training loss of Net: 2.5292840003967285
+INFO - exp5.py - 2022-08-09 20:55:02,424 - Training loss of Teacher: 2.9377875328063965
+INFO - exp5.py - 2022-08-09 20:55:02,424 - Run 12
+INFO - exp5.py - 2022-08-09 20:55:02,428 - Training Starting
+INFO - exp5.py - 2022-08-09 20:58:09,383 - Training Complete
+INFO - exp5.py - 2022-08-09 20:58:09,394 - Risk of Net: 0.44033733010292053
+INFO - exp5.py - 2022-08-09 20:58:09,394 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 20:58:09,394 - Training loss of Net: 2.5426712036132812
+INFO - exp5.py - 2022-08-09 20:58:09,395 - Training loss of Teacher: 3.0196805000305176
+INFO - exp5.py - 2022-08-09 20:58:09,395 - Run 13
+INFO - exp5.py - 2022-08-09 20:58:09,399 - Training Starting
+INFO - exp5.py - 2022-08-09 21:01:16,283 - Training Complete
+INFO - exp5.py - 2022-08-09 21:01:16,287 - Risk of Net: 0.4082282781600952
+INFO - exp5.py - 2022-08-09 21:01:16,288 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 21:01:16,288 - Training loss of Net: 2.5352935791015625
+INFO - exp5.py - 2022-08-09 21:01:16,288 - Training loss of Teacher: 2.992159366607666
+INFO - exp5.py - 2022-08-09 21:01:16,289 - Run 14
+INFO - exp5.py - 2022-08-09 21:01:16,292 - Training Starting
+INFO - exp5.py - 2022-08-09 21:04:22,982 - Training Complete
+INFO - exp5.py - 2022-08-09 21:04:22,988 - Risk of Net: 0.47020089626312256
+INFO - exp5.py - 2022-08-09 21:04:22,988 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 21:04:22,988 - Training loss of Net: 2.645749092102051
+INFO - exp5.py - 2022-08-09 21:04:22,989 - Training loss of Teacher: 3.135812520980835
+INFO - exp5.py - 2022-08-09 21:04:22,989 - Run 15
+INFO - exp5.py - 2022-08-09 21:04:22,993 - Training Starting
+INFO - exp5.py - 2022-08-09 21:07:30,398 - Training Complete
+INFO - exp5.py - 2022-08-09 21:07:30,403 - Risk of Net: 0.3689024746417999
+INFO - exp5.py - 2022-08-09 21:07:30,403 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 21:07:30,403 - Training loss of Net: 2.5052413940429688
+INFO - exp5.py - 2022-08-09 21:07:30,404 - Training loss of Teacher: 2.9162774085998535
+INFO - exp5.py - 2022-08-09 21:07:30,404 - Run 16
+INFO - exp5.py - 2022-08-09 21:07:30,408 - Training Starting
+INFO - exp5.py - 2022-08-09 21:10:37,395 - Training Complete
+INFO - exp5.py - 2022-08-09 21:10:37,405 - Risk of Net: 0.27966341376304626
+INFO - exp5.py - 2022-08-09 21:10:37,406 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 21:10:37,406 - Training loss of Net: 2.533621311187744
+INFO - exp5.py - 2022-08-09 21:10:37,407 - Training loss of Teacher: 2.897794246673584
+INFO - exp5.py - 2022-08-09 21:10:37,407 - Run 17
+INFO - exp5.py - 2022-08-09 21:10:37,411 - Training Starting
+INFO - exp5.py - 2022-08-09 21:13:44,517 - Training Complete
+INFO - exp5.py - 2022-08-09 21:13:44,527 - Risk of Net: 0.38041186332702637
+INFO - exp5.py - 2022-08-09 21:13:44,527 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 21:13:44,527 - Training loss of Net: 2.6595311164855957
+INFO - exp5.py - 2022-08-09 21:13:44,528 - Training loss of Teacher: 3.1307363510131836
+INFO - exp5.py - 2022-08-09 21:13:44,528 - Run 18
+INFO - exp5.py - 2022-08-09 21:13:44,532 - Training Starting
+INFO - exp5.py - 2022-08-09 21:16:51,480 - Training Complete
+INFO - exp5.py - 2022-08-09 21:16:51,486 - Risk of Net: 0.4232305586338043
+INFO - exp5.py - 2022-08-09 21:16:51,486 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 21:16:51,486 - Training loss of Net: 2.711822032928467
+INFO - exp5.py - 2022-08-09 21:16:51,487 - Training loss of Teacher: 3.1416988372802734
+INFO - exp5.py - 2022-08-09 21:16:51,487 - Run 19
+INFO - exp5.py - 2022-08-09 21:16:51,492 - Training Starting
+INFO - exp5.py - 2022-08-09 21:19:58,228 - Training Complete
+INFO - exp5.py - 2022-08-09 21:19:58,235 - Risk of Net: 0.3542274832725525
+INFO - exp5.py - 2022-08-09 21:19:58,235 - Risk of Teacher: 0.0
+INFO - exp5.py - 2022-08-09 21:19:58,235 - Training loss of Net: 2.6584696769714355
+INFO - exp5.py - 2022-08-09 21:19:58,236 - Training loss of Teacher: 3.07129168510437
