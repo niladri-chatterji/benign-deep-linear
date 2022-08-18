@@ -13,7 +13,7 @@ from ..model import ReLUNet
 
 def exp3(args, config):
         '''
-        Experiment that compares the norm different between Theta and Theta_OLS and calculates the excess risk. Sweep over different init scales alpha while dimension is kept fixed
+        Experiment that calculates the excess risk of deep ReLU networks. Sweep over different init scales alpha while dimension is kept fixed
         '''
         logging.info('Starting the experiment')
         logging.info('Loading Parameters')
