@@ -19,96 +19,36 @@
 The commandline scripts below will launch experiments in the paper.
 
 
-### Figure 1
-
-Run `notebooks/two-gaussians.ipynb`
-
-### Figure 2 (Importance Weighted Cross-Entropy Loss and VS Loss)
+### Figure 1 (Scaling the initialization variance in deep linear networks)
 
 
 ```bash
-# Importance Weighted Cross-Entropy Loss Minority Samples Sweep
-python run.py +experiment=cifar_reweighted_early_stopped_scaling trainer.max_epochs=800 datamodule.class_samples=[2500,500]
-python run.py +experiment=cifar_reweighted_early_stopped_scaling trainer.max_epochs=800 datamodule.class_samples=[2500,1000]
-python run.py +experiment=cifar_reweighted_early_stopped_scaling trainer.max_epochs=800 datamodule.class_samples=[2500,1500]
-python run.py +experiment=cifar_reweighted_early_stopped_scaling trainer.max_epochs=800 datamodule.class_samples=[2500,2000]
+# Sweep over initialization scale of first layer weights alpha for different values of input dimension
+python run.py --config "exp2.yaml" --doc "exp_2_dimension_500" --exp2=True --dimension=500
+python run.py --config "exp2.yaml" --doc "exp_2_dimension_500" --exp2=True --dimension=1000
+python run.py --config "exp2.yaml" --doc "exp_2_dimension_500" --exp2=True --dimension=2000
 
-# Importance Weighted Cross-Entropy Loss Majority Samples Sweep
-python run.py +experiment=cifar_reweighted_early_stopped_scaling trainer.max_epochs=800 datamodule.class_samples=[3000,500]
-python run.py +experiment=cifar_reweighted_early_stopped_scaling trainer.max_epochs=800 datamodule.class_samples=[3500,500]
-python run.py +experiment=cifar_reweighted_early_stopped_scaling trainer.max_epochs=800 datamodule.class_samples=[4000,500]
-python run.py +experiment=cifar_reweighted_early_stopped_scaling trainer.max_epochs=800 datamodule.class_samples=[4500,500]
-
-# Importance Weighted Cross-Entropy Loss Propotional Increase Sweep
-python run.py +experiment=cifar_reweighted_early_stopped_scaling trainer.max_epochs=800 datamodule.class_samples=[3000,600]
-python run.py +experiment=cifar_reweighted_early_stopped_scaling trainer.max_epochs=800 datamodule.class_samples=[3500,700]
-python run.py +experiment=cifar_reweighted_early_stopped_scaling trainer.max_epochs=800 datamodule.class_samples=[4000,800]
-python run.py +experiment=cifar_reweighted_early_stopped_scaling trainer.max_epochs=800 datamodule.class_samples=[4500,900]
-python run.py +experiment=cifar_reweighted_early_stopped_scaling trainer.max_epochs=800 datamodule.class_samples=[5000,1000]
-
-# Importance Weighted VS Loss Minority Samples Sweep
-python run.py +experiment=cifar_reweighted_early_stopped_scaling_vsloss trainer.max_epochs=800 datamodule.class_samples=[2500,500]
-python run.py +experiment=cifar_reweighted_early_stopped_scaling_vsloss trainer.max_epochs=800 datamodule.class_samples=[2500,1000]
-python run.py +experiment=cifar_reweighted_early_stopped_scaling_vsloss trainer.max_epochs=800 datamodule.class_samples=[2500,1500]
-python run.py +experiment=cifar_reweighted_early_stopped_scaling_vsloss trainer.max_epochs=800 datamodule.class_samples=[2500,2000]
-
-# Importance Weighted VS Loss Majority Samples Sweep
-python run.py +experiment=cifar_reweighted_early_stopped_scaling_vsloss trainer.max_epochs=800 datamodule.class_samples=[3000,500]
-python run.py +experiment=cifar_reweighted_early_stopped_scaling_vsloss trainer.max_epochs=800 datamodule.class_samples=[3500,500]
-python run.py +experiment=cifar_reweighted_early_stopped_scaling_vsloss trainer.max_epochs=800 datamodule.class_samples=[4000,500]
-python run.py +experiment=cifar_reweighted_early_stopped_scaling_vsloss trainer.max_epochs=800 datamodule.class_samples=[4500,500]
-
-# Importance Weighted VS Loss Propotional Increase Sweep
-python run.py +experiment=cifar_reweighted_early_stopped_scaling_vsloss trainer.max_epochs=800 datamodule.class_samples=[3000,600]
-python run.py +experiment=cifar_reweighted_early_stopped_scaling_vsloss trainer.max_epochs=800 datamodule.class_samples=[3500,700]
-python run.py +experiment=cifar_reweighted_early_stopped_scaling_vsloss trainer.max_epochs=800 datamodule.class_samples=[4000,800]
-python run.py +experiment=cifar_reweighted_early_stopped_scaling_vsloss trainer.max_epochs=800 datamodule.class_samples=[4500,900]
-python run.py +experiment=cifar_reweighted_early_stopped_scaling_vsloss trainer.max_epochs=800 datamodule.class_samples=[5000,1000]
+# Sweep over initialization scale of last layer weights beta for different values of input dimension
+python run.py --config "exp4.yaml" --doc "exp_4_dimension_500" --exp4=True --dimension=500
+python run.py --config "exp4.yaml" --doc "exp_4_dimension_500" --exp4=True --dimension=1000
+python run.py --config "exp4.yaml" --doc "exp_4_dimension_500" --exp4=True --dimension=2000
 ```
+### Figure 2 (Scaling the initialization variance in deep ReLU networks)
 
-### Figure 3 (Hat Function)
-
-Run `notebooks/two-gaussians.ipynb`
-
-
-### Figure 4 (Tilted loss and Group DRO)
 
 ```bash
-# Tilted Loss Minority Samples Sweep
-python run.py +experiment=cifar_scaling_minority_tiltedloss trainer.max_epochs=800 datamodule.class_samples=[2500,500]
-python run.py +experiment=cifar_scaling_minority_tiltedloss trainer.max_epochs=800 datamodule.class_samples=[2500,1000]
-python run.py +experiment=cifar_scaling_minority_tiltedloss trainer.max_epochs=800 datamodule.class_samples=[2500,1500]
-python run.py +experiment=cifar_scaling_minority_tiltedloss trainer.max_epochs=800 datamodule.class_samples=[2500,2000]
+# Sweep over initialization scale of first layer weights alpha
+python run.py --config "exp3.yaml" --doc "exp_3" --exp3=True
 
-# Tilted Loss Majority Samples Sweep
-python run.py +experiment=cifar_scaling_majority_tiltedloss trainer.max_epochs=800 datamodule.class_samples=[3000,500]
-python run.py +experiment=cifar_scaling_majority_tiltedloss trainer.max_epochs=800 datamodule.class_samples=[3500,500]
-python run.py +experiment=cifar_scaling_majority_tiltedloss trainer.max_epochs=800 datamodule.class_samples=[4000,500]
-python run.py +experiment=cifar_scaling_majority_tiltedloss trainer.max_epochs=800 datamodule.class_samples=[4500,500]
+# Sweep over initialization scale of last layer weights beta
+python run.py --config "exp5.yaml" --doc "exp_5" --exp5=True
+```
+### Figure 3 (Scaling the input dimension while holding the initialization scale fixed in deep linear networks)
 
-# Tilted Loss Propotional Increase Sweep
-python run.py +experiment=cifar_scaling_n_tiltedloss trainer.max_epochs=800 datamodule.class_samples=[3000,600]
-python run.py +experiment=cifar_scaling_n_tiltedloss trainer.max_epochs=800 datamodule.class_samples=[3500,700]
-python run.py +experiment=cifar_scaling_n_tiltedloss trainer.max_epochs=800 datamodule.class_samples=[4000,800]
-python run.py +experiment=cifar_scaling_n_tiltedloss trainer.max_epochs=800 datamodule.class_samples=[4500,900]
-python run.py +experiment=cifar_scaling_n_tiltedloss trainer.max_epochs=800 datamodule.class_samples=[5000,1000]
 
-# Group DRO Minority Samples Sweep
-python run.py +experiment=cifar_early_stopped_scaling_dro trainer.max_epochs=800 datamodule.class_samples=[2500,500]
-python run.py +experiment=cifar_early_stopped_scaling_dro trainer.max_epochs=800 datamodule.class_samples=[2500,1000]
-python run.py +experiment=cifar_early_stopped_scaling_dro trainer.max_epochs=800 datamodule.class_samples=[2500,1500]
-python run.py +experiment=cifar_early_stopped_scaling_dro trainer.max_epochs=800 datamodule.class_samples=[2500,2000]
-
-# Group DRO Majority Samples Sweep
-python run.py +experiment=cifar_early_stopped_scaling_dro trainer.max_epochs=800 datamodule.class_samples=[3000,500]
-python run.py +experiment=cifar_early_stopped_scaling_dro trainer.max_epochs=800 datamodule.class_samples=[3500,500]
-python run.py +experiment=cifar_early_stopped_scaling_dro trainer.max_epochs=800 datamodule.class_samples=[4000,500]
-python run.py +experiment=cifar_early_stopped_scaling_dro trainer.max_epochs=800 datamodule.class_samples=[4500,500]
-
-# Group DRO Propotional Increase Sweep
-python run.py +experiment=cifar_early_stopped_scaling_dro trainer.max_epochs=800 datamodule.class_samples=[3000,600]
-python run.py +experiment=cifar_early_stopped_scaling_dro trainer.max_epochs=800 datamodule.class_samples=[3500,700]
-python run.py +experiment=cifar_early_stopped_scaling_dro trainer.max_epochs=800 datamodule.class_samples=[4000,800]
-python run.py +experiment=cifar_early_stopped_scaling_dro trainer.max_epochs=800 datamodule.class_samples=[4500,900]
-python run.py +experiment=cifar_early_stopped_scaling_dro trainer.max_epochs=800 datamodule.class_samples=[5000,1000]
+```bash
+# Sweep over input dimension d
+python run.py --config "exp1.yaml" --doc "exp_1_alpha_0" --exp1=True --alpha=0.0
+python run.py --config "exp1.yaml" --doc "exp_1_alpha_0" --exp1=True --alpha=1e-4
+python run.py --config "exp1.yaml" --doc "exp_1_alpha_0" --exp1=True --alpha=1e-3
 ```
