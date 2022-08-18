@@ -6,7 +6,7 @@
 }
 ```
 
-- [Code](https://github.com/niladri-chatterji/Benign-Overfitting-in-Deep-Linear-Networks)
+- [Code](https://github.com/niladri-chatterji/Benign-Deep-Linear)
 - [arXiv](TBD)
 
 ## Setup instructions
