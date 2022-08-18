@@ -11,7 +11,8 @@
 
 ## Setup instructions
 
-Run `conda env create -f conda_env.yml`
+1. Run `conda env create -f conda_env.yml`
+2. Activate the conda environment by running `conda activate deeplinear`
 
 ## Reproducing experiments
 
