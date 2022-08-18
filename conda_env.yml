@@ -1,4 +1,4 @@
-name: iw
+name: deeplinear
 channels:
   - pytorch
   - conda-forge
