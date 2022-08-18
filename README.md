@@ -1,6 +1,6 @@
-# Benign-Overfitting-in-Deep-Linear-Networks
+# Benign Overfitting in Deep Linear Networks
 
-![Polynomially-tailed loss correcting for distribution shift](media/linear_intuition.jpg)
+![Excess Risk as the initialization variance is scaled](figures/scaling_alpha.png)
 ```
 @article{TBD
 }
