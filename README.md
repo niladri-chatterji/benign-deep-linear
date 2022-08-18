@@ -6,7 +6,7 @@
 }
 ```
 
-- [Code](https://github.com/niladri-chatterji/Benign-Deep-Linear)
+- [Code](https://github.com/niladri-chatterji/benign-deep-linear)
 - [arXiv](TBD)
 
 ## Setup instructions
