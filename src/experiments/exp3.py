@@ -121,14 +121,14 @@ def exp3(args, config):
                         risk_teacher = loss_net(X_test, Y_test, net_teacher)
                         training_loss = loss_net(X, Y, net)
                         
-                        #logging.info('Distance between net weights and OLS: {}'.format(distance))
+
                         logging.info('Risk of Net: {}'.format(risk))
                         logging.info('Risk of Teacher: {}'.format(risk_teacher))
                         logging.info('Training loss of Net: {}'.format(training_loss))
                         logging.info('Training loss of Teacher: {}'.format(loss_net(X,Y,net_teacher)))
                         
 
-                        #results[idx]["distance"].append(distance)
+
                         results[idx]["risk"].append(risk)
                         results[idx]["risk_teacher"].append(risk_teacher)
                         results[idx]["training_loss"].append(training_loss)
