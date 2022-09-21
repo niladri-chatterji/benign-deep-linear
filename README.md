@@ -4,11 +4,10 @@
 ```
 @article{
 chatterji2022benigndeep,
-title={Deep Linear Networks can Benignly Overfit when Shallow Ones Do},
+title={Deep linear networks can benignly overfit when shallow ones do},
 author={Niladri S. Chatterji and Philip M. Long},
 journal={arXiv preprint arXiv:2209.09315},
-year={2022},
-url={https://arxiv.org/abs/2209.09315}
+year={2022}
 }
 ```
 
