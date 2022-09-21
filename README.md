@@ -2,12 +2,18 @@
 
 ![Excess Risk as the initialization variance is scaled](figures/scaling_alpha.png)
 ```
-@article{TBD
+@article{
+chatterji2022benigndeep,
+title={Deep Linear Networks can Benignly Overfit when Shallow Ones Do},
+author={Niladri S. Chatterji and Philip M. Long},
+journal={arXiv preprint arXiv:2209.09315},
+year={2022},
+url={https://arxiv.org/abs/2209.09315}
 }
 ```
 
 - [Code](https://github.com/niladri-chatterji/benign-deep-linear)
-- [arXiv](TBD)
+- [arXiv](https://arxiv.org/abs/2209.09315)
 
 ## Setup instructions
 
